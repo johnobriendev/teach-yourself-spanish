@@ -1,0 +1,6002 @@
+[
+  {
+    "rank": 1,
+    "spanish": "de",
+    "pos": "prep",
+    "translation": "of"
+  },
+  {
+    "rank": 2,
+    "spanish": "ella",
+    "pos": "pron",
+    "translation": "she"
+  },
+  {
+    "rank": 3,
+    "spanish": "que",
+    "pos": "pron",
+    "translation": "that/which"
+  },
+  {
+    "rank": 4,
+    "spanish": "el",
+    "pos": "art",
+    "translation": "the"
+  },
+  {
+    "rank": 5,
+    "spanish": "ser",
+    "pos": "v",
+    "translation": "to be"
+  },
+  {
+    "rank": 6,
+    "spanish": "A",
+    "pos": "letter",
+    "translation": "letter A"
+  },
+  {
+    "rank": 7,
+    "spanish": "y",
+    "pos": "conj",
+    "translation": "and"
+  },
+  {
+    "rank": 8,
+    "spanish": "en",
+    "pos": "prep",
+    "translation": "in"
+  },
+  {
+    "rank": 9,
+    "spanish": "él",
+    "pos": "pron",
+    "translation": "he"
+  },
+  {
+    "rank": 10,
+    "spanish": "estar",
+    "pos": "v",
+    "translation": "to be (temporary)"
+  },
+  {
+    "rank": 11,
+    "spanish": "uno",
+    "pos": "num",
+    "translation": "one"
+  },
+  {
+    "rank": 12,
+    "spanish": "haber",
+    "pos": "v",
+    "translation": "to have"
+  },
+  {
+    "rank": 13,
+    "spanish": "yo",
+    "pos": "pron",
+    "translation": "I"
+  },
+  {
+    "rank": 14,
+    "spanish": "por",
+    "pos": "prep",
+    "translation": "for/by"
+  },
+  {
+    "rank": 15,
+    "spanish": "uno",
+    "pos": "determiner",
+    "translation": "a/an/one"
+  },
+  {
+    "rank": 16,
+    "spanish": "tener",
+    "pos": "v",
+    "translation": "to have"
+  },
+  {
+    "rank": 17,
+    "spanish": "se",
+    "pos": "pron",
+    "translation": "self/itself"
+  },
+  {
+    "rank": 18,
+    "spanish": "ir",
+    "pos": "v",
+    "translation": "to go"
+  },
+  {
+    "rank": 19,
+    "spanish": "tú",
+    "pos": "pron",
+    "translation": "you"
+  },
+  {
+    "rank": 20,
+    "spanish": "con",
+    "pos": "prep",
+    "translation": "with"
+  },
+  {
+    "rank": 21,
+    "spanish": "qué",
+    "pos": "pron",
+    "translation": "what"
+  },
+  {
+    "rank": 22,
+    "spanish": "suyo",
+    "pos": "determiner",
+    "translation": "his/her/their (own)"
+  },
+  {
+    "rank": 23,
+    "spanish": "hacer",
+    "pos": "v",
+    "translation": "to do/make"
+  },
+  {
+    "rank": 24,
+    "spanish": "poder",
+    "pos": "v",
+    "translation": "to be able to"
+  },
+  {
+    "rank": 25,
+    "spanish": "para",
+    "pos": "prep",
+    "translation": "for"
+  },
+  {
+    "rank": 26,
+    "spanish": "del",
+    "pos": "contraction",
+    "translation": "of the"
+  },
+  {
+    "rank": 27,
+    "spanish": "decir",
+    "pos": "v",
+    "translation": "to say"
+  },
+  {
+    "rank": 28,
+    "spanish": "este",
+    "pos": "determiner",
+    "translation": "this"
+  },
+  {
+    "rank": 29,
+    "spanish": "todo",
+    "pos": "determiner",
+    "translation": "all/every"
+  },
+  {
+    "rank": 30,
+    "spanish": "mío",
+    "pos": "determiner",
+    "translation": "my/mine"
+  },
+  {
+    "rank": 31,
+    "spanish": "pero",
+    "pos": "conj",
+    "translation": "but"
+  },
+  {
+    "rank": 32,
+    "spanish": "si",
+    "pos": "conj",
+    "translation": "if"
+  },
+  {
+    "rank": 33,
+    "spanish": "querer",
+    "pos": "v",
+    "translation": "to want/love"
+  },
+  {
+    "rank": 34,
+    "spanish": "al",
+    "pos": "contraction",
+    "translation": "to the"
+  },
+  {
+    "rank": 35,
+    "spanish": "sí",
+    "pos": "pron",
+    "translation": "yes/oneself"
+  },
+  {
+    "rank": 36,
+    "spanish": "como",
+    "pos": "conj",
+    "translation": "like/as"
+  },
+  {
+    "rank": 37,
+    "spanish": "ése",
+    "pos": "pron",
+    "translation": "that"
+  },
+  {
+    "rank": 38,
+    "spanish": "bien",
+    "pos": "adv",
+    "translation": "well"
+  },
+  {
+    "rank": 39,
+    "spanish": "más",
+    "pos": "adv",
+    "translation": "more"
+  },
+  {
+    "rank": 40,
+    "spanish": "ver",
+    "pos": "v",
+    "translation": "to see"
+  },
+  {
+    "rank": 41,
+    "spanish": "tuyo",
+    "pos": "determiner",
+    "translation": "your/yours"
+  },
+  {
+    "rank": 42,
+    "spanish": "saber",
+    "pos": "v",
+    "translation": "to know"
+  },
+  {
+    "rank": 43,
+    "spanish": "bueno",
+    "pos": "adj",
+    "translation": "good"
+  },
+  {
+    "rank": 44,
+    "spanish": "ese",
+    "pos": "determiner",
+    "translation": "that"
+  },
+  {
+    "rank": 45,
+    "spanish": "aquí",
+    "pos": "adv",
+    "translation": "here"
+  },
+  {
+    "rank": 46,
+    "spanish": "éste",
+    "pos": "pron",
+    "translation": "this"
+  },
+  {
+    "rank": 47,
+    "spanish": "nosotros",
+    "pos": "pron",
+    "translation": "we"
+  },
+  {
+    "rank": 48,
+    "spanish": "creer",
+    "pos": "v",
+    "translation": "to believe"
+  },
+  {
+    "rank": 49,
+    "spanish": "ya",
+    "pos": "adv",
+    "translation": "already"
+  },
+  {
+    "rank": 50,
+    "spanish": "o",
+    "pos": "conj",
+    "translation": "or"
+  },
+  {
+    "rank": 51,
+    "spanish": "dar",
+    "pos": "v",
+    "translation": "to give"
+  },
+  {
+    "rank": 52,
+    "spanish": "deber",
+    "pos": "v",
+    "translation": "must/should"
+  },
+  {
+    "rank": 53,
+    "spanish": "mucho",
+    "pos": "adv",
+    "translation": "very/much"
+  },
+  {
+    "rank": 54,
+    "spanish": "otro",
+    "pos": "determiner",
+    "translation": "other"
+  },
+  {
+    "rank": 55,
+    "spanish": "así",
+    "pos": "adv",
+    "translation": "like this/so"
+  },
+  {
+    "rank": 56,
+    "spanish": "ahora",
+    "pos": "adv",
+    "translation": "now"
+  },
+  {
+    "rank": 57,
+    "spanish": "vez",
+    "pos": "n",
+    "translation": "time/instance"
+  },
+  {
+    "rank": 58,
+    "spanish": "cuando",
+    "pos": "conj",
+    "translation": "when"
+  },
+  {
+    "rank": 59,
+    "spanish": "algo",
+    "pos": "pron",
+    "translation": "something"
+  },
+  {
+    "rank": 60,
+    "spanish": "dejar",
+    "pos": "v",
+    "translation": "to leave/let"
+  },
+  {
+    "rank": 61,
+    "spanish": "hablar",
+    "pos": "v",
+    "translation": "to speak"
+  },
+  {
+    "rank": 62,
+    "spanish": "pasar",
+    "pos": "v",
+    "translation": "to happen/pass"
+  },
+  {
+    "rank": 63,
+    "spanish": "mucho",
+    "pos": "determiner",
+    "translation": "many/a lot"
+  },
+  {
+    "rank": 64,
+    "spanish": "nada",
+    "pos": "pron",
+    "translation": "nothing"
+  },
+  {
+    "rank": 65,
+    "spanish": "cómo",
+    "pos": "adv",
+    "translation": "how"
+  },
+  {
+    "rank": 66,
+    "spanish": "solo",
+    "pos": "adv",
+    "translation": "only"
+  },
+  {
+    "rank": 67,
+    "spanish": "sentir",
+    "pos": "v",
+    "translation": "to feel"
+  },
+  {
+    "rank": 68,
+    "spanish": "pensar",
+    "pos": "v",
+    "translation": "to think"
+  },
+  {
+    "rank": 69,
+    "spanish": "porque",
+    "pos": "conj",
+    "translation": "because"
+  },
+  {
+    "rank": 70,
+    "spanish": "esperar",
+    "pos": "v",
+    "translation": "to hope"
+  },
+  {
+    "rank": 71,
+    "spanish": "usted",
+    "pos": "pron",
+    "translation": "you (formal)"
+  },
+  {
+    "rank": 72,
+    "spanish": "día",
+    "pos": "n",
+    "translation": "day"
+  },
+  {
+    "rank": 73,
+    "spanish": "año",
+    "pos": "n",
+    "translation": "year"
+  },
+  {
+    "rank": 74,
+    "spanish": "padre",
+    "pos": "n",
+    "translation": "father"
+  },
+  {
+    "rank": 75,
+    "spanish": "venir",
+    "pos": "v",
+    "translation": "to come"
+  },
+  {
+    "rank": 76,
+    "spanish": "nuestro",
+    "pos": "determiner",
+    "translation": "our"
+  },
+  {
+    "rank": 77,
+    "spanish": "gracias",
+    "pos": "n",
+    "translation": "thanks"
+  },
+  {
+    "rank": 78,
+    "spanish": "cosa",
+    "pos": "n",
+    "translation": "thing"
+  },
+  {
+    "rank": 79,
+    "spanish": "dos",
+    "pos": "num",
+    "translation": "two"
+  },
+  {
+    "rank": 80,
+    "spanish": "sin",
+    "pos": "prep",
+    "translation": "without"
+  },
+  {
+    "rank": 81,
+    "spanish": "sobre",
+    "pos": "prep",
+    "translation": "about/over"
+  },
+  {
+    "rank": 82,
+    "spanish": "solo",
+    "pos": "adj",
+    "translation": "alone"
+  },
+  {
+    "rank": 83,
+    "spanish": "alguno",
+    "pos": "determiner",
+    "translation": "some/any"
+  },
+  {
+    "rank": 84,
+    "spanish": "señor",
+    "pos": "n",
+    "translation": "Mr./sir"
+  },
+  {
+    "rank": 85,
+    "spanish": "mirar",
+    "pos": "v",
+    "translation": "to look"
+  },
+  {
+    "rank": 86,
+    "spanish": "hombre",
+    "pos": "n",
+    "translation": "man"
+  },
+  {
+    "rank": 87,
+    "spanish": "tiempo",
+    "pos": "n",
+    "translation": "time"
+  },
+  {
+    "rank": 88,
+    "spanish": "también",
+    "pos": "adv",
+    "translation": "also"
+  },
+  {
+    "rank": 89,
+    "spanish": "mismo",
+    "pos": "adj",
+    "translation": "same"
+  },
+  {
+    "rank": 90,
+    "spanish": "necesitar",
+    "pos": "v",
+    "translation": "to need"
+  },
+  {
+    "rank": 91,
+    "spanish": "casa",
+    "pos": "n",
+    "translation": "house"
+  },
+  {
+    "rank": 92,
+    "spanish": "llevar",
+    "pos": "v",
+    "translation": "to carry"
+  },
+  {
+    "rank": 93,
+    "spanish": "tan",
+    "pos": "adv",
+    "translation": "so"
+  },
+  {
+    "rank": 94,
+    "spanish": "entonces",
+    "pos": "adv",
+    "translation": "then"
+  },
+  {
+    "rank": 95,
+    "spanish": "encontrar",
+    "pos": "v",
+    "translation": "to find"
+  },
+  {
+    "rank": 96,
+    "spanish": "volver",
+    "pos": "v",
+    "translation": "to return"
+  },
+  {
+    "rank": 97,
+    "spanish": "llamar",
+    "pos": "v",
+    "translation": "to call"
+  },
+  {
+    "rank": 98,
+    "spanish": "parecer",
+    "pos": "v",
+    "translation": "to seem"
+  },
+  {
+    "rank": 99,
+    "spanish": "nuevo",
+    "pos": "adj",
+    "translation": "new"
+  },
+  {
+    "rank": 100,
+    "spanish": "mejor",
+    "pos": "adj",
+    "translation": "better"
+  },
+  {
+    "rank": 101,
+    "spanish": "primero",
+    "pos": "adj",
+    "translation": "first"
+  },
+  {
+    "rank": 102,
+    "spanish": "verdad",
+    "pos": "n",
+    "translation": "truth"
+  },
+  {
+    "rank": 103,
+    "spanish": "hasta",
+    "pos": "prep",
+    "translation": "until"
+  },
+  {
+    "rank": 104,
+    "spanish": "quién",
+    "pos": "pron",
+    "translation": "who"
+  },
+  {
+    "rank": 105,
+    "spanish": "vida",
+    "pos": "n",
+    "translation": "life"
+  },
+  {
+    "rank": 106,
+    "spanish": "nunca",
+    "pos": "adv",
+    "translation": "never"
+  },
+  {
+    "rank": 107,
+    "spanish": "tomar",
+    "pos": "v",
+    "translation": "to take"
+  },
+  {
+    "rank": 108,
+    "spanish": "quedar",
+    "pos": "v",
+    "translation": "to stay/keep"
+  },
+  {
+    "rank": 109,
+    "spanish": "grande",
+    "pos": "adj",
+    "translation": "big"
+  },
+  {
+    "rank": 110,
+    "spanish": "llegar",
+    "pos": "v",
+    "translation": "to arrive"
+  },
+  {
+    "rank": 111,
+    "spanish": "hola",
+    "pos": "interj",
+    "translation": "hello"
+  },
+  {
+    "rank": 112,
+    "spanish": "chico",
+    "pos": "n",
+    "translation": "boy"
+  },
+  {
+    "rank": 113,
+    "spanish": "poner",
+    "pos": "v",
+    "translation": "to put"
+  },
+  {
+    "rank": 114,
+    "spanish": "oír",
+    "pos": "v",
+    "translation": "to hear"
+  },
+  {
+    "rank": 115,
+    "spanish": "noche",
+    "pos": "n",
+    "translation": "night"
+  },
+  {
+    "rank": 116,
+    "spanish": "mí",
+    "pos": "pron",
+    "translation": "me"
+  },
+  {
+    "rank": 117,
+    "spanish": "hijo",
+    "pos": "n",
+    "translation": "son"
+  },
+  {
+    "rank": 118,
+    "spanish": "dónde",
+    "pos": "adv",
+    "translation": "where"
+  },
+  {
+    "rank": 119,
+    "spanish": "ni",
+    "pos": "conj",
+    "translation": "nor"
+  },
+  {
+    "rank": 120,
+    "spanish": "salir",
+    "pos": "v",
+    "translation": "to leave"
+  },
+  {
+    "rank": 121,
+    "spanish": "favor",
+    "pos": "n",
+    "translation": "favor"
+  },
+  {
+    "rank": 122,
+    "spanish": "gustar",
+    "pos": "v",
+    "translation": "to like"
+  },
+  {
+    "rank": 123,
+    "spanish": "seguir",
+    "pos": "v",
+    "translation": "to follow"
+  },
+  {
+    "rank": 124,
+    "spanish": "amigo",
+    "pos": "n",
+    "translation": "friend"
+  },
+  {
+    "rank": 125,
+    "spanish": "oh",
+    "pos": "interj",
+    "translation": "oh"
+  },
+  {
+    "rank": 126,
+    "spanish": "siempre",
+    "pos": "adv",
+    "translation": "always"
+  },
+  {
+    "rank": 127,
+    "spanish": "hecho",
+    "pos": "n",
+    "translation": "fact"
+  },
+  {
+    "rank": 128,
+    "spanish": "Dios",
+    "pos": "prop",
+    "translation": "God"
+  },
+  {
+    "rank": 129,
+    "spanish": "antes",
+    "pos": "adv",
+    "translation": "before"
+  },
+  {
+    "rank": 130,
+    "spanish": "desde",
+    "pos": "prep",
+    "translation": "from"
+  },
+  {
+    "rank": 131,
+    "spanish": "conocer",
+    "pos": "v",
+    "translation": "to know"
+  },
+  {
+    "rank": 132,
+    "spanish": "poco",
+    "pos": "adv",
+    "translation": "little"
+  },
+  {
+    "rank": 133,
+    "spanish": "ahí",
+    "pos": "adv",
+    "translation": "there"
+  },
+  {
+    "rank": 134,
+    "spanish": "alguien",
+    "pos": "pron",
+    "translation": "someone"
+  },
+  {
+    "rank": 135,
+    "spanish": "trabajo",
+    "pos": "n",
+    "translation": "work"
+  },
+  {
+    "rank": 136,
+    "spanish": "mujer",
+    "pos": "n",
+    "translation": "woman"
+  },
+  {
+    "rank": 137,
+    "spanish": "entre",
+    "pos": "prep",
+    "translation": "between"
+  },
+  {
+    "rank": 138,
+    "spanish": "después",
+    "pos": "adv",
+    "translation": "after"
+  },
+  {
+    "rank": 139,
+    "spanish": "parte",
+    "pos": "n",
+    "translation": "part"
+  },
+  {
+    "rank": 140,
+    "spanish": "mi",
+    "pos": "pron",
+    "translation": "my"
+  },
+  {
+    "rank": 141,
+    "spanish": "acuerdo",
+    "pos": "n",
+    "translation": "agreement"
+  },
+  {
+    "rank": 142,
+    "spanish": "escuchar",
+    "pos": "v",
+    "translation": "to listen"
+  },
+  {
+    "rank": 143,
+    "spanish": "momento",
+    "pos": "n",
+    "translation": "moment"
+  },
+  {
+    "rank": 144,
+    "spanish": "matar",
+    "pos": "v",
+    "translation": "to kill"
+  },
+  {
+    "rank": 145,
+    "spanish": "donde",
+    "pos": "pron",
+    "translation": "where"
+  },
+  {
+    "rank": 146,
+    "spanish": "seguro",
+    "pos": "adj",
+    "translation": "safe/sure"
+  },
+  {
+    "rank": 147,
+    "spanish": "mundo",
+    "pos": "n",
+    "translation": "world"
+  },
+  {
+    "rank": 148,
+    "spanish": "gente",
+    "pos": "n",
+    "translation": "people"
+  },
+  {
+    "rank": 149,
+    "spanish": "niño",
+    "pos": "n",
+    "translation": "child"
+  },
+  {
+    "rank": 150,
+    "spanish": "hora",
+    "pos": "n",
+    "translation": "hour"
+  },
+  {
+    "rank": 151,
+    "spanish": "buscar",
+    "pos": "v",
+    "translation": "to look for"
+  },
+  {
+    "rank": 152,
+    "spanish": "problema",
+    "pos": "n",
+    "translation": "problem"
+  },
+  {
+    "rank": 153,
+    "spanish": "Estado",
+    "pos": "prop",
+    "translation": "State"
+  },
+  {
+    "rank": 154,
+    "spanish": "lugar",
+    "pos": "n",
+    "translation": "place"
+  },
+  {
+    "rank": 155,
+    "spanish": "nadie",
+    "pos": "pron",
+    "translation": "nobody"
+  },
+  {
+    "rank": 156,
+    "spanish": "tal",
+    "pos": "pron",
+    "translation": "such"
+  },
+  {
+    "rank": 157,
+    "spanish": "ayudar",
+    "pos": "v",
+    "translation": "to help"
+  },
+  {
+    "rank": 158,
+    "spanish": "perder",
+    "pos": "v",
+    "translation": "to lose"
+  },
+  {
+    "rank": 159,
+    "spanish": "ustedes",
+    "pos": "pron",
+    "translation": "you (plural)"
+  },
+  {
+    "rank": 160,
+    "spanish": "persona",
+    "pos": "n",
+    "translation": "person"
+  },
+  {
+    "rank": 161,
+    "spanish": "tipo",
+    "pos": "n",
+    "translation": "type"
+  },
+  {
+    "rank": 162,
+    "spanish": "claro",
+    "pos": "adj",
+    "translation": "clear"
+  },
+  {
+    "rank": 163,
+    "spanish": "entender",
+    "pos": "v",
+    "translation": "to understand"
+  },
+  {
+    "rank": 164,
+    "spanish": "menos",
+    "pos": "adv",
+    "translation": "less"
+  },
+  {
+    "rank": 165,
+    "spanish": "fuera",
+    "pos": "adv",
+    "translation": "outside"
+  },
+  {
+    "rank": 166,
+    "spanish": "acabar",
+    "pos": "v",
+    "translation": "to finish"
+  },
+  {
+    "rank": 167,
+    "spanish": "tratar",
+    "pos": "v",
+    "translation": "to treat"
+  },
+  {
+    "rank": 168,
+    "spanish": "tres",
+    "pos": "num",
+    "translation": "three"
+  },
+  {
+    "rank": 169,
+    "spanish": "último",
+    "pos": "adj",
+    "translation": "last"
+  },
+  {
+    "rank": 170,
+    "spanish": "trabajar",
+    "pos": "v",
+    "translation": "to work"
+  },
+  {
+    "rank": 171,
+    "spanish": "morir",
+    "pos": "v",
+    "translation": "to die"
+  },
+  {
+    "rank": 172,
+    "spanish": "cada",
+    "pos": "determiner",
+    "translation": "each"
+  },
+  {
+    "rank": 173,
+    "spanish": "dinero",
+    "pos": "n",
+    "translation": "money"
+  },
+  {
+    "rank": 174,
+    "spanish": "mañana",
+    "pos": "n",
+    "translation": "morning/tomorrow"
+  },
+  {
+    "rank": 175,
+    "spanish": "hermano",
+    "pos": "n",
+    "translation": "brother"
+  },
+  {
+    "rank": 176,
+    "spanish": "quien",
+    "pos": "pron",
+    "translation": "who"
+  },
+  {
+    "rank": 177,
+    "spanish": "vivir",
+    "pos": "v",
+    "translation": "to live"
+  },
+  {
+    "rank": 178,
+    "spanish": "valer",
+    "pos": "v",
+    "translation": "to be worth"
+  },
+  {
+    "rank": 179,
+    "spanish": "sr.",
+    "pos": "none",
+    "translation": "Mr."
+  },
+  {
+    "rank": 180,
+    "spanish": "allí",
+    "pos": "adv",
+    "translation": "there"
+  },
+  {
+    "rank": 181,
+    "spanish": "hoy",
+    "pos": "adv",
+    "translation": "today"
+  },
+  {
+    "rank": 182,
+    "spanish": "luego",
+    "pos": "adv",
+    "translation": "then"
+  },
+  {
+    "rank": 183,
+    "spanish": "mano",
+    "pos": "n",
+    "translation": "hand"
+  },
+  {
+    "rank": 184,
+    "spanish": "tanto",
+    "pos": "adv",
+    "translation": "so much"
+  },
+  {
+    "rank": 185,
+    "spanish": "caso",
+    "pos": "n",
+    "translation": "case"
+  },
+  {
+    "rank": 186,
+    "spanish": "nombre",
+    "pos": "n",
+    "translation": "name"
+  },
+  {
+    "rank": 187,
+    "spanish": "entrar",
+    "pos": "v",
+    "translation": "to enter"
+  },
+  {
+    "rank": 188,
+    "spanish": "forma",
+    "pos": "n",
+    "translation": "shape/form"
+  },
+  {
+    "rank": 189,
+    "spanish": "empezar",
+    "pos": "v",
+    "translation": "to start"
+  },
+  {
+    "rank": 190,
+    "spanish": "conseguir",
+    "pos": "v",
+    "translation": "to get"
+  },
+  {
+    "rank": 191,
+    "spanish": "pedir",
+    "pos": "v",
+    "translation": "to ask for"
+  },
+  {
+    "rank": 192,
+    "spanish": "intentar",
+    "pos": "v",
+    "translation": "to try"
+  },
+  {
+    "rank": 193,
+    "spanish": "ninguno",
+    "pos": "determiner",
+    "translation": "none"
+  },
+  {
+    "rank": 194,
+    "spanish": "traer",
+    "pos": "v",
+    "translation": "to bring"
+  },
+  {
+    "rank": 195,
+    "spanish": "pequeño",
+    "pos": "adj",
+    "translation": "small"
+  },
+  {
+    "rank": 196,
+    "spanish": "importar",
+    "pos": "v",
+    "translation": "to matter"
+  },
+  {
+    "rank": 197,
+    "spanish": "aún",
+    "pos": "adv",
+    "translation": "still"
+  },
+  {
+    "rank": 198,
+    "spanish": "cuenta",
+    "pos": "n",
+    "translation": "account"
+  },
+  {
+    "rank": 199,
+    "spanish": "razón",
+    "pos": "n",
+    "translation": "reason"
+  },
+  {
+    "rank": 200,
+    "spanish": "preguntar",
+    "pos": "v",
+    "translation": "to ask"
+  },
+  {
+    "rank": 201,
+    "spanish": "terminar",
+    "pos": "v",
+    "translation": "to finish/end"
+  },
+  {
+    "rank": 202,
+    "spanish": "idea",
+    "pos": "n",
+    "translation": "idea"
+  },
+  {
+    "rank": 203,
+    "spanish": "mamá",
+    "pos": "n",
+    "translation": "mom"
+  },
+  {
+    "rank": 204,
+    "spanish": "único",
+    "pos": "adj",
+    "translation": "only/single"
+  },
+  {
+    "rank": 205,
+    "spanish": "mal",
+    "pos": "adv",
+    "translation": "badly/wrong"
+  },
+  {
+    "rank": 206,
+    "spanish": "suponer",
+    "pos": "v",
+    "translation": "to suppose/assume"
+  },
+  {
+    "rank": 207,
+    "spanish": "papá",
+    "pos": "n",
+    "translation": "dad"
+  },
+  {
+    "rank": 208,
+    "spanish": "muerto",
+    "pos": "adj",
+    "translation": "dead"
+  },
+  {
+    "rank": 209,
+    "spanish": "durante",
+    "pos": "prep",
+    "translation": "during"
+  },
+  {
+    "rank": 210,
+    "spanish": "pasado",
+    "pos": "n",
+    "translation": "past"
+  },
+  {
+    "rank": 211,
+    "spanish": "recordar",
+    "pos": "v",
+    "translation": "to remember"
+  },
+  {
+    "rank": 212,
+    "spanish": "semana",
+    "pos": "n",
+    "translation": "week"
+  },
+  {
+    "rank": 213,
+    "spanish": "cierto",
+    "pos": "adj",
+    "translation": "certain/true"
+  },
+  {
+    "rank": 214,
+    "spanish": "contra",
+    "pos": "prep",
+    "translation": "against"
+  },
+  {
+    "rank": 215,
+    "spanish": "tarde",
+    "pos": "adv",
+    "translation": "late/afternoon"
+  },
+  {
+    "rank": 216,
+    "spanish": "segundo",
+    "pos": "adj",
+    "translation": "second"
+  },
+  {
+    "rank": 217,
+    "spanish": "cambiar",
+    "pos": "v",
+    "translation": "to change"
+  },
+  {
+    "rank": 218,
+    "spanish": "familia",
+    "pos": "n",
+    "translation": "family"
+  },
+  {
+    "rank": 219,
+    "spanish": "usar",
+    "pos": "v",
+    "translation": "to use"
+  },
+  {
+    "rank": 220,
+    "spanish": "policía",
+    "pos": "n",
+    "translation": "police"
+  },
+  {
+    "rank": 221,
+    "spanish": "comer",
+    "pos": "v",
+    "translation": "to eat"
+  },
+  {
+    "rank": 222,
+    "spanish": "conmigo",
+    "pos": "adv",
+    "translation": "with me"
+  },
+  {
+    "rank": 223,
+    "spanish": "sacar",
+    "pos": "v",
+    "translation": "to take out"
+  },
+  {
+    "rank": 224,
+    "spanish": "mientras",
+    "pos": "conj",
+    "translation": "while"
+  },
+  {
+    "rank": 225,
+    "spanish": "mantener",
+    "pos": "v",
+    "translation": "to keep/maintain"
+  },
+  {
+    "rank": 226,
+    "spanish": "realmente",
+    "pos": "adv",
+    "translation": "really"
+  },
+  {
+    "rank": 227,
+    "spanish": "serio",
+    "pos": "adj",
+    "translation": "serious"
+  },
+  {
+    "rank": 228,
+    "spanish": "país",
+    "pos": "n",
+    "translation": "country"
+  },
+  {
+    "rank": 229,
+    "spanish": "contar",
+    "pos": "v",
+    "translation": "to count/tell"
+  },
+  {
+    "rank": 230,
+    "spanish": "minuto",
+    "pos": "n",
+    "translation": "minute"
+  },
+  {
+    "rank": 231,
+    "spanish": "mierda",
+    "pos": "n",
+    "translation": "shit"
+  },
+  {
+    "rank": 232,
+    "spanish": "olvidar",
+    "pos": "v",
+    "translation": "to forget"
+  },
+  {
+    "rank": 233,
+    "spanish": "propio",
+    "pos": "adj",
+    "translation": "own"
+  },
+  {
+    "rank": 234,
+    "spanish": "pues",
+    "pos": "conj",
+    "translation": "well/then"
+  },
+  {
+    "rank": 235,
+    "spanish": "e",
+    "pos": "conj",
+    "translation": "and"
+  },
+  {
+    "rank": 236,
+    "spanish": "aunque",
+    "pos": "conj",
+    "translation": "although"
+  },
+  {
+    "rank": 237,
+    "spanish": "historia",
+    "pos": "n",
+    "translation": "story/history"
+  },
+  {
+    "rank": 238,
+    "spanish": "amor",
+    "pos": "n",
+    "translation": "love"
+  },
+  {
+    "rank": 239,
+    "spanish": "lado",
+    "pos": "n",
+    "translation": "side"
+  },
+  {
+    "rank": 240,
+    "spanish": "junto",
+    "pos": "adj",
+    "translation": "together"
+  },
+  {
+    "rank": 241,
+    "spanish": "hacia",
+    "pos": "prep",
+    "translation": "toward"
+  },
+  {
+    "rank": 242,
+    "spanish": "manera",
+    "pos": "n",
+    "translation": "way/manner"
+  },
+  {
+    "rank": 243,
+    "spanish": "cabeza",
+    "pos": "n",
+    "translation": "head"
+  },
+  {
+    "rank": 244,
+    "spanish": "punto",
+    "pos": "n",
+    "translation": "point"
+  },
+  {
+    "rank": 245,
+    "spanish": "mayor",
+    "pos": "adj",
+    "translation": "older/greater"
+  },
+  {
+    "rank": 246,
+    "spanish": "todavía",
+    "pos": "adv",
+    "translation": "still"
+  },
+  {
+    "rank": 247,
+    "spanish": "cualquiera",
+    "pos": "determiner",
+    "translation": "any"
+  },
+  {
+    "rank": 248,
+    "spanish": "casi",
+    "pos": "adv",
+    "translation": "almost"
+  },
+  {
+    "rank": 249,
+    "spanish": "contigo",
+    "pos": "adv",
+    "translation": "with you"
+  },
+  {
+    "rank": 250,
+    "spanish": "mes",
+    "pos": "n",
+    "translation": "month"
+  },
+  {
+    "rank": 251,
+    "spanish": "ciudad",
+    "pos": "n",
+    "translation": "city"
+  },
+  {
+    "rank": 252,
+    "spanish": "importante",
+    "pos": "adj",
+    "translation": "important"
+  },
+  {
+    "rank": 253,
+    "spanish": "demasiado",
+    "pos": "adv",
+    "translation": "too much"
+  },
+  {
+    "rank": 254,
+    "spanish": "preocupar",
+    "pos": "v",
+    "translation": "to worry"
+  },
+  {
+    "rank": 255,
+    "spanish": "poder",
+    "pos": "n",
+    "translation": "power"
+  },
+  {
+    "rank": 256,
+    "spanish": "ganar",
+    "pos": "v",
+    "translation": "to win/earn"
+  },
+  {
+    "rank": 257,
+    "spanish": "cuánto",
+    "pos": "determiner",
+    "translation": "how much"
+  },
+  {
+    "rank": 258,
+    "spanish": "tío",
+    "pos": "n",
+    "translation": "uncle/guy"
+  },
+  {
+    "rank": 259,
+    "spanish": "puerta",
+    "pos": "n",
+    "translation": "door"
+  },
+  {
+    "rank": 260,
+    "spanish": "palabra",
+    "pos": "n",
+    "translation": "word"
+  },
+  {
+    "rank": 261,
+    "spanish": "ojo",
+    "pos": "n",
+    "translation": "eye"
+  },
+  {
+    "rank": 262,
+    "spanish": "agua",
+    "pos": "n",
+    "translation": "water"
+  },
+  {
+    "rank": 263,
+    "spanish": "medio",
+    "pos": "n",
+    "translation": "middle/half"
+  },
+  {
+    "rank": 264,
+    "spanish": "dentro",
+    "pos": "adv",
+    "translation": "inside"
+  },
+  {
+    "rank": 265,
+    "spanish": "abrir",
+    "pos": "v",
+    "translation": "to open"
+  },
+  {
+    "rank": 266,
+    "spanish": "jugar",
+    "pos": "v",
+    "translation": "to play"
+  },
+  {
+    "rank": 267,
+    "spanish": "llamado",
+    "pos": "adj",
+    "translation": "called/named"
+  },
+  {
+    "rank": 268,
+    "spanish": "loco",
+    "pos": "n",
+    "translation": "crazy"
+  },
+  {
+    "rank": 269,
+    "spanish": "ocurrir",
+    "pos": "v",
+    "translation": "to happen/occur"
+  },
+  {
+    "rank": 270,
+    "spanish": "alto",
+    "pos": "adj",
+    "translation": "tall/high"
+  },
+  {
+    "rank": 271,
+    "spanish": "aquel",
+    "pos": "determiner",
+    "translation": "that (over there)"
+  },
+  {
+    "rank": 272,
+    "spanish": "fin",
+    "pos": "n",
+    "translation": "end"
+  },
+  {
+    "rank": 273,
+    "spanish": "pagar",
+    "pos": "v",
+    "translation": "to pay"
+  },
+  {
+    "rank": 274,
+    "spanish": "camino",
+    "pos": "n",
+    "translation": "road/path"
+  },
+  {
+    "rank": 275,
+    "spanish": "esposo",
+    "pos": "n",
+    "translation": "husband"
+  },
+  {
+    "rank": 276,
+    "spanish": "permitir",
+    "pos": "v",
+    "translation": "to allow"
+  },
+  {
+    "rank": 277,
+    "spanish": "recibir",
+    "pos": "v",
+    "translation": "to receive"
+  },
+  {
+    "rank": 278,
+    "spanish": "pregunta",
+    "pos": "n",
+    "translation": "question"
+  },
+  {
+    "rank": 279,
+    "spanish": "leer",
+    "pos": "v",
+    "translation": "to read"
+  },
+  {
+    "rank": 280,
+    "spanish": "significar",
+    "pos": "v",
+    "translation": "to mean"
+  },
+  {
+    "rank": 281,
+    "spanish": "suceder",
+    "pos": "v",
+    "translation": "to happen"
+  },
+  {
+    "rank": 282,
+    "spanish": "muerte",
+    "pos": "n",
+    "translation": "death"
+  },
+  {
+    "rank": 283,
+    "spanish": "millón",
+    "pos": "n",
+    "translation": "million"
+  },
+  {
+    "rank": 284,
+    "spanish": "general",
+    "pos": "adj",
+    "translation": "general"
+  },
+  {
+    "rank": 285,
+    "spanish": "dormir",
+    "pos": "v",
+    "translation": "to sleep"
+  },
+  {
+    "rank": 286,
+    "spanish": "realidad",
+    "pos": "n",
+    "translation": "reality"
+  },
+  {
+    "rank": 287,
+    "spanish": "caer",
+    "pos": "v",
+    "translation": "to fall"
+  },
+  {
+    "rank": 288,
+    "spanish": "rápido",
+    "pos": "adj",
+    "translation": "fast"
+  },
+  {
+    "rank": 289,
+    "spanish": "enviar",
+    "pos": "v",
+    "translation": "to send"
+  },
+  {
+    "rank": 290,
+    "spanish": "acercar",
+    "pos": "v",
+    "translation": "to bring closer"
+  },
+  {
+    "rank": 291,
+    "spanish": "equipo",
+    "pos": "n",
+    "translation": "team"
+  },
+  {
+    "rank": 292,
+    "spanish": "cuál",
+    "pos": "pron",
+    "translation": "which"
+  },
+  {
+    "rank": 293,
+    "spanish": "ayuda",
+    "pos": "n",
+    "translation": "help"
+  },
+  {
+    "rank": 294,
+    "spanish": "cuerpo",
+    "pos": "n",
+    "translation": "body"
+  },
+  {
+    "rank": 295,
+    "spanish": "jefe",
+    "pos": "n",
+    "translation": "boss/chief"
+  },
+  {
+    "rank": 296,
+    "spanish": "presidente",
+    "pos": "n",
+    "translation": "president"
+  },
+  {
+    "rank": 297,
+    "spanish": "mover",
+    "pos": "v",
+    "translation": "to move"
+  },
+  {
+    "rank": 298,
+    "spanish": "comprar",
+    "pos": "v",
+    "translation": "to buy"
+  },
+  {
+    "rank": 299,
+    "spanish": "supuesto",
+    "pos": "n",
+    "translation": "assumption"
+  },
+  {
+    "rank": 300,
+    "spanish": "bajo",
+    "pos": "prep",
+    "translation": "under/low"
+  },
+  {
+    "rank": 301,
+    "spanish": "gobierno",
+    "pos": "n",
+    "translation": "government"
+  },
+  {
+    "rank": 302,
+    "spanish": "quizá",
+    "pos": "adv",
+    "translation": "maybe"
+  },
+  {
+    "rank": 303,
+    "spanish": "comenzar",
+    "pos": "v",
+    "translation": "to begin"
+  },
+  {
+    "rank": 304,
+    "spanish": "joven",
+    "pos": "adj",
+    "translation": "young"
+  },
+  {
+    "rank": 305,
+    "spanish": "viejo",
+    "pos": "n",
+    "translation": "old man"
+  },
+  {
+    "rank": 306,
+    "spanish": "tierra",
+    "pos": "n",
+    "translation": "earth/land"
+  },
+  {
+    "rank": 307,
+    "spanish": "número",
+    "pos": "n",
+    "translation": "number"
+  },
+  {
+    "rank": 308,
+    "spanish": "cuatro",
+    "pos": "num",
+    "translation": "four"
+  },
+  {
+    "rank": 309,
+    "spanish": "feliz",
+    "pos": "adj",
+    "translation": "happy"
+  },
+  {
+    "rank": 310,
+    "spanish": "final",
+    "pos": "n",
+    "translation": "end/final"
+  },
+  {
+    "rank": 311,
+    "spanish": "regresar",
+    "pos": "v",
+    "translation": "to return"
+  },
+  {
+    "rank": 312,
+    "spanish": "grupo",
+    "pos": "n",
+    "translation": "group"
+  },
+  {
+    "rank": 313,
+    "spanish": "guerra",
+    "pos": "n",
+    "translation": "war"
+  },
+  {
+    "rank": 314,
+    "spanish": "cariño",
+    "pos": "n",
+    "translation": "affection"
+  },
+  {
+    "rank": 315,
+    "spanish": "además",
+    "pos": "adv",
+    "translation": "besides"
+  },
+  {
+    "rank": 316,
+    "spanish": "posible",
+    "pos": "adj",
+    "translation": "possible"
+  },
+  {
+    "rank": 317,
+    "spanish": "echar",
+    "pos": "v",
+    "translation": "to throw"
+  },
+  {
+    "rank": 318,
+    "spanish": "clase",
+    "pos": "n",
+    "translation": "class"
+  },
+  {
+    "rank": 319,
+    "spanish": "cual",
+    "pos": "pron",
+    "translation": "which"
+  },
+  {
+    "rank": 320,
+    "spanish": "arma",
+    "pos": "n",
+    "translation": "weapon"
+  },
+  {
+    "rank": 321,
+    "spanish": "cinco",
+    "pos": "num",
+    "translation": "five"
+  },
+  {
+    "rank": 322,
+    "spanish": "pronto",
+    "pos": "adv",
+    "translation": "soon"
+  },
+  {
+    "rank": 323,
+    "spanish": "convertir",
+    "pos": "v",
+    "translation": "to convert"
+  },
+  {
+    "rank": 324,
+    "spanish": "difícil",
+    "pos": "adj",
+    "translation": "difficult"
+  },
+  {
+    "rank": 325,
+    "spanish": "cara",
+    "pos": "n",
+    "translation": "face"
+  },
+  {
+    "rank": 326,
+    "spanish": "sino",
+    "pos": "conj",
+    "translation": "but rather"
+  },
+  {
+    "rank": 327,
+    "spanish": "genial",
+    "pos": "adj",
+    "translation": "great"
+  },
+  {
+    "rank": 328,
+    "spanish": "tocar",
+    "pos": "v",
+    "translation": "to touch"
+  },
+  {
+    "rank": 329,
+    "spanish": "largo",
+    "pos": "adj",
+    "translation": "long"
+  },
+  {
+    "rank": 330,
+    "spanish": "juego",
+    "pos": "n",
+    "translation": "game"
+  },
+  {
+    "rank": 331,
+    "spanish": "escribir",
+    "pos": "v",
+    "translation": "to write"
+  },
+  {
+    "rank": 332,
+    "spanish": "meter",
+    "pos": "v",
+    "translation": "to put in"
+  },
+  {
+    "rank": 333,
+    "spanish": "igual",
+    "pos": "adj",
+    "translation": "same/equal"
+  },
+  {
+    "rank": 334,
+    "spanish": "incluso",
+    "pos": "adv",
+    "translation": "even"
+  },
+  {
+    "rank": 335,
+    "spanish": "doctor",
+    "pos": "n",
+    "translation": "doctor"
+  },
+  {
+    "rank": 336,
+    "spanish": "corazón",
+    "pos": "n",
+    "translation": "heart"
+  },
+  {
+    "rank": 337,
+    "spanish": "detener",
+    "pos": "v",
+    "translation": "to stop"
+  },
+  {
+    "rank": 338,
+    "spanish": "adiós",
+    "pos": "n",
+    "translation": "goodbye"
+  },
+  {
+    "rank": 339,
+    "spanish": "siquiera",
+    "pos": "adv",
+    "translation": "even"
+  },
+  {
+    "rank": 340,
+    "spanish": "ello",
+    "pos": "pron",
+    "translation": "it"
+  },
+  {
+    "rank": 341,
+    "spanish": "decidir",
+    "pos": "v",
+    "translation": "to decide"
+  },
+  {
+    "rank": 342,
+    "spanish": "suerte",
+    "pos": "n",
+    "translation": "luck"
+  },
+  {
+    "rank": 343,
+    "spanish": "ayer",
+    "pos": "adv",
+    "translation": "yesterday"
+  },
+  {
+    "rank": 344,
+    "spanish": "libro",
+    "pos": "n",
+    "translation": "book"
+  },
+  {
+    "rank": 345,
+    "spanish": "correr",
+    "pos": "v",
+    "translation": "to run"
+  },
+  {
+    "rank": 346,
+    "spanish": "según",
+    "pos": "prep",
+    "translation": "according to"
+  },
+  {
+    "rank": 347,
+    "spanish": "funcionar",
+    "pos": "v",
+    "translation": "to work/function"
+  },
+  {
+    "rank": 348,
+    "spanish": "vivo",
+    "pos": "adj",
+    "translation": "alive"
+  },
+  {
+    "rank": 349,
+    "spanish": "luz",
+    "pos": "n",
+    "translation": "light"
+  },
+  {
+    "rank": 350,
+    "spanish": "quizás",
+    "pos": "adv",
+    "translation": "perhaps"
+  },
+  {
+    "rank": 351,
+    "spanish": "justo",
+    "pos": "adj",
+    "translation": "just/fair"
+  },
+  {
+    "rank": 352,
+    "spanish": "miedo",
+    "pos": "n",
+    "translation": "fear"
+  },
+  {
+    "rank": 353,
+    "spanish": "modo",
+    "pos": "n",
+    "translation": "way/mode"
+  },
+  {
+    "rank": 354,
+    "spanish": "relación",
+    "pos": "n",
+    "translation": "relationship"
+  },
+  {
+    "rank": 355,
+    "spanish": "cambio",
+    "pos": "n",
+    "translation": "change"
+  },
+  {
+    "rank": 356,
+    "spanish": "público",
+    "pos": "adj",
+    "translation": "public"
+  },
+  {
+    "rank": 357,
+    "spanish": "derecho",
+    "pos": "n",
+    "translation": "right"
+  },
+  {
+    "rank": 358,
+    "spanish": "presentar",
+    "pos": "v",
+    "translation": "to present"
+  },
+  {
+    "rank": 359,
+    "spanish": "cerca",
+    "pos": "adv",
+    "translation": "near"
+  },
+  {
+    "rank": 360,
+    "spanish": "suficiente",
+    "pos": "adj",
+    "translation": "enough"
+  },
+  {
+    "rank": 361,
+    "spanish": "prueba",
+    "pos": "n",
+    "translation": "test/proof"
+  },
+  {
+    "rank": 362,
+    "spanish": "próximo",
+    "pos": "adj",
+    "translation": "next"
+  },
+  {
+    "rank": 363,
+    "spanish": "fuerte",
+    "pos": "adj",
+    "translation": "strong"
+  },
+  {
+    "rank": 364,
+    "spanish": "existir",
+    "pos": "v",
+    "translation": "to exist"
+  },
+  {
+    "rank": 365,
+    "spanish": "sentido",
+    "pos": "n",
+    "translation": "sense"
+  },
+  {
+    "rank": 366,
+    "spanish": "orden",
+    "pos": "n",
+    "translation": "order"
+  },
+  {
+    "rank": 367,
+    "spanish": "perro",
+    "pos": "n",
+    "translation": "dog"
+  },
+  {
+    "rank": 368,
+    "spanish": "humano",
+    "pos": "adj",
+    "translation": "human"
+  },
+  {
+    "rank": 369,
+    "spanish": "vuelta",
+    "pos": "n",
+    "translation": "turn/return"
+  },
+  {
+    "rank": 370,
+    "spanish": "listo",
+    "pos": "adj",
+    "translation": "ready/clever"
+  },
+  {
+    "rank": 371,
+    "spanish": "mostrar",
+    "pos": "v",
+    "translation": "to show"
+  },
+  {
+    "rank": 372,
+    "spanish": "subir",
+    "pos": "v",
+    "translation": "to go up"
+  },
+  {
+    "rank": 373,
+    "spanish": "coche",
+    "pos": "n",
+    "translation": "car"
+  },
+  {
+    "rank": 374,
+    "spanish": "servir",
+    "pos": "v",
+    "translation": "to serve"
+  },
+  {
+    "rank": 375,
+    "spanish": "os",
+    "pos": "pron",
+    "translation": "you (plural)"
+  },
+  {
+    "rank": 376,
+    "spanish": "sentar",
+    "pos": "v",
+    "translation": "to seat/sit"
+  },
+  {
+    "rank": 377,
+    "spanish": "salvar",
+    "pos": "v",
+    "translation": "to save"
+  },
+  {
+    "rank": 378,
+    "spanish": "blanco",
+    "pos": "adj",
+    "translation": "white"
+  },
+  {
+    "rank": 379,
+    "spanish": "fuerza",
+    "pos": "n",
+    "translation": "strength"
+  },
+  {
+    "rank": 380,
+    "spanish": "sistema",
+    "pos": "n",
+    "translation": "system"
+  },
+  {
+    "rank": 381,
+    "spanish": "explicar",
+    "pos": "v",
+    "translation": "to explain"
+  },
+  {
+    "rank": 382,
+    "spanish": "bastante",
+    "pos": "adv",
+    "translation": "quite/enough"
+  },
+  {
+    "rank": 383,
+    "spanish": "levantar",
+    "pos": "v",
+    "translation": "to lift/raise"
+  },
+  {
+    "rank": 384,
+    "spanish": "adelante",
+    "pos": "adv",
+    "translation": "forward"
+  },
+  {
+    "rank": 385,
+    "spanish": "mil",
+    "pos": "num",
+    "translation": "thousand"
+  },
+  {
+    "rank": 386,
+    "spanish": "considerar",
+    "pos": "v",
+    "translation": "to consider"
+  },
+  {
+    "rank": 387,
+    "spanish": "paso",
+    "pos": "n",
+    "translation": "step"
+  },
+  {
+    "rank": 388,
+    "spanish": "asegurar",
+    "pos": "v",
+    "translation": "to assure"
+  },
+  {
+    "rank": 389,
+    "spanish": "aceptar",
+    "pos": "v",
+    "translation": "to accept"
+  },
+  {
+    "rank": 390,
+    "spanish": "quitar",
+    "pos": "v",
+    "translation": "to remove/take off"
+  },
+  {
+    "rank": 391,
+    "spanish": "plan",
+    "pos": "n",
+    "translation": "plan"
+  },
+  {
+    "rank": 392,
+    "spanish": "calle",
+    "pos": "n",
+    "translation": "street"
+  },
+  {
+    "rank": 393,
+    "spanish": "pueblo",
+    "pos": "n",
+    "translation": "town/people"
+  },
+  {
+    "rank": 394,
+    "spanish": "cuidado",
+    "pos": "n",
+    "translation": "care"
+  },
+  {
+    "rank": 395,
+    "spanish": "negro",
+    "pos": "adj",
+    "translation": "black"
+  },
+  {
+    "rank": 396,
+    "spanish": "allá",
+    "pos": "adv",
+    "translation": "there"
+  },
+  {
+    "rank": 397,
+    "spanish": "partido",
+    "pos": "n",
+    "translation": "match/party"
+  },
+  {
+    "rank": 398,
+    "spanish": "diferente",
+    "pos": "adj",
+    "translation": "different"
+  },
+  {
+    "rank": 399,
+    "spanish": "ante",
+    "pos": "prep",
+    "translation": "before"
+  },
+  {
+    "rank": 400,
+    "spanish": "fiesta",
+    "pos": "n",
+    "translation": "party"
+  },
+  {
+    "rank": 401,
+    "spanish": "amar",
+    "pos": "v",
+    "translation": "to love"
+  },
+  {
+    "rank": 402,
+    "spanish": "coger",
+    "pos": "v",
+    "translation": "to take/grab"
+  },
+  {
+    "rank": 403,
+    "spanish": "disparar",
+    "pos": "v",
+    "translation": "to shoot"
+  },
+  {
+    "rank": 404,
+    "spanish": "disculpar",
+    "pos": "v",
+    "translation": "to excuse"
+  },
+  {
+    "rank": 405,
+    "spanish": "pie",
+    "pos": "n",
+    "translation": "foot"
+  },
+  {
+    "rank": 406,
+    "spanish": "beber",
+    "pos": "v",
+    "translation": "to drink"
+  },
+  {
+    "rank": 407,
+    "spanish": "frente",
+    "pos": "n",
+    "translation": "front/forehead"
+  },
+  {
+    "rank": 408,
+    "spanish": "escuela",
+    "pos": "n",
+    "translation": "school"
+  },
+  {
+    "rank": 409,
+    "spanish": "sangre",
+    "pos": "n",
+    "translation": "blood"
+  },
+  {
+    "rank": 410,
+    "spanish": "oportunidad",
+    "pos": "n",
+    "translation": "opportunity"
+  },
+  {
+    "rank": 411,
+    "spanish": "muchacho",
+    "pos": "n",
+    "translation": "boy"
+  },
+  {
+    "rank": 412,
+    "spanish": "real",
+    "pos": "adj",
+    "translation": "real"
+  },
+  {
+    "rank": 413,
+    "spanish": "situación",
+    "pos": "n",
+    "translation": "situation"
+  },
+  {
+    "rank": 414,
+    "spanish": "política",
+    "pos": "n",
+    "translation": "politics"
+  },
+  {
+    "rank": 415,
+    "spanish": "ley",
+    "pos": "n",
+    "translation": "law"
+  },
+  {
+    "rank": 416,
+    "spanish": "vender",
+    "pos": "v",
+    "translation": "to sell"
+  },
+  {
+    "rank": 417,
+    "spanish": "teléfono",
+    "pos": "n",
+    "translation": "telephone"
+  },
+  {
+    "rank": 418,
+    "spanish": "malo",
+    "pos": "n",
+    "translation": "bad (person/thing)"
+  },
+  {
+    "rank": 419,
+    "spanish": "extraño",
+    "pos": "adj",
+    "translation": "strange"
+  },
+  {
+    "rank": 420,
+    "spanish": "perdonar",
+    "pos": "v",
+    "translation": "to forgive"
+  },
+  {
+    "rank": 421,
+    "spanish": "arriba",
+    "pos": "adv",
+    "translation": "up"
+  },
+  {
+    "rank": 422,
+    "spanish": "aparecer",
+    "pos": "v",
+    "translation": "to appear"
+  },
+  {
+    "rank": 423,
+    "spanish": "servicio",
+    "pos": "n",
+    "translation": "service"
+  },
+  {
+    "rank": 424,
+    "spanish": "novio",
+    "pos": "n",
+    "translation": "boyfriend"
+  },
+  {
+    "rank": 425,
+    "spanish": "tampoco",
+    "pos": "adv",
+    "translation": "neither"
+  },
+  {
+    "rank": 426,
+    "spanish": "especial",
+    "pos": "adj",
+    "translation": "special"
+  },
+  {
+    "rank": 427,
+    "spanish": "casar",
+    "pos": "v",
+    "translation": "to marry"
+  },
+  {
+    "rank": 428,
+    "spanish": "puesto",
+    "pos": "n",
+    "translation": "position"
+  },
+  {
+    "rank": 429,
+    "spanish": "dólar",
+    "pos": "n",
+    "translation": "dollar"
+  },
+  {
+    "rank": 430,
+    "spanish": "cuándo",
+    "pos": "adv",
+    "translation": "when"
+  },
+  {
+    "rank": 431,
+    "spanish": "duro",
+    "pos": "adj",
+    "translation": "hard"
+  },
+  {
+    "rank": 432,
+    "spanish": "nacional",
+    "pos": "adj",
+    "translation": "national"
+  },
+  {
+    "rank": 433,
+    "spanish": "recuerdo",
+    "pos": "n",
+    "translation": "memory"
+  },
+  {
+    "rank": 434,
+    "spanish": "lograr",
+    "pos": "v",
+    "translation": "to achieve"
+  },
+  {
+    "rank": 435,
+    "spanish": "robar",
+    "pos": "v",
+    "translation": "to steal"
+  },
+  {
+    "rank": 436,
+    "spanish": "seguridad",
+    "pos": "n",
+    "translation": "security"
+  },
+  {
+    "rank": 437,
+    "spanish": "prometer",
+    "pos": "v",
+    "translation": "to promise"
+  },
+  {
+    "rank": 438,
+    "spanish": "enseñar",
+    "pos": "v",
+    "translation": "to teach"
+  },
+  {
+    "rank": 439,
+    "spanish": "obra",
+    "pos": "n",
+    "translation": "work"
+  },
+  {
+    "rank": 440,
+    "spanish": "descubrir",
+    "pos": "v",
+    "translation": "to discover"
+  },
+  {
+    "rank": 441,
+    "spanish": "andar",
+    "pos": "v",
+    "translation": "to walk"
+  },
+  {
+    "rank": 442,
+    "spanish": "fácil",
+    "pos": "adj",
+    "translation": "easy"
+  },
+  {
+    "rank": 443,
+    "spanish": "película",
+    "pos": "n",
+    "translation": "movie"
+  },
+  {
+    "rank": 444,
+    "spanish": "cuanto",
+    "pos": "adv",
+    "translation": "as much as"
+  },
+  {
+    "rank": 445,
+    "spanish": "lista",
+    "pos": "n",
+    "translation": "list"
+  },
+  {
+    "rank": 446,
+    "spanish": "tras",
+    "pos": "prep",
+    "translation": "after"
+  },
+  {
+    "rank": 447,
+    "spanish": "español",
+    "pos": "adj",
+    "translation": "Spanish"
+  },
+  {
+    "rank": 448,
+    "spanish": "sonar",
+    "pos": "v",
+    "translation": "to sound"
+  },
+  {
+    "rank": 449,
+    "spanish": "referir",
+    "pos": "v",
+    "translation": "to refer"
+  },
+  {
+    "rank": 450,
+    "spanish": "vino",
+    "pos": "n",
+    "translation": "wine"
+  },
+  {
+    "rank": 451,
+    "spanish": "centro",
+    "pos": "n",
+    "translation": "center"
+  },
+  {
+    "rank": 452,
+    "spanish": "asunto",
+    "pos": "n",
+    "translation": "matter"
+  },
+  {
+    "rank": 453,
+    "spanish": "encantar",
+    "pos": "v",
+    "translation": "to love/delight"
+  },
+  {
+    "rank": 454,
+    "spanish": "embargo",
+    "pos": "n",
+    "translation": "embargo"
+  },
+  {
+    "rank": 455,
+    "spanish": "imaginar",
+    "pos": "v",
+    "translation": "to imagine"
+  },
+  {
+    "rank": 456,
+    "spanish": "información",
+    "pos": "n",
+    "translation": "information"
+  },
+  {
+    "rank": 457,
+    "spanish": "habitación",
+    "pos": "n",
+    "translation": "room"
+  },
+  {
+    "rank": 458,
+    "spanish": "aprender",
+    "pos": "v",
+    "translation": "to learn"
+  },
+  {
+    "rank": 459,
+    "spanish": "falta",
+    "pos": "n",
+    "translation": "lack"
+  },
+  {
+    "rank": 460,
+    "spanish": "cielo",
+    "pos": "n",
+    "translation": "sky"
+  },
+  {
+    "rank": 461,
+    "spanish": "seis",
+    "pos": "num",
+    "translation": "six"
+  },
+  {
+    "rank": 462,
+    "spanish": "realizar",
+    "pos": "v",
+    "translation": "to carry out"
+  },
+  {
+    "rank": 463,
+    "spanish": "negocio",
+    "pos": "n",
+    "translation": "business"
+  },
+  {
+    "rank": 464,
+    "spanish": "sueño",
+    "pos": "n",
+    "translation": "dream"
+  },
+  {
+    "rank": 465,
+    "spanish": "atrás",
+    "pos": "adv",
+    "translation": "behind"
+  },
+  {
+    "rank": 466,
+    "spanish": "social",
+    "pos": "adj",
+    "translation": "social"
+  },
+  {
+    "rank": 467,
+    "spanish": "capitán",
+    "pos": "n",
+    "translation": "captain"
+  },
+  {
+    "rank": 468,
+    "spanish": "comida",
+    "pos": "n",
+    "translation": "food"
+  },
+  {
+    "rank": 469,
+    "spanish": "bebé",
+    "pos": "n",
+    "translation": "baby"
+  },
+  {
+    "rank": 470,
+    "spanish": "libre",
+    "pos": "adj",
+    "translation": "free"
+  },
+  {
+    "rank": 471,
+    "spanish": "voz",
+    "pos": "n",
+    "translation": "voice"
+  },
+  {
+    "rank": 472,
+    "spanish": "foto",
+    "pos": "n",
+    "translation": "photo"
+  },
+  {
+    "rank": 473,
+    "spanish": "abajo",
+    "pos": "adv",
+    "translation": "down"
+  },
+  {
+    "rank": 474,
+    "spanish": "par",
+    "pos": "n",
+    "translation": "pair"
+  },
+  {
+    "rank": 475,
+    "spanish": "paz",
+    "pos": "n",
+    "translation": "peace"
+  },
+  {
+    "rank": 476,
+    "spanish": "confiar",
+    "pos": "v",
+    "translation": "to trust"
+  },
+  {
+    "rank": 477,
+    "spanish": "callar",
+    "pos": "v",
+    "translation": "to be quiet"
+  },
+  {
+    "rank": 478,
+    "spanish": "culpa",
+    "pos": "n",
+    "translation": "guilt"
+  },
+  {
+    "rank": 479,
+    "spanish": "cerrar",
+    "pos": "v",
+    "translation": "to close"
+  },
+  {
+    "rank": 480,
+    "spanish": "ofrecer",
+    "pos": "v",
+    "translation": "to offer"
+  },
+  {
+    "rank": 481,
+    "spanish": "noticia",
+    "pos": "n",
+    "translation": "news"
+  },
+  {
+    "rank": 482,
+    "spanish": "bajar",
+    "pos": "v",
+    "translation": "to go down"
+  },
+  {
+    "rank": 483,
+    "spanish": "desear",
+    "pos": "v",
+    "translation": "to desire"
+  },
+  {
+    "rank": 484,
+    "spanish": "música",
+    "pos": "n",
+    "translation": "music"
+  },
+  {
+    "rank": 485,
+    "spanish": "diablo",
+    "pos": "n",
+    "translation": "devil"
+  },
+  {
+    "rank": 486,
+    "spanish": "resto",
+    "pos": "n",
+    "translation": "rest"
+  },
+  {
+    "rank": 487,
+    "spanish": "siguiente",
+    "pos": "adj",
+    "translation": "next"
+  },
+  {
+    "rank": 488,
+    "spanish": "cuidar",
+    "pos": "v",
+    "translation": "to take care of"
+  },
+  {
+    "rank": 489,
+    "spanish": "médico",
+    "pos": "n",
+    "translation": "doctor"
+  },
+  {
+    "rank": 490,
+    "spanish": "carta",
+    "pos": "n",
+    "translation": "letter"
+  },
+  {
+    "rank": 491,
+    "spanish": "preparar",
+    "pos": "v",
+    "translation": "to prepare"
+  },
+  {
+    "rank": 492,
+    "spanish": "don",
+    "pos": "n",
+    "translation": "Mr./title"
+  },
+  {
+    "rank": 493,
+    "spanish": "correcto",
+    "pos": "adj",
+    "translation": "correct"
+  },
+  {
+    "rank": 494,
+    "spanish": "programa",
+    "pos": "n",
+    "translation": "program"
+  },
+  {
+    "rank": 495,
+    "spanish": "malo",
+    "pos": "adj",
+    "translation": "bad"
+  },
+  {
+    "rank": 496,
+    "spanish": "sitio",
+    "pos": "n",
+    "translation": "place"
+  },
+  {
+    "rank": 497,
+    "spanish": "campo",
+    "pos": "n",
+    "translation": "countryside/field"
+  },
+  {
+    "rank": 498,
+    "spanish": "elegir",
+    "pos": "v",
+    "translation": "to choose"
+  },
+  {
+    "rank": 499,
+    "spanish": "exactamente",
+    "pos": "adv",
+    "translation": "exactly"
+  },
+  {
+    "rank": 500,
+    "spanish": "parar",
+    "pos": "v",
+    "translation": "to stop"
+  },
+  {
+    "rank": 501,
+    "spanish": "unido",
+    "pos": "adj",
+    "translation": "united"
+  },
+  {
+    "rank": 502,
+    "spanish": "desaparecer",
+    "pos": "v",
+    "translation": "to disappear"
+  },
+  {
+    "rank": 503,
+    "spanish": "hermoso",
+    "pos": "adj",
+    "translation": "beautiful"
+  },
+  {
+    "rank": 504,
+    "spanish": "mentir",
+    "pos": "v",
+    "translation": "to lie"
+  },
+  {
+    "rank": 505,
+    "spanish": "romper",
+    "pos": "v",
+    "translation": "to break"
+  },
+  {
+    "rank": 506,
+    "spanish": "invitar",
+    "pos": "v",
+    "translation": "to invite"
+  },
+  {
+    "rank": 507,
+    "spanish": "bonito",
+    "pos": "adj",
+    "translation": "pretty"
+  },
+  {
+    "rank": 508,
+    "spanish": "peor",
+    "pos": "adj",
+    "translation": "worse"
+  },
+  {
+    "rank": 509,
+    "spanish": "obtener",
+    "pos": "v",
+    "translation": "to obtain"
+  },
+  {
+    "rank": 510,
+    "spanish": "molestar",
+    "pos": "v",
+    "translation": "to bother"
+  },
+  {
+    "rank": 511,
+    "spanish": "lejos",
+    "pos": "adv",
+    "translation": "far"
+  },
+  {
+    "rank": 512,
+    "spanish": "necesario",
+    "pos": "adj",
+    "translation": "necessary"
+  },
+  {
+    "rank": 513,
+    "spanish": "cama",
+    "pos": "n",
+    "translation": "bed"
+  },
+  {
+    "rank": 514,
+    "spanish": "utilizar",
+    "pos": "v",
+    "translation": "to use"
+  },
+  {
+    "rank": 515,
+    "spanish": "varios",
+    "pos": "adj",
+    "translation": "several"
+  },
+  {
+    "rank": 516,
+    "spanish": "abuelo",
+    "pos": "n",
+    "translation": "grandfather"
+  },
+  {
+    "rank": 517,
+    "spanish": "viaje",
+    "pos": "n",
+    "translation": "trip"
+  },
+  {
+    "rank": 518,
+    "spanish": "demonio",
+    "pos": "n",
+    "translation": "demon"
+  },
+  {
+    "rank": 519,
+    "spanish": "perfecto",
+    "pos": "adj",
+    "translation": "perfect"
+  },
+  {
+    "rank": 520,
+    "spanish": "raro",
+    "pos": "adj",
+    "translation": "rare/weird"
+  },
+  {
+    "rank": 521,
+    "spanish": "tirar",
+    "pos": "v",
+    "translation": "to throw"
+  },
+  {
+    "rank": 522,
+    "spanish": "despertar",
+    "pos": "v",
+    "translation": "to wake"
+  },
+  {
+    "rank": 523,
+    "spanish": "resultar",
+    "pos": "v",
+    "translation": "to turn out"
+  },
+  {
+    "rank": 524,
+    "spanish": "oficial",
+    "pos": "adj",
+    "translation": "official"
+  },
+  {
+    "rank": 525,
+    "spanish": "probablemente",
+    "pos": "adv",
+    "translation": "probably"
+  },
+  {
+    "rank": 526,
+    "spanish": "oficina",
+    "pos": "n",
+    "translation": "office"
+  },
+  {
+    "rank": 527,
+    "spanish": "continuar",
+    "pos": "v",
+    "translation": "to continue"
+  },
+  {
+    "rank": 528,
+    "spanish": "responder",
+    "pos": "v",
+    "translation": "to answer"
+  },
+  {
+    "rank": 529,
+    "spanish": "acción",
+    "pos": "n",
+    "translation": "action"
+  },
+  {
+    "rank": 530,
+    "spanish": "línea",
+    "pos": "n",
+    "translation": "line"
+  },
+  {
+    "rank": 531,
+    "spanish": "agente",
+    "pos": "n",
+    "translation": "agent"
+  },
+  {
+    "rank": 532,
+    "spanish": "personal",
+    "pos": "adj",
+    "translation": "personal"
+  },
+  {
+    "rank": 533,
+    "spanish": "papel",
+    "pos": "n",
+    "translation": "paper/role"
+  },
+  {
+    "rank": 534,
+    "spanish": "OK",
+    "pos": "none",
+    "translation": "OK"
+  },
+  {
+    "rank": 535,
+    "spanish": "aire",
+    "pos": "n",
+    "translation": "air"
+  },
+  {
+    "rank": 536,
+    "spanish": "arreglar",
+    "pos": "v",
+    "translation": "to fix"
+  },
+  {
+    "rank": 537,
+    "spanish": "puta",
+    "pos": "n",
+    "translation": "prostitute"
+  },
+  {
+    "rank": 538,
+    "spanish": "principio",
+    "pos": "n",
+    "translation": "beginning"
+  },
+  {
+    "rank": 539,
+    "spanish": "simplemente",
+    "pos": "adv",
+    "translation": "simply"
+  },
+  {
+    "rank": 540,
+    "spanish": "empresa",
+    "pos": "n",
+    "translation": "company"
+  },
+  {
+    "rank": 541,
+    "spanish": "diez",
+    "pos": "num",
+    "translation": "ten"
+  },
+  {
+    "rank": 542,
+    "spanish": "director",
+    "pos": "n",
+    "translation": "director"
+  },
+  {
+    "rank": 543,
+    "spanish": "través",
+    "pos": "prep",
+    "translation": "through"
+  },
+  {
+    "rank": 544,
+    "spanish": "producir",
+    "pos": "v",
+    "translation": "to produce"
+  },
+  {
+    "rank": 545,
+    "spanish": "ejemplo",
+    "pos": "n",
+    "translation": "example"
+  },
+  {
+    "rank": 546,
+    "spanish": "amo",
+    "pos": "n",
+    "translation": "master"
+  },
+  {
+    "rank": 547,
+    "spanish": "rey",
+    "pos": "n",
+    "translation": "king"
+  },
+  {
+    "rank": 548,
+    "spanish": "cuarto",
+    "pos": "num",
+    "translation": "fourth"
+  },
+  {
+    "rank": 549,
+    "spanish": "idiota",
+    "pos": "n",
+    "translation": "idiot"
+  },
+  {
+    "rank": 550,
+    "spanish": "verdadero",
+    "pos": "adj",
+    "translation": "true"
+  },
+  {
+    "rank": 551,
+    "spanish": "tanto",
+    "pos": "adv",
+    "translation": "so much"
+  },
+  {
+    "rank": 552,
+    "spanish": "España",
+    "pos": "prop",
+    "translation": "Spain"
+  },
+  {
+    "rank": 553,
+    "spanish": "pesar",
+    "pos": "v",
+    "translation": "to regret"
+  },
+  {
+    "rank": 554,
+    "spanish": "probar",
+    "pos": "v",
+    "translation": "to try/test"
+  },
+  {
+    "rank": 555,
+    "spanish": "bastar",
+    "pos": "v",
+    "translation": "to suffice"
+  },
+  {
+    "rank": 556,
+    "spanish": "tranquilo",
+    "pos": "adj",
+    "translation": "calm"
+  },
+  {
+    "rank": 557,
+    "spanish": "decisión",
+    "pos": "n",
+    "translation": "decision"
+  },
+  {
+    "rank": 558,
+    "spanish": "demás",
+    "pos": "pron",
+    "translation": "others"
+  },
+  {
+    "rank": 559,
+    "spanish": "control",
+    "pos": "n",
+    "translation": "control"
+  },
+  {
+    "rank": 560,
+    "spanish": "sra.",
+    "pos": "none",
+    "translation": "Mrs."
+  },
+  {
+    "rank": 561,
+    "spanish": "hospital",
+    "pos": "n",
+    "translation": "hospital"
+  },
+  {
+    "rank": 562,
+    "spanish": "marido",
+    "pos": "n",
+    "translation": "husband"
+  },
+  {
+    "rank": 563,
+    "spanish": "fuego",
+    "pos": "n",
+    "translation": "fire"
+  },
+  {
+    "rank": 564,
+    "spanish": "tema",
+    "pos": "n",
+    "translation": "topic"
+  },
+  {
+    "rank": 565,
+    "spanish": "respuesta",
+    "pos": "n",
+    "translation": "answer"
+  },
+  {
+    "rank": 566,
+    "spanish": "nivel",
+    "pos": "n",
+    "translation": "level"
+  },
+  {
+    "rank": 567,
+    "spanish": "evitar",
+    "pos": "v",
+    "translation": "to avoid"
+  },
+  {
+    "rank": 568,
+    "spanish": "estudio",
+    "pos": "n",
+    "translation": "study"
+  },
+  {
+    "rank": 569,
+    "spanish": "secreto",
+    "pos": "n",
+    "translation": "secret"
+  },
+  {
+    "rank": 570,
+    "spanish": "mensaje",
+    "pos": "n",
+    "translation": "message"
+  },
+  {
+    "rank": 571,
+    "spanish": "resultado",
+    "pos": "n",
+    "translation": "result"
+  },
+  {
+    "rank": 572,
+    "spanish": "error",
+    "pos": "n",
+    "translation": "error"
+  },
+  {
+    "rank": 573,
+    "spanish": "futuro",
+    "pos": "n",
+    "translation": "future"
+  },
+  {
+    "rank": 574,
+    "spanish": "lleno",
+    "pos": "adj",
+    "translation": "full"
+  },
+  {
+    "rank": 575,
+    "spanish": "maldito",
+    "pos": "adj",
+    "translation": "damned"
+  },
+  {
+    "rank": 576,
+    "spanish": "compañero",
+    "pos": "n",
+    "translation": "companion"
+  },
+  {
+    "rank": 577,
+    "spanish": "soler",
+    "pos": "v",
+    "translation": "to usually do"
+  },
+  {
+    "rank": 578,
+    "spanish": "reconocer",
+    "pos": "v",
+    "translation": "to recognize"
+  },
+  {
+    "rank": 579,
+    "spanish": "pobre",
+    "pos": "adj",
+    "translation": "poor"
+  },
+  {
+    "rank": 580,
+    "spanish": "atención",
+    "pos": "n",
+    "translation": "attention"
+  },
+  {
+    "rank": 581,
+    "spanish": "zona",
+    "pos": "n",
+    "translation": "zone"
+  },
+  {
+    "rank": 582,
+    "spanish": "vista",
+    "pos": "n",
+    "translation": "view"
+  },
+  {
+    "rank": 583,
+    "spanish": "escapar",
+    "pos": "v",
+    "translation": "to escape"
+  },
+  {
+    "rank": 584,
+    "spanish": "cumplir",
+    "pos": "v",
+    "translation": "to fulfill"
+  },
+  {
+    "rank": 585,
+    "spanish": "edad",
+    "pos": "n",
+    "translation": "age"
+  },
+  {
+    "rank": 586,
+    "spanish": "maldito",
+    "pos": "adj",
+    "translation": "damned"
+  },
+  {
+    "rank": 587,
+    "spanish": "comprender",
+    "pos": "v",
+    "translation": "to understand"
+  },
+  {
+    "rank": 588,
+    "spanish": "suyo",
+    "pos": "pron",
+    "translation": "his/hers/theirs"
+  },
+  {
+    "rank": 589,
+    "spanish": "mandar",
+    "pos": "v",
+    "translation": "to order"
+  },
+  {
+    "rank": 590,
+    "spanish": "abogado",
+    "pos": "n",
+    "translation": "lawyer"
+  },
+  {
+    "rank": 591,
+    "spanish": "Madrid",
+    "pos": "prop",
+    "translation": "Madrid"
+  },
+  {
+    "rank": 592,
+    "spanish": "dirección",
+    "pos": "n",
+    "translation": "address/direction"
+  },
+  {
+    "rank": 593,
+    "spanish": "partir",
+    "pos": "v",
+    "translation": "to leave"
+  },
+  {
+    "rank": 594,
+    "spanish": "dr.",
+    "pos": "none",
+    "translation": "Dr."
+  },
+  {
+    "rank": 595,
+    "spanish": "temer",
+    "pos": "v",
+    "translation": "to fear"
+  },
+  {
+    "rank": 596,
+    "spanish": "alegrar",
+    "pos": "v",
+    "translation": "to make happy"
+  },
+  {
+    "rank": 597,
+    "spanish": "ambos",
+    "pos": "pron",
+    "translation": "both"
+  },
+  {
+    "rank": 598,
+    "spanish": "estúpido",
+    "pos": "adj",
+    "translation": "stupid"
+  },
+  {
+    "rank": 599,
+    "spanish": "fondo",
+    "pos": "n",
+    "translation": "bottom/background"
+  },
+  {
+    "rank": 600,
+    "spanish": "llorar",
+    "pos": "v",
+    "translation": "to cry"
+  },
+  {
+    "rank": 601,
+    "spanish": "poco",
+    "pos": "adv",
+    "translation": "little"
+  },
+  {
+    "rank": 602,
+    "spanish": "señorito",
+    "pos": "n",
+    "translation": "young gentleman"
+  },
+  {
+    "rank": 603,
+    "spanish": "lindo",
+    "pos": "adj",
+    "translation": "cute"
+  },
+  {
+    "rank": 604,
+    "spanish": "medio",
+    "pos": "n",
+    "translation": "half/middle"
+  },
+  {
+    "rank": 605,
+    "spanish": "compañía",
+    "pos": "n",
+    "translation": "company"
+  },
+  {
+    "rank": 606,
+    "spanish": "actuar",
+    "pos": "v",
+    "translation": "to act"
+  },
+  {
+    "rank": 607,
+    "spanish": "proceso",
+    "pos": "n",
+    "translation": "process"
+  },
+  {
+    "rank": 608,
+    "spanish": "investigación",
+    "pos": "n",
+    "translation": "investigation"
+  },
+  {
+    "rank": 609,
+    "spanish": "tonto",
+    "pos": "adj",
+    "translation": "stupid"
+  },
+  {
+    "rank": 610,
+    "spanish": "café",
+    "pos": "n",
+    "translation": "coffee"
+  },
+  {
+    "rank": 611,
+    "spanish": "duda",
+    "pos": "n",
+    "translation": "doubt"
+  },
+  {
+    "rank": 612,
+    "spanish": "preferir",
+    "pos": "v",
+    "translation": "to prefer"
+  },
+  {
+    "rank": 613,
+    "spanish": "conducir",
+    "pos": "v",
+    "translation": "to drive"
+  },
+  {
+    "rank": 614,
+    "spanish": "estado",
+    "pos": "n",
+    "translation": "state"
+  },
+  {
+    "rank": 615,
+    "spanish": "mía",
+    "pos": "pron",
+    "translation": "mine"
+  },
+  {
+    "rank": 616,
+    "spanish": "ropa",
+    "pos": "n",
+    "translation": "clothes"
+  },
+  {
+    "rank": 617,
+    "spanish": "valor",
+    "pos": "n",
+    "translation": "value/courage"
+  },
+  {
+    "rank": 618,
+    "spanish": "profesor",
+    "pos": "n",
+    "translation": "teacher"
+  },
+  {
+    "rank": 619,
+    "spanish": "reunión",
+    "pos": "n",
+    "translation": "meeting"
+  },
+  {
+    "rank": 620,
+    "spanish": "boca",
+    "pos": "n",
+    "translation": "mouth"
+  },
+  {
+    "rank": 621,
+    "spanish": "john",
+    "pos": "prop",
+    "translation": "John"
+  },
+  {
+    "rank": 622,
+    "spanish": "cámara",
+    "pos": "n",
+    "translation": "camera"
+  },
+  {
+    "rank": 623,
+    "spanish": "conocido",
+    "pos": "adj",
+    "translation": "known"
+  },
+  {
+    "rank": 624,
+    "spanish": "espacio",
+    "pos": "n",
+    "translation": "space"
+  },
+  {
+    "rank": 625,
+    "spanish": "encima",
+    "pos": "adv",
+    "translation": "above/on top"
+  },
+  {
+    "rank": 626,
+    "spanish": "imagen",
+    "pos": "n",
+    "translation": "image"
+  },
+  {
+    "rank": 627,
+    "spanish": "abierto",
+    "pos": "adj",
+    "translation": "open"
+  },
+  {
+    "rank": 628,
+    "spanish": "bajo",
+    "pos": "adj",
+    "translation": "low"
+  },
+  {
+    "rank": 629,
+    "spanish": "cargo",
+    "pos": "n",
+    "translation": "charge"
+  },
+  {
+    "rank": 630,
+    "spanish": "caballero",
+    "pos": "n",
+    "translation": "gentleman"
+  },
+  {
+    "rank": 631,
+    "spanish": "cantar",
+    "pos": "v",
+    "translation": "to sing"
+  },
+  {
+    "rank": 632,
+    "spanish": "posibilidad",
+    "pos": "n",
+    "translation": "possibility"
+  },
+  {
+    "rank": 633,
+    "spanish": "detrás",
+    "pos": "adv",
+    "translation": "behind"
+  },
+  {
+    "rank": 634,
+    "spanish": "proteger",
+    "pos": "v",
+    "translation": "to protect"
+  },
+  {
+    "rank": 635,
+    "spanish": "universidad",
+    "pos": "n",
+    "translation": "university"
+  },
+  {
+    "rank": 636,
+    "spanish": "sufrir",
+    "pos": "v",
+    "translation": "to suffer"
+  },
+  {
+    "rank": 637,
+    "spanish": "golpear",
+    "pos": "v",
+    "translation": "to hit"
+  },
+  {
+    "rank": 638,
+    "spanish": "abandonar",
+    "pos": "v",
+    "translation": "to abandon"
+  },
+  {
+    "rank": 639,
+    "spanish": "consejo",
+    "pos": "n",
+    "translation": "advice"
+  },
+  {
+    "rank": 640,
+    "spanish": "asesino",
+    "pos": "n",
+    "translation": "killer"
+  },
+  {
+    "rank": 641,
+    "spanish": "cuyo",
+    "pos": "pron",
+    "translation": "whose"
+  },
+  {
+    "rank": 642,
+    "spanish": "vuestro",
+    "pos": "pron",
+    "translation": "your (plural)"
+  },
+  {
+    "rank": 643,
+    "spanish": "caminar",
+    "pos": "v",
+    "translation": "to walk"
+  },
+  {
+    "rank": 644,
+    "spanish": "daño",
+    "pos": "n",
+    "translation": "damage"
+  },
+  {
+    "rank": 645,
+    "spanish": "sociedad",
+    "pos": "n",
+    "translation": "society"
+  },
+  {
+    "rank": 646,
+    "spanish": "base",
+    "pos": "n",
+    "translation": "base"
+  },
+  {
+    "rank": 647,
+    "spanish": "proyecto",
+    "pos": "n",
+    "translation": "project"
+  },
+  {
+    "rank": 648,
+    "spanish": "anoche",
+    "pos": "adv",
+    "translation": "last night"
+  },
+  {
+    "rank": 649,
+    "spanish": "mesa",
+    "pos": "n",
+    "translation": "table"
+  },
+  {
+    "rank": 650,
+    "spanish": "paciente",
+    "pos": "n",
+    "translation": "patient"
+  },
+  {
+    "rank": 651,
+    "spanish": "tercero",
+    "pos": "adj",
+    "translation": "third"
+  },
+  {
+    "rank": 652,
+    "spanish": "crear",
+    "pos": "v",
+    "translation": "to create"
+  },
+  {
+    "rank": 653,
+    "spanish": "dirigir",
+    "pos": "v",
+    "translation": "to direct"
+  },
+  {
+    "rank": 654,
+    "spanish": "capaz",
+    "pos": "adj",
+    "translation": "capable"
+  },
+  {
+    "rank": 655,
+    "spanish": "movimiento",
+    "pos": "n",
+    "translation": "movement"
+  },
+  {
+    "rank": 656,
+    "spanish": "ud.",
+    "pos": "none",
+    "translation": "you (formal)"
+  },
+  {
+    "rank": 657,
+    "spanish": "increíble",
+    "pos": "adj",
+    "translation": "incredible"
+  },
+  {
+    "rank": 658,
+    "spanish": "divertido",
+    "pos": "adj",
+    "translation": "fun"
+  },
+  {
+    "rank": 659,
+    "spanish": "principal",
+    "pos": "adj",
+    "translation": "main"
+  },
+  {
+    "rank": 660,
+    "spanish": "maestro",
+    "pos": "n",
+    "translation": "teacher/master"
+  },
+  {
+    "rank": 661,
+    "spanish": "recoger",
+    "pos": "v",
+    "translation": "to pick up"
+  },
+  {
+    "rank": 662,
+    "spanish": "carrera",
+    "pos": "n",
+    "translation": "race/career"
+  },
+  {
+    "rank": 663,
+    "spanish": "caballo",
+    "pos": "n",
+    "translation": "horse"
+  },
+  {
+    "rank": 664,
+    "spanish": "siglo",
+    "pos": "n",
+    "translation": "century"
+  },
+  {
+    "rank": 665,
+    "spanish": "perdón",
+    "pos": "n",
+    "translation": "sorry"
+  },
+  {
+    "rank": 666,
+    "spanish": "pena",
+    "pos": "n",
+    "translation": "sorrow/pity"
+  },
+  {
+    "rank": 667,
+    "spanish": "antiguo",
+    "pos": "adj",
+    "translation": "old/ancient"
+  },
+  {
+    "rank": 668,
+    "spanish": "ocupar",
+    "pos": "v",
+    "translation": "to occupy"
+  },
+  {
+    "rank": 669,
+    "spanish": "asesinar",
+    "pos": "v",
+    "translation": "to murder"
+  },
+  {
+    "rank": 670,
+    "spanish": "banco",
+    "pos": "n",
+    "translation": "bank"
+  },
+  {
+    "rank": 671,
+    "spanish": "político",
+    "pos": "n",
+    "translation": "politician"
+  },
+  {
+    "rank": 672,
+    "spanish": "mayoría",
+    "pos": "n",
+    "translation": "majority"
+  },
+  {
+    "rank": 673,
+    "spanish": "miembro",
+    "pos": "n",
+    "translation": "member"
+  },
+  {
+    "rank": 674,
+    "spanish": "condición",
+    "pos": "n",
+    "translation": "condition"
+  },
+  {
+    "rank": 675,
+    "spanish": "efecto",
+    "pos": "n",
+    "translation": "effect"
+  },
+  {
+    "rank": 676,
+    "spanish": "económico",
+    "pos": "adj",
+    "translation": "economic"
+  },
+  {
+    "rank": 677,
+    "spanish": "volar",
+    "pos": "v",
+    "translation": "to fly"
+  },
+  {
+    "rank": 678,
+    "spanish": "brazo",
+    "pos": "n",
+    "translation": "arm"
+  },
+  {
+    "rank": 679,
+    "spanish": "ministro",
+    "pos": "n",
+    "translation": "minister"
+  },
+  {
+    "rank": 680,
+    "spanish": "libertad",
+    "pos": "n",
+    "translation": "freedom"
+  },
+  {
+    "rank": 681,
+    "spanish": "asesinato",
+    "pos": "n",
+    "translation": "murder"
+  },
+  {
+    "rank": 682,
+    "spanish": "reunir",
+    "pos": "v",
+    "translation": "to gather"
+  },
+  {
+    "rank": 683,
+    "spanish": "crecer",
+    "pos": "v",
+    "translation": "to grow"
+  },
+  {
+    "rank": 684,
+    "spanish": "alcanzar",
+    "pos": "v",
+    "translation": "to reach"
+  },
+  {
+    "rank": 685,
+    "spanish": "devolver",
+    "pos": "v",
+    "translation": "to return"
+  },
+  {
+    "rank": 686,
+    "spanish": "interés",
+    "pos": "n",
+    "translation": "interest"
+  },
+  {
+    "rank": 687,
+    "spanish": "animal",
+    "pos": "n",
+    "translation": "animal"
+  },
+  {
+    "rank": 688,
+    "spanish": "joder",
+    "pos": "v",
+    "translation": "to screw"
+  },
+  {
+    "rank": 689,
+    "spanish": "destruir",
+    "pos": "v",
+    "translation": "to destroy"
+  },
+  {
+    "rank": 690,
+    "spanish": "José",
+    "pos": "prop",
+    "translation": "Jose"
+  },
+  {
+    "rank": 691,
+    "spanish": "sol",
+    "pos": "n",
+    "translation": "sun"
+  },
+  {
+    "rank": 692,
+    "spanish": "entregar",
+    "pos": "v",
+    "translation": "to deliver"
+  },
+  {
+    "rank": 693,
+    "spanish": "color",
+    "pos": "n",
+    "translation": "color"
+  },
+  {
+    "rank": 694,
+    "spanish": "caja",
+    "pos": "n",
+    "translation": "box"
+  },
+  {
+    "rank": 695,
+    "spanish": "cliente",
+    "pos": "n",
+    "translation": "client"
+  },
+  {
+    "rank": 696,
+    "spanish": "distinto",
+    "pos": "adj",
+    "translation": "different"
+  },
+  {
+    "rank": 697,
+    "spanish": "víctima",
+    "pos": "n",
+    "translation": "victim"
+  },
+  {
+    "rank": 698,
+    "spanish": "deseo",
+    "pos": "n",
+    "translation": "desire"
+  },
+  {
+    "rank": 699,
+    "spanish": "arte",
+    "pos": "n",
+    "translation": "art"
+  },
+  {
+    "rank": 700,
+    "spanish": "rojo",
+    "pos": "adj",
+    "translation": "red"
+  },
+  {
+    "rank": 701,
+    "spanish": "acompañar",
+    "pos": "v",
+    "translation": "to accompany"
+  },
+  {
+    "rank": 702,
+    "spanish": "causa",
+    "pos": "n",
+    "translation": "cause"
+  },
+  {
+    "rank": 703,
+    "spanish": "cita",
+    "pos": "n",
+    "translation": "appointment/quote"
+  },
+  {
+    "rank": 704,
+    "spanish": "trato",
+    "pos": "n",
+    "translation": "treatment/deal"
+  },
+  {
+    "rank": 705,
+    "spanish": "demostrar",
+    "pos": "v",
+    "translation": "to demonstrate"
+  },
+  {
+    "rank": 706,
+    "spanish": "aforar",
+    "pos": "v",
+    "translation": "to gauge"
+  },
+  {
+    "rank": 707,
+    "spanish": "jamás",
+    "pos": "adv",
+    "translation": "never"
+  },
+  {
+    "rank": 708,
+    "spanish": "recuperar",
+    "pos": "v",
+    "translation": "to recover"
+  },
+  {
+    "rank": 709,
+    "spanish": "merecer",
+    "pos": "v",
+    "translation": "to deserve"
+  },
+  {
+    "rank": 710,
+    "spanish": "hotel",
+    "pos": "n",
+    "translation": "hotel"
+  },
+  {
+    "rank": 711,
+    "spanish": "estrella",
+    "pos": "n",
+    "translation": "star"
+  },
+  {
+    "rank": 712,
+    "spanish": "sexo",
+    "pos": "n",
+    "translation": "sex"
+  },
+  {
+    "rank": 713,
+    "spanish": "normal",
+    "pos": "adj",
+    "translation": "normal"
+  },
+  {
+    "rank": 714,
+    "spanish": "bailar",
+    "pos": "v",
+    "translation": "to dance"
+  },
+  {
+    "rank": 715,
+    "spanish": "incluir",
+    "pos": "v",
+    "translation": "to include"
+  },
+  {
+    "rank": 716,
+    "spanish": "dolor",
+    "pos": "n",
+    "translation": "pain"
+  },
+  {
+    "rank": 717,
+    "spanish": "mitad",
+    "pos": "n",
+    "translation": "half"
+  },
+  {
+    "rank": 718,
+    "spanish": "s",
+    "pos": "letter",
+    "translation": "letter s"
+  },
+  {
+    "rank": 719,
+    "spanish": "gusto",
+    "pos": "n",
+    "translation": "pleasure"
+  },
+  {
+    "rank": 720,
+    "spanish": "canción",
+    "pos": "n",
+    "translation": "song"
+  },
+  {
+    "rank": 721,
+    "spanish": "alrededor",
+    "pos": "adv",
+    "translation": "around"
+  },
+  {
+    "rank": 722,
+    "spanish": "militar",
+    "pos": "adj",
+    "translation": "military"
+  },
+  {
+    "rank": 723,
+    "spanish": "baño",
+    "pos": "n",
+    "translation": "bath"
+  },
+  {
+    "rank": 724,
+    "spanish": "i",
+    "pos": "letter",
+    "translation": "letter i"
+  },
+  {
+    "rank": 725,
+    "spanish": "querido",
+    "pos": "adj",
+    "translation": "dear"
+  },
+  {
+    "rank": 726,
+    "spanish": "objetivo",
+    "pos": "n",
+    "translation": "goal"
+  },
+  {
+    "rank": 727,
+    "spanish": "reír",
+    "pos": "v",
+    "translation": "to laugh"
+  },
+  {
+    "rank": 728,
+    "spanish": "respecto",
+    "pos": "n",
+    "translation": "respect"
+  },
+  {
+    "rank": 729,
+    "spanish": "salud",
+    "pos": "n",
+    "translation": "health"
+  },
+  {
+    "rank": 730,
+    "spanish": "the",
+    "pos": "none",
+    "translation": "the"
+  },
+  {
+    "rank": 731,
+    "spanish": "completo",
+    "pos": "adj",
+    "translation": "complete"
+  },
+  {
+    "rank": 732,
+    "spanish": "sal",
+    "pos": "n",
+    "translation": "salt"
+  },
+  {
+    "rank": 733,
+    "spanish": "mente",
+    "pos": "n",
+    "translation": "mind"
+  },
+  {
+    "rank": 734,
+    "spanish": "suelo",
+    "pos": "n",
+    "translation": "ground/floor"
+  },
+  {
+    "rank": 735,
+    "spanish": "cortar",
+    "pos": "v",
+    "translation": "to cut"
+  },
+  {
+    "rank": 736,
+    "spanish": "posición",
+    "pos": "n",
+    "translation": "position"
+  },
+  {
+    "rank": 737,
+    "spanish": "medida",
+    "pos": "n",
+    "translation": "measure"
+  },
+  {
+    "rank": 738,
+    "spanish": "especie",
+    "pos": "n",
+    "translation": "species/kind"
+  },
+  {
+    "rank": 739,
+    "spanish": "siete",
+    "pos": "num",
+    "translation": "seven"
+  },
+  {
+    "rank": 740,
+    "spanish": "diferencia",
+    "pos": "n",
+    "translation": "difference"
+  },
+  {
+    "rank": 741,
+    "spanish": "formar",
+    "pos": "v",
+    "translation": "to form"
+  },
+  {
+    "rank": 742,
+    "spanish": "precio",
+    "pos": "n",
+    "translation": "price"
+  },
+  {
+    "rank": 743,
+    "spanish": "jack",
+    "pos": "prop",
+    "translation": "Jack"
+  },
+  {
+    "rank": 744,
+    "spanish": "maravilloso",
+    "pos": "adj",
+    "translation": "wonderful"
+  },
+  {
+    "rank": 745,
+    "spanish": "pelo",
+    "pos": "n",
+    "translation": "hair"
+  },
+  {
+    "rank": 746,
+    "spanish": "York",
+    "pos": "prop",
+    "translation": "York"
+  },
+  {
+    "rank": 747,
+    "spanish": "luchar",
+    "pos": "v",
+    "translation": "to fight"
+  },
+  {
+    "rank": 748,
+    "spanish": "opinión",
+    "pos": "n",
+    "translation": "opinion"
+  },
+  {
+    "rank": 749,
+    "spanish": "estudiar",
+    "pos": "v",
+    "translation": "to study"
+  },
+  {
+    "rank": 750,
+    "spanish": "resolver",
+    "pos": "v",
+    "translation": "to solve"
+  },
+  {
+    "rank": 751,
+    "spanish": "mercado",
+    "pos": "n",
+    "translation": "market"
+  },
+  {
+    "rank": 752,
+    "spanish": "Iglesia",
+    "pos": "n",
+    "translation": "church"
+  },
+  {
+    "rank": 753,
+    "spanish": "elección",
+    "pos": "n",
+    "translation": "election"
+  },
+  {
+    "rank": 754,
+    "spanish": "interior",
+    "pos": "n",
+    "translation": "interior"
+  },
+  {
+    "rank": 755,
+    "spanish": "silencio",
+    "pos": "n",
+    "translation": "silence"
+  },
+  {
+    "rank": 756,
+    "spanish": "necesidad",
+    "pos": "n",
+    "translation": "need"
+  },
+  {
+    "rank": 757,
+    "spanish": "odio",
+    "pos": "n",
+    "translation": "hate"
+  },
+  {
+    "rank": 758,
+    "spanish": "experiencia",
+    "pos": "n",
+    "translation": "experience"
+  },
+  {
+    "rank": 759,
+    "spanish": "actividad",
+    "pos": "n",
+    "translation": "activity"
+  },
+  {
+    "rank": 760,
+    "spanish": "guardar",
+    "pos": "v",
+    "translation": "to save/keep"
+  },
+  {
+    "rank": 761,
+    "spanish": "droga",
+    "pos": "n",
+    "translation": "drug"
+  },
+  {
+    "rank": 762,
+    "spanish": "controlar",
+    "pos": "v",
+    "translation": "to control"
+  },
+  {
+    "rank": 763,
+    "spanish": "accidente",
+    "pos": "n",
+    "translation": "accident"
+  },
+  {
+    "rank": 764,
+    "spanish": "club",
+    "pos": "n",
+    "translation": "club"
+  },
+  {
+    "rank": 765,
+    "spanish": "ejército",
+    "pos": "n",
+    "translation": "army"
+  },
+  {
+    "rank": 766,
+    "spanish": "mar",
+    "pos": "n",
+    "translation": "sea"
+  },
+  {
+    "rank": 767,
+    "spanish": "ataque",
+    "pos": "n",
+    "translation": "attack"
+  },
+  {
+    "rank": 768,
+    "spanish": "imposible",
+    "pos": "adj",
+    "translation": "impossible"
+  },
+  {
+    "rank": 769,
+    "spanish": "contacto",
+    "pos": "n",
+    "translation": "contact"
+  },
+  {
+    "rank": 770,
+    "spanish": "privado",
+    "pos": "adj",
+    "translation": "private"
+  },
+  {
+    "rank": 771,
+    "spanish": "alma",
+    "pos": "n",
+    "translation": "soul"
+  },
+  {
+    "rank": 772,
+    "spanish": "común",
+    "pos": "adj",
+    "translation": "common"
+  },
+  {
+    "rank": 773,
+    "spanish": "soldado",
+    "pos": "n",
+    "translation": "soldier"
+  },
+  {
+    "rank": 774,
+    "spanish": "llave",
+    "pos": "n",
+    "translation": "key"
+  },
+  {
+    "rank": 775,
+    "spanish": "energía",
+    "pos": "n",
+    "translation": "energy"
+  },
+  {
+    "rank": 776,
+    "spanish": "barco",
+    "pos": "n",
+    "translation": "ship"
+  },
+  {
+    "rank": 777,
+    "spanish": "srta.",
+    "pos": "none",
+    "translation": "Miss"
+  },
+  {
+    "rank": 778,
+    "spanish": "observar",
+    "pos": "v",
+    "translation": "to observe"
+  },
+  {
+    "rank": 779,
+    "spanish": "juez",
+    "pos": "n",
+    "translation": "judge"
+  },
+  {
+    "rank": 780,
+    "spanish": "atacar",
+    "pos": "v",
+    "translation": "to attack"
+  },
+  {
+    "rank": 781,
+    "spanish": "preparado",
+    "pos": "adj",
+    "translation": "ready"
+  },
+  {
+    "rank": 782,
+    "spanish": "río",
+    "pos": "n",
+    "translation": "river"
+  },
+  {
+    "rank": 783,
+    "spanish": "tienda",
+    "pos": "n",
+    "translation": "shop"
+  },
+  {
+    "rank": 784,
+    "spanish": "señalar",
+    "pos": "v",
+    "translation": "to point out"
+  },
+  {
+    "rank": 785,
+    "spanish": "negar",
+    "pos": "v",
+    "translation": "to deny"
+  },
+  {
+    "rank": 786,
+    "spanish": "avión",
+    "pos": "n",
+    "translation": "airplane"
+  },
+  {
+    "rank": 787,
+    "spanish": "dulce",
+    "pos": "adj",
+    "translation": "sweet"
+  },
+  {
+    "rank": 788,
+    "spanish": "marchar",
+    "pos": "v",
+    "translation": "to march"
+  },
+  {
+    "rank": 789,
+    "spanish": "tuyo",
+    "pos": "pron",
+    "translation": "yours"
+  },
+  {
+    "rank": 790,
+    "spanish": "operación",
+    "pos": "n",
+    "translation": "operation"
+  },
+  {
+    "rank": 791,
+    "spanish": "encuentro",
+    "pos": "n",
+    "translation": "meeting"
+  },
+  {
+    "rank": 792,
+    "spanish": "fuente",
+    "pos": "n",
+    "translation": "source"
+  },
+  {
+    "rank": 793,
+    "spanish": "informe",
+    "pos": "n",
+    "translation": "report"
+  },
+  {
+    "rank": 794,
+    "spanish": "izquierda",
+    "pos": "n",
+    "translation": "left"
+  },
+  {
+    "rank": 795,
+    "spanish": "pierna",
+    "pos": "n",
+    "translation": "leg"
+  },
+  {
+    "rank": 796,
+    "spanish": "sala",
+    "pos": "n",
+    "translation": "room"
+  },
+  {
+    "rank": 797,
+    "spanish": "nacer",
+    "pos": "v",
+    "translation": "to be born"
+  },
+  {
+    "rank": 798,
+    "spanish": "apenas",
+    "pos": "adv",
+    "translation": "hardly"
+  },
+  {
+    "rank": 799,
+    "spanish": "ocho",
+    "pos": "num",
+    "translation": "eight"
+  },
+  {
+    "rank": 800,
+    "spanish": "averiguar",
+    "pos": "v",
+    "translation": "to find out"
+  },
+  {
+    "rank": 801,
+    "spanish": "esconder",
+    "pos": "v",
+    "translation": "to hide"
+  },
+  {
+    "rank": 802,
+    "spanish": "señal",
+    "pos": "n",
+    "translation": "signal"
+  },
+  {
+    "rank": 803,
+    "spanish": "anterior",
+    "pos": "adj",
+    "translation": "previous"
+  },
+  {
+    "rank": 804,
+    "spanish": "costar",
+    "pos": "v",
+    "translation": "to cost"
+  },
+  {
+    "rank": 805,
+    "spanish": "muestra",
+    "pos": "n",
+    "translation": "display/sample"
+  },
+  {
+    "rank": 806,
+    "spanish": "nota",
+    "pos": "n",
+    "translation": "note"
+  },
+  {
+    "rank": 807,
+    "spanish": "derecha",
+    "pos": "n",
+    "translation": "right"
+  },
+  {
+    "rank": 808,
+    "spanish": "escena",
+    "pos": "n",
+    "translation": "scene"
+  },
+  {
+    "rank": 809,
+    "spanish": "viejo",
+    "pos": "adj",
+    "translation": "old"
+  },
+  {
+    "rank": 810,
+    "spanish": "soltar",
+    "pos": "v",
+    "translation": "to release"
+  },
+  {
+    "rank": 811,
+    "spanish": "interesante",
+    "pos": "adj",
+    "translation": "interesting"
+  },
+  {
+    "rank": 812,
+    "spanish": "vosotros",
+    "pos": "pron",
+    "translation": "you (plural)"
+  },
+  {
+    "rank": 813,
+    "spanish": "menor",
+    "pos": "adj",
+    "translation": "younger/smaller"
+  },
+  {
+    "rank": 814,
+    "spanish": "metro",
+    "pos": "n",
+    "translation": "subway"
+  },
+  {
+    "rank": 815,
+    "spanish": "entrada",
+    "pos": "n",
+    "translation": "entrance"
+  },
+  {
+    "rank": 816,
+    "spanish": "regalo",
+    "pos": "n",
+    "translation": "gift"
+  },
+  {
+    "rank": 817,
+    "spanish": "edificio",
+    "pos": "n",
+    "translation": "building"
+  },
+  {
+    "rank": 818,
+    "spanish": "enfermedad",
+    "pos": "n",
+    "translation": "illness"
+  },
+  {
+    "rank": 819,
+    "spanish": "traje",
+    "pos": "n",
+    "translation": "suit"
+  },
+  {
+    "rank": 820,
+    "spanish": "gritar",
+    "pos": "v",
+    "translation": "to shout"
+  },
+  {
+    "rank": 821,
+    "spanish": "totalmente",
+    "pos": "adv",
+    "translation": "totally"
+  },
+  {
+    "rank": 822,
+    "spanish": "contestar",
+    "pos": "v",
+    "translation": "to answer"
+  },
+  {
+    "rank": 823,
+    "spanish": "peligroso",
+    "pos": "adj",
+    "translation": "dangerous"
+  },
+  {
+    "rank": 824,
+    "spanish": "salvo",
+    "pos": "prep",
+    "translation": "except"
+  },
+  {
+    "rank": 825,
+    "spanish": "jurar",
+    "pos": "v",
+    "translation": "to swear"
+  },
+  {
+    "rank": 826,
+    "spanish": "agradecer",
+    "pos": "v",
+    "translation": "to thank"
+  },
+  {
+    "rank": 827,
+    "spanish": "disculpa",
+    "pos": "n",
+    "translation": "apology"
+  },
+  {
+    "rank": 828,
+    "spanish": "simple",
+    "pos": "adj",
+    "translation": "simple"
+  },
+  {
+    "rank": 829,
+    "spanish": "uh",
+    "pos": "interj",
+    "translation": "uh"
+  },
+  {
+    "rank": 830,
+    "spanish": "debido",
+    "pos": "adj",
+    "translation": "due"
+  },
+  {
+    "rank": 831,
+    "spanish": "unir",
+    "pos": "v",
+    "translation": "to unite"
+  },
+  {
+    "rank": 832,
+    "spanish": "disfrutar",
+    "pos": "v",
+    "translation": "to enjoy"
+  },
+  {
+    "rank": 833,
+    "spanish": "internacional",
+    "pos": "adj",
+    "translation": "international"
+  },
+  {
+    "rank": 834,
+    "spanish": "total",
+    "pos": "adj",
+    "translation": "total"
+  },
+  {
+    "rank": 835,
+    "spanish": "equivocado",
+    "pos": "adj",
+    "translation": "wrong"
+  },
+  {
+    "rank": 836,
+    "spanish": "casado",
+    "pos": "adj",
+    "translation": "married"
+  },
+  {
+    "rank": 837,
+    "spanish": "cena",
+    "pos": "n",
+    "translation": "dinner"
+  },
+  {
+    "rank": 838,
+    "spanish": "guardia",
+    "pos": "n",
+    "translation": "guard"
+  },
+  {
+    "rank": 839,
+    "spanish": "desarrollo",
+    "pos": "n",
+    "translation": "development"
+  },
+  {
+    "rank": 840,
+    "spanish": "apostar",
+    "pos": "v",
+    "translation": "to bet"
+  },
+  {
+    "rank": 841,
+    "spanish": "presente",
+    "pos": "n",
+    "translation": "present"
+  },
+  {
+    "rank": 842,
+    "spanish": "odiar",
+    "pos": "v",
+    "translation": "to hate"
+  },
+  {
+    "rank": 843,
+    "spanish": "cuestión",
+    "pos": "n",
+    "translation": "question"
+  },
+  {
+    "rank": 844,
+    "spanish": "pelear",
+    "pos": "v",
+    "translation": "to fight"
+  },
+  {
+    "rank": 845,
+    "spanish": "acordar",
+    "pos": "v",
+    "translation": "to agree"
+  },
+  {
+    "rank": 846,
+    "spanish": "dato",
+    "pos": "n",
+    "translation": "data"
+  },
+  {
+    "rank": 847,
+    "spanish": "motivo",
+    "pos": "n",
+    "translation": "reason"
+  },
+  {
+    "rank": 848,
+    "spanish": "enfrentar",
+    "pos": "v",
+    "translation": "to face"
+  },
+  {
+    "rank": 849,
+    "spanish": "crimen",
+    "pos": "n",
+    "translation": "crime"
+  },
+  {
+    "rank": 850,
+    "spanish": "flor",
+    "pos": "n",
+    "translation": "flower"
+  },
+  {
+    "rank": 851,
+    "spanish": "boda",
+    "pos": "n",
+    "translation": "wedding"
+  },
+  {
+    "rank": 852,
+    "spanish": "representar",
+    "pos": "v",
+    "translation": "to represent"
+  },
+  {
+    "rank": 853,
+    "spanish": "unidad",
+    "pos": "n",
+    "translation": "unit"
+  },
+  {
+    "rank": 854,
+    "spanish": "montón",
+    "pos": "n",
+    "translation": "pile"
+  },
+  {
+    "rank": 855,
+    "spanish": "éxito",
+    "pos": "n",
+    "translation": "success"
+  },
+  {
+    "rank": 856,
+    "spanish": "haz",
+    "pos": "n",
+    "translation": "beam"
+  },
+  {
+    "rank": 857,
+    "spanish": "peligro",
+    "pos": "n",
+    "translation": "danger"
+  },
+  {
+    "rank": 858,
+    "spanish": "golpe",
+    "pos": "n",
+    "translation": "blow"
+  },
+  {
+    "rank": 859,
+    "spanish": "corto",
+    "pos": "adj",
+    "translation": "short"
+  },
+  {
+    "rank": 860,
+    "spanish": "construir",
+    "pos": "v",
+    "translation": "to build"
+  },
+  {
+    "rank": 861,
+    "spanish": "mencionar",
+    "pos": "v",
+    "translation": "to mention"
+  },
+  {
+    "rank": 862,
+    "spanish": "revisar",
+    "pos": "v",
+    "translation": "to check"
+  },
+  {
+    "rank": 863,
+    "spanish": "Carlos",
+    "pos": "prop",
+    "translation": "Carlos"
+  },
+  {
+    "rank": 864,
+    "spanish": "atrapar",
+    "pos": "v",
+    "translation": "to catch"
+  },
+  {
+    "rank": 865,
+    "spanish": "sam",
+    "pos": "prop",
+    "translation": "Sam"
+  },
+  {
+    "rank": 866,
+    "spanish": "producto",
+    "pos": "n",
+    "translation": "product"
+  },
+  {
+    "rank": 867,
+    "spanish": "manejar",
+    "pos": "v",
+    "translation": "to handle/drive"
+  },
+  {
+    "rank": 868,
+    "spanish": "carne",
+    "pos": "n",
+    "translation": "meat"
+  },
+  {
+    "rank": 869,
+    "spanish": "placer",
+    "pos": "n",
+    "translation": "pleasure"
+  },
+  {
+    "rank": 870,
+    "spanish": "ventana",
+    "pos": "n",
+    "translation": "window"
+  },
+  {
+    "rank": 871,
+    "spanish": "interesar",
+    "pos": "v",
+    "translation": "to interest"
+  },
+  {
+    "rank": 872,
+    "spanish": "despedir",
+    "pos": "v",
+    "translation": "to fire/dismiss"
+  },
+  {
+    "rank": 873,
+    "spanish": "alejar",
+    "pos": "v",
+    "translation": "to move away"
+  },
+  {
+    "rank": 874,
+    "spanish": "natural",
+    "pos": "adj",
+    "translation": "natural"
+  },
+  {
+    "rank": 875,
+    "spanish": "oro",
+    "pos": "n",
+    "translation": "gold"
+  },
+  {
+    "rank": 876,
+    "spanish": "cualquiera",
+    "pos": "pron",
+    "translation": "anyone"
+  },
+  {
+    "rank": 877,
+    "spanish": "David",
+    "pos": "prop",
+    "translation": "David"
+  },
+  {
+    "rank": 878,
+    "spanish": "cometer",
+    "pos": "v",
+    "translation": "to commit"
+  },
+  {
+    "rank": 879,
+    "spanish": "huir",
+    "pos": "v",
+    "translation": "to flee"
+  },
+  {
+    "rank": 880,
+    "spanish": "lamento",
+    "pos": "n",
+    "translation": "regret"
+  },
+  {
+    "rank": 881,
+    "spanish": "informar",
+    "pos": "v",
+    "translation": "to inform"
+  },
+  {
+    "rank": 882,
+    "spanish": "acto",
+    "pos": "n",
+    "translation": "act"
+  },
+  {
+    "rank": 883,
+    "spanish": "cárcel",
+    "pos": "n",
+    "translation": "jail"
+  },
+  {
+    "rank": 884,
+    "spanish": "hallar",
+    "pos": "v",
+    "translation": "to find"
+  },
+  {
+    "rank": 885,
+    "spanish": "radio",
+    "pos": "n",
+    "translation": "radio"
+  },
+  {
+    "rank": 886,
+    "spanish": "enemigo",
+    "pos": "n",
+    "translation": "enemy"
+  },
+  {
+    "rank": 887,
+    "spanish": "profesional",
+    "pos": "adj",
+    "translation": "professional"
+  },
+  {
+    "rank": 888,
+    "spanish": "local",
+    "pos": "adj",
+    "translation": "local"
+  },
+  {
+    "rank": 889,
+    "spanish": "hambre",
+    "pos": "n",
+    "translation": "hunger"
+  },
+  {
+    "rank": 890,
+    "spanish": "departamento",
+    "pos": "n",
+    "translation": "department"
+  },
+  {
+    "rank": 891,
+    "spanish": "piso",
+    "pos": "n",
+    "translation": "floor/apartment"
+  },
+  {
+    "rank": 892,
+    "spanish": "finalmente",
+    "pos": "adv",
+    "translation": "finally"
+  },
+  {
+    "rank": 893,
+    "spanish": "espalda",
+    "pos": "n",
+    "translation": "back"
+  },
+  {
+    "rank": 894,
+    "spanish": "vestido",
+    "pos": "n",
+    "translation": "dress"
+  },
+  {
+    "rank": 895,
+    "spanish": "completamente",
+    "pos": "adv",
+    "translation": "completely"
+  },
+  {
+    "rank": 896,
+    "spanish": "terrible",
+    "pos": "adj",
+    "translation": "terrible"
+  },
+  {
+    "rank": 897,
+    "spanish": "norte",
+    "pos": "n",
+    "translation": "north"
+  },
+  {
+    "rank": 898,
+    "spanish": "cerrado",
+    "pos": "adj",
+    "translation": "closed"
+  },
+  {
+    "rank": 899,
+    "spanish": "aspecto",
+    "pos": "n",
+    "translation": "aspect"
+  },
+  {
+    "rank": 900,
+    "spanish": "familiar",
+    "pos": "adj",
+    "translation": "familiar"
+  },
+  {
+    "rank": 901,
+    "spanish": "visita",
+    "pos": "n",
+    "translation": "visit"
+  },
+  {
+    "rank": 902,
+    "spanish": "aun",
+    "pos": "adv",
+    "translation": "still"
+  },
+  {
+    "rank": 903,
+    "spanish": "adónde",
+    "pos": "adv",
+    "translation": "where to"
+  },
+  {
+    "rank": 904,
+    "spanish": "contrario",
+    "pos": "adj",
+    "translation": "opposite"
+  },
+  {
+    "rank": 905,
+    "spanish": "enterar",
+    "pos": "v",
+    "translation": "to find out"
+  },
+  {
+    "rank": 906,
+    "spanish": "broma",
+    "pos": "n",
+    "translation": "joke"
+  },
+  {
+    "rank": 907,
+    "spanish": "sorpresa",
+    "pos": "n",
+    "translation": "surprise"
+  },
+  {
+    "rank": 908,
+    "spanish": "juicio",
+    "pos": "n",
+    "translation": "trial/judgment"
+  },
+  {
+    "rank": 909,
+    "spanish": "defensa",
+    "pos": "n",
+    "translation": "defense"
+  },
+  {
+    "rank": 910,
+    "spanish": "depender",
+    "pos": "v",
+    "translation": "to depend"
+  },
+  {
+    "rank": 911,
+    "spanish": "m",
+    "pos": "letter",
+    "translation": "letter m"
+  },
+  {
+    "rank": 912,
+    "spanish": "regla",
+    "pos": "n",
+    "translation": "rule"
+  },
+  {
+    "rank": 913,
+    "spanish": "comunidad",
+    "pos": "n",
+    "translation": "community"
+  },
+  {
+    "rank": 914,
+    "spanish": "intento",
+    "pos": "n",
+    "translation": "attempt"
+  },
+  {
+    "rank": 915,
+    "spanish": "cantidad",
+    "pos": "n",
+    "translation": "amount"
+  },
+  {
+    "rank": 916,
+    "spanish": "compartir",
+    "pos": "v",
+    "translation": "to share"
+  },
+  {
+    "rank": 917,
+    "spanish": "entendido",
+    "pos": "adj",
+    "translation": "understood"
+  },
+  {
+    "rank": 918,
+    "spanish": "besar",
+    "pos": "v",
+    "translation": "to kiss"
+  },
+  {
+    "rank": 919,
+    "spanish": "pertenecer",
+    "pos": "v",
+    "translation": "to belong"
+  },
+  {
+    "rank": 920,
+    "spanish": "repetir",
+    "pos": "v",
+    "translation": "to repeat"
+  },
+  {
+    "rank": 921,
+    "spanish": "engañar",
+    "pos": "v",
+    "translation": "to deceive"
+  },
+  {
+    "rank": 922,
+    "spanish": "nave",
+    "pos": "n",
+    "translation": "ship"
+  },
+  {
+    "rank": 923,
+    "spanish": "riesgo",
+    "pos": "n",
+    "translation": "risk"
+  },
+  {
+    "rank": 924,
+    "spanish": "justicia",
+    "pos": "n",
+    "translation": "justice"
+  },
+  {
+    "rank": 925,
+    "spanish": "central",
+    "pos": "adj",
+    "translation": "central"
+  },
+  {
+    "rank": 926,
+    "spanish": "cubrir",
+    "pos": "v",
+    "translation": "to cover"
+  },
+  {
+    "rank": 927,
+    "spanish": "salida",
+    "pos": "n",
+    "translation": "exit"
+  },
+  {
+    "rank": 928,
+    "spanish": "americano",
+    "pos": "adj",
+    "translation": "American"
+  },
+  {
+    "rank": 929,
+    "spanish": "tren",
+    "pos": "n",
+    "translation": "train"
+  },
+  {
+    "rank": 930,
+    "spanish": "serie",
+    "pos": "n",
+    "translation": "series"
+  },
+  {
+    "rank": 931,
+    "spanish": "sector",
+    "pos": "n",
+    "translation": "sector"
+  },
+  {
+    "rank": 932,
+    "spanish": "permanecer",
+    "pos": "v",
+    "translation": "to remain"
+  },
+  {
+    "rank": 933,
+    "spanish": "viajar",
+    "pos": "v",
+    "translation": "to travel"
+  },
+  {
+    "rank": 934,
+    "spanish": "apartar",
+    "pos": "v",
+    "translation": "to move aside"
+  },
+  {
+    "rank": 935,
+    "spanish": "preocupado",
+    "pos": "adj",
+    "translation": "worried"
+  },
+  {
+    "rank": 936,
+    "spanish": "asustar",
+    "pos": "v",
+    "translation": "to scare"
+  },
+  {
+    "rank": 937,
+    "spanish": "desarrollar",
+    "pos": "v",
+    "translation": "to develop"
+  },
+  {
+    "rank": 938,
+    "spanish": "uso",
+    "pos": "n",
+    "translation": "use"
+  },
+  {
+    "rank": 939,
+    "spanish": "calmar",
+    "pos": "v",
+    "translation": "to calm"
+  },
+  {
+    "rank": 940,
+    "spanish": "cabo",
+    "pos": "n",
+    "translation": "cape"
+  },
+  {
+    "rank": 941,
+    "spanish": "horrible",
+    "pos": "adj",
+    "translation": "horrible"
+  },
+  {
+    "rank": 942,
+    "spanish": "corte",
+    "pos": "n",
+    "translation": "court/cut"
+  },
+  {
+    "rank": 943,
+    "spanish": "prestar",
+    "pos": "v",
+    "translation": "to lend"
+  },
+  {
+    "rank": 944,
+    "spanish": "dedo",
+    "pos": "n",
+    "translation": "finger"
+  },
+  {
+    "rank": 945,
+    "spanish": "pegar",
+    "pos": "v",
+    "translation": "to hit/stick"
+  },
+  {
+    "rank": 946,
+    "spanish": "discutir",
+    "pos": "v",
+    "translation": "to argue"
+  },
+  {
+    "rank": 947,
+    "spanish": "esperanza",
+    "pos": "n",
+    "translation": "hope"
+  },
+  {
+    "rank": 948,
+    "spanish": "peso",
+    "pos": "n",
+    "translation": "weight"
+  },
+  {
+    "rank": 949,
+    "spanish": "opción",
+    "pos": "n",
+    "translation": "option"
+  },
+  {
+    "rank": 950,
+    "spanish": "época",
+    "pos": "n",
+    "translation": "era"
+  },
+  {
+    "rank": 951,
+    "spanish": "delante",
+    "pos": "adv",
+    "translation": "in front"
+  },
+  {
+    "rank": 952,
+    "spanish": "alemán",
+    "pos": "adj",
+    "translation": "German"
+  },
+  {
+    "rank": 953,
+    "spanish": "rato",
+    "pos": "n",
+    "translation": "while"
+  },
+  {
+    "rank": 954,
+    "spanish": "testigo",
+    "pos": "n",
+    "translation": "witness"
+  },
+  {
+    "rank": 955,
+    "spanish": "admitir",
+    "pos": "v",
+    "translation": "to admit"
+  },
+  {
+    "rank": 956,
+    "spanish": "ocasión",
+    "pos": "n",
+    "translation": "occasion"
+  },
+  {
+    "rank": 957,
+    "spanish": "área",
+    "pos": "n",
+    "translation": "area"
+  },
+  {
+    "rank": 958,
+    "spanish": "detective",
+    "pos": "n",
+    "translation": "detective"
+  },
+  {
+    "rank": 959,
+    "spanish": "triste",
+    "pos": "adj",
+    "translation": "sad"
+  },
+  {
+    "rank": 960,
+    "spanish": "matrimonio",
+    "pos": "n",
+    "translation": "marriage"
+  },
+  {
+    "rank": 961,
+    "spanish": "superior",
+    "pos": "adj",
+    "translation": "superior"
+  },
+  {
+    "rank": 962,
+    "spanish": "árbol",
+    "pos": "n",
+    "translation": "tree"
+  },
+  {
+    "rank": 963,
+    "spanish": "destino",
+    "pos": "n",
+    "translation": "destination"
+  },
+  {
+    "rank": 964,
+    "spanish": "frío",
+    "pos": "adj",
+    "translation": "cold"
+  },
+  {
+    "rank": 965,
+    "spanish": "objeto",
+    "pos": "n",
+    "translation": "object"
+  },
+  {
+    "rank": 966,
+    "spanish": "defender",
+    "pos": "v",
+    "translation": "to defend"
+  },
+  {
+    "rank": 967,
+    "spanish": "sentado",
+    "pos": "adj",
+    "translation": "seated"
+  },
+  {
+    "rank": 968,
+    "spanish": "sur",
+    "pos": "n",
+    "translation": "south"
+  },
+  {
+    "rank": 969,
+    "spanish": "cansado",
+    "pos": "adj",
+    "translation": "tired"
+  },
+  {
+    "rank": 970,
+    "spanish": "azul",
+    "pos": "adj",
+    "translation": "blue"
+  },
+  {
+    "rank": 971,
+    "spanish": "oscuro",
+    "pos": "adj",
+    "translation": "dark"
+  },
+  {
+    "rank": 972,
+    "spanish": "superar",
+    "pos": "v",
+    "translation": "to overcome"
+  },
+  {
+    "rank": 973,
+    "spanish": "apoyar",
+    "pos": "v",
+    "translation": "to support"
+  },
+  {
+    "rank": 974,
+    "spanish": "michael",
+    "pos": "prop",
+    "translation": "Michael"
+  },
+  {
+    "rank": 975,
+    "spanish": "cine",
+    "pos": "n",
+    "translation": "cinema"
+  },
+  {
+    "rank": 976,
+    "spanish": "cierto",
+    "pos": "adj",
+    "translation": "correct"
+  },
+  {
+    "rank": 977,
+    "spanish": "doler",
+    "pos": "v",
+    "translation": "to hurt"
+  },
+  {
+    "rank": 978,
+    "spanish": "oler",
+    "pos": "v",
+    "translation": "to smell"
+  },
+  {
+    "rank": 979,
+    "spanish": "gracioso",
+    "pos": "adj",
+    "translation": "funny"
+  },
+  {
+    "rank": 980,
+    "spanish": "bromear",
+    "pos": "v",
+    "translation": "to joke"
+  },
+  {
+    "rank": 981,
+    "spanish": "limpiar",
+    "pos": "v",
+    "translation": "to clean"
+  },
+  {
+    "rank": 982,
+    "spanish": "marcha",
+    "pos": "n",
+    "translation": "march"
+  },
+  {
+    "rank": 983,
+    "spanish": "misión",
+    "pos": "n",
+    "translation": "mission"
+  },
+  {
+    "rank": 984,
+    "spanish": "cocina",
+    "pos": "n",
+    "translation": "kitchen"
+  },
+  {
+    "rank": 985,
+    "spanish": "isla",
+    "pos": "n",
+    "translation": "island"
+  },
+  {
+    "rank": 986,
+    "spanish": "enfermo",
+    "pos": "adj",
+    "translation": "sick"
+  },
+  {
+    "rank": 987,
+    "spanish": "encargar",
+    "pos": "v",
+    "translation": "to assign"
+  },
+  {
+    "rank": 988,
+    "spanish": "responsable",
+    "pos": "adj",
+    "translation": "responsible"
+  },
+  {
+    "rank": 989,
+    "spanish": "declarar",
+    "pos": "v",
+    "translation": "to declare"
+  },
+  {
+    "rank": 990,
+    "spanish": "sentimiento",
+    "pos": "n",
+    "translation": "feeling"
+  },
+  {
+    "rank": 991,
+    "spanish": "colocar",
+    "pos": "v",
+    "translation": "to place"
+  },
+  {
+    "rank": 992,
+    "spanish": "visitar",
+    "pos": "v",
+    "translation": "to visit"
+  },
+  {
+    "rank": 993,
+    "spanish": "indicar",
+    "pos": "v",
+    "translation": "to indicate"
+  },
+  {
+    "rank": 994,
+    "spanish": "físico",
+    "pos": "adj",
+    "translation": "physical"
+  },
+  {
+    "rank": 995,
+    "spanish": "prensa",
+    "pos": "n",
+    "translation": "press"
+  },
+  {
+    "rank": 996,
+    "spanish": "actor",
+    "pos": "n",
+    "translation": "actor"
+  },
+  {
+    "rank": 997,
+    "spanish": "amable",
+    "pos": "adj",
+    "translation": "kind"
+  },
+  {
+    "rank": 998,
+    "spanish": "actual",
+    "pos": "adj",
+    "translation": "current"
+  },
+  {
+    "rank": 999,
+    "spanish": "francés",
+    "pos": "adj",
+    "translation": "French"
+  },
+  {
+    "rank": 1000,
+    "spanish": "organización",
+    "pos": "n",
+    "translation": "organization"
+  }
+]

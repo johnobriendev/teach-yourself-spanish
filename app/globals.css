@@ -1,26 +1,34 @@
 @import "tailwindcss";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
+/* ── Design-system color tokens ─────────────────────────────────────────── */
+@theme {
+  --color-base:         #FAFAF7;
+  --color-surface:      #F2F2EC;
+  --color-border:       #E0DFD8;
+  --color-text:         #1C1C1A;
+  --color-muted:        #6B6B63;
+  --color-accent:       #3D7A5F;
+  --color-accent-light: #EAF2EC;
+  --color-accent-dark:  #2A5742;
+  --color-gold:         #C49A3C;
+  --color-gold-light:   #FDF6E3;
 }
 
+/* ── Font families (next/font sets these CSS vars via <html> className) ──── */
 @theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  --font-display: var(--font-playfair);
+  --font-heading: var(--font-lora);
+  --font-body:    var(--font-source-serif);
+  --font-ui:      var(--font-dm-sans);
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+/* ── Base styles ─────────────────────────────────────────────────────────── */
+html {
+  scroll-behavior: smooth;
 }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  background-color: var(--color-base);
+  color: var(--color-text);
+  font-family: var(--font-body), Georgia, serif;
 }
