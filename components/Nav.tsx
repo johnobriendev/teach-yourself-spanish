@@ -7,8 +7,6 @@ import { usePathname } from "next/navigation";
 const VERB_SLUGS = [
   "ser", "estar", "tener", "hacer", "ir",
   "poder", "querer", "saber", "venir", "decir",
-  "dar", "ver", "poner", "salir", "llevar",
-  "hablar", "comer", "vivir", "trabajar", "necesitar",
 ];
 
 const TIPS_LINKS = [
@@ -96,7 +94,7 @@ export default function Nav() {
                       href="/verbs"
                       className="font-ui text-sm font-medium text-accent hover:text-accent-dark transition-colors"
                     >
-                      View all verbs →
+                      55 Essential Verbs →
                     </Link>
                   </div>
                   <div className="grid grid-cols-2 p-3 gap-x-2">
@@ -186,7 +184,7 @@ export default function Nav() {
           <MobileLink href="/"       label="Home"         current={pathname} />
           <MobileLink href="/words"  label="1000 Words"   current={pathname} />
           <MobileLink href="/tenses" label="14 Tenses"    current={pathname} />
-          <MobileLink href="/verbs"  label="All Verbs"    current={pathname} />
+          <MobileLink href="/verbs"  label="55 Essential Verbs" current={pathname} />
 
           <div className="mt-6 mb-2">
             <p className="px-3 font-ui text-xs font-medium text-muted uppercase tracking-widest mb-1">

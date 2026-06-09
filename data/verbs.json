@@ -1,18 +1,322 @@
 [
   {
-    "slug": "ser",
-    "infinitive": "ser",
-    "english": "to be (permanent)",
+    "slug": "acabar",
+    "infinitive": "acabar",
+    "english": "to finish, to end",
+    "type": "regular",
+    "conjugations": {
+      "present":             { "yo": "acabo",    "tú": "acabas",    "él/ella": "acaba",    "nosotros": "acabamos",   "vosotros": "acabáis",   "ellos/ellas": "acaban"    },
+      "preterite":           { "yo": "acabé",    "tú": "acabaste",  "él/ella": "acabó",    "nosotros": "acabamos",   "vosotros": "acabasteis","ellos/ellas": "acabaron"  },
+      "imperfect":           { "yo": "acababa",  "tú": "acababas",  "él/ella": "acababa",  "nosotros": "acabábamos", "vosotros": "acababais", "ellos/ellas": "acababan"  },
+      "future":              { "yo": "acabaré",  "tú": "acabarás",  "él/ella": "acabará",  "nosotros": "acabaremos", "vosotros": "acabaréis", "ellos/ellas": "acabarán"  },
+      "conditional":         { "yo": "acabaría", "tú": "acabarías", "él/ella": "acabaría", "nosotros": "acabaríamos","vosotros": "acabaríais","ellos/ellas": "acabarían" },
+      "subjunctive_present": { "yo": "acabe",    "tú": "acabes",    "él/ella": "acabe",    "nosotros": "acabemos",   "vosotros": "acabéis",   "ellos/ellas": "acaben"    }
+    },
+    "notes": "/* OWNER: write your notes for acabar here */",
+    "examples": []
+  },
+  {
+    "slug": "andar",
+    "infinitive": "andar",
+    "english": "to walk",
     "type": "irregular",
     "conjugations": {
-      "present":             { "yo": "soy",    "tú": "eres",      "él/ella": "es",      "nosotros": "somos",    "vosotros": "sois",      "ellos/ellas": "son"      },
-      "preterite":           { "yo": "fui",    "tú": "fuiste",    "él/ella": "fue",     "nosotros": "fuimos",   "vosotros": "fuisteis",  "ellos/ellas": "fueron"   },
-      "imperfect":           { "yo": "era",    "tú": "eras",      "él/ella": "era",     "nosotros": "éramos",   "vosotros": "erais",     "ellos/ellas": "eran"     },
-      "future":              { "yo": "seré",   "tú": "serás",     "él/ella": "será",    "nosotros": "seremos",  "vosotros": "seréis",    "ellos/ellas": "serán"    },
-      "conditional":         { "yo": "sería",  "tú": "serías",    "él/ella": "sería",   "nosotros": "seríamos", "vosotros": "seríais",   "ellos/ellas": "serían"   },
-      "subjunctive_present": { "yo": "sea",    "tú": "seas",      "él/ella": "sea",     "nosotros": "seamos",   "vosotros": "seáis",     "ellos/ellas": "sean"     }
+      "present":             { "yo": "ando",     "tú": "andas",     "él/ella": "anda",     "nosotros": "andamos",    "vosotros": "andáis",    "ellos/ellas": "andan"     },
+      "preterite":           { "yo": "anduve",   "tú": "anduviste", "él/ella": "anduvo",   "nosotros": "anduvimos",  "vosotros": "anduvisteis","ellos/ellas": "anduvieron"},
+      "imperfect":           { "yo": "andaba",   "tú": "andabas",   "él/ella": "andaba",   "nosotros": "andábamos",  "vosotros": "andabais",  "ellos/ellas": "andaban"   },
+      "future":              { "yo": "andaré",   "tú": "andarás",   "él/ella": "andará",   "nosotros": "andaremos",  "vosotros": "andaréis",  "ellos/ellas": "andarán"   },
+      "conditional":         { "yo": "andaría",  "tú": "andarías",  "él/ella": "andaría",  "nosotros": "andaríamos", "vosotros": "andaríais", "ellos/ellas": "andarían"  },
+      "subjunctive_present": { "yo": "ande",     "tú": "andes",     "él/ella": "ande",     "nosotros": "andemos",    "vosotros": "andéis",    "ellos/ellas": "anden"     }
     },
-    "notes": "/* OWNER: write your notes for ser here */",
+    "notes": "/* OWNER: write your notes for andar here */",
+    "examples": []
+  },
+  {
+    "slug": "aprender",
+    "infinitive": "aprender",
+    "english": "to learn",
+    "type": "regular",
+    "conjugations": {
+      "present":             { "yo": "aprendo",     "tú": "aprendes",     "él/ella": "aprende",     "nosotros": "aprendemos",    "vosotros": "aprendéis",    "ellos/ellas": "aprenden"     },
+      "preterite":           { "yo": "aprendí",     "tú": "aprendiste",   "él/ella": "aprendió",    "nosotros": "aprendimos",    "vosotros": "aprendisteis", "ellos/ellas": "aprendieron"  },
+      "imperfect":           { "yo": "aprendía",    "tú": "aprendías",    "él/ella": "aprendía",    "nosotros": "aprendíamos",   "vosotros": "aprendíais",   "ellos/ellas": "aprendían"    },
+      "future":              { "yo": "aprenderé",   "tú": "aprenderás",   "él/ella": "aprenderá",   "nosotros": "aprenderemos",  "vosotros": "aprenderéis",  "ellos/ellas": "aprenderán"   },
+      "conditional":         { "yo": "aprendería",  "tú": "aprenderías",  "él/ella": "aprendería",  "nosotros": "aprenderíamos", "vosotros": "aprenderíais", "ellos/ellas": "aprenderían"  },
+      "subjunctive_present": { "yo": "aprenda",     "tú": "aprendas",     "él/ella": "aprenda",     "nosotros": "aprendamos",    "vosotros": "aprendáis",    "ellos/ellas": "aprendan"     }
+    },
+    "notes": "/* OWNER: write your notes for aprender here */",
+    "examples": []
+  },
+  {
+    "slug": "caer",
+    "infinitive": "caer",
+    "english": "to fall",
+    "type": "irregular",
+    "conjugations": {
+      "present":             { "yo": "caigo",   "tú": "caes",      "él/ella": "cae",      "nosotros": "caemos",     "vosotros": "caéis",     "ellos/ellas": "caen"      },
+      "preterite":           { "yo": "caí",     "tú": "caíste",    "él/ella": "cayó",     "nosotros": "caímos",     "vosotros": "caísteis",  "ellos/ellas": "cayeron"   },
+      "imperfect":           { "yo": "caía",    "tú": "caías",     "él/ella": "caía",     "nosotros": "caíamos",    "vosotros": "caíais",    "ellos/ellas": "caían"     },
+      "future":              { "yo": "caeré",   "tú": "caerás",    "él/ella": "caerá",    "nosotros": "caeremos",   "vosotros": "caeréis",   "ellos/ellas": "caerán"    },
+      "conditional":         { "yo": "caería",  "tú": "caerías",   "él/ella": "caería",   "nosotros": "caeríamos",  "vosotros": "caeríais",  "ellos/ellas": "caerían"   },
+      "subjunctive_present": { "yo": "caiga",   "tú": "caigas",    "él/ella": "caiga",    "nosotros": "caigamos",   "vosotros": "caigáis",   "ellos/ellas": "caigan"    }
+    },
+    "notes": "/* OWNER: write your notes for caer here */",
+    "examples": []
+  },
+  {
+    "slug": "caerse",
+    "infinitive": "caerse",
+    "english": "to fall down, to fall over",
+    "type": "irregular",
+    "conjugations": {
+      "present":             { "yo": "me caigo",   "tú": "te caes",      "él/ella": "se cae",      "nosotros": "nos caemos",     "vosotros": "os caéis",     "ellos/ellas": "se caen"      },
+      "preterite":           { "yo": "me caí",     "tú": "te caíste",    "él/ella": "se cayó",     "nosotros": "nos caímos",     "vosotros": "os caísteis",  "ellos/ellas": "se cayeron"   },
+      "imperfect":           { "yo": "me caía",    "tú": "te caías",     "él/ella": "se caía",     "nosotros": "nos caíamos",    "vosotros": "os caíais",    "ellos/ellas": "se caían"     },
+      "future":              { "yo": "me caeré",   "tú": "te caerás",    "él/ella": "se caerá",    "nosotros": "nos caeremos",   "vosotros": "os caeréis",   "ellos/ellas": "se caerán"    },
+      "conditional":         { "yo": "me caería",  "tú": "te caerías",   "él/ella": "se caería",   "nosotros": "nos caeríamos",  "vosotros": "os caeríais",  "ellos/ellas": "se caerían"   },
+      "subjunctive_present": { "yo": "me caiga",   "tú": "te caigas",    "él/ella": "se caiga",    "nosotros": "nos caigamos",   "vosotros": "os caigáis",   "ellos/ellas": "se caigan"    }
+    },
+    "notes": "/* OWNER: write your notes for caerse here */",
+    "examples": []
+  },
+  {
+    "slug": "cantar",
+    "infinitive": "cantar",
+    "english": "to sing",
+    "type": "regular",
+    "conjugations": {
+      "present":             { "yo": "canto",    "tú": "cantas",    "él/ella": "canta",    "nosotros": "cantamos",   "vosotros": "cantáis",   "ellos/ellas": "cantan"    },
+      "preterite":           { "yo": "canté",    "tú": "cantaste",  "él/ella": "cantó",    "nosotros": "cantamos",   "vosotros": "cantasteis","ellos/ellas": "cantaron"  },
+      "imperfect":           { "yo": "cantaba",  "tú": "cantabas",  "él/ella": "cantaba",  "nosotros": "cantábamos", "vosotros": "cantabais", "ellos/ellas": "cantaban"  },
+      "future":              { "yo": "cantaré",  "tú": "cantarás",  "él/ella": "cantará",  "nosotros": "cantaremos", "vosotros": "cantaréis", "ellos/ellas": "cantarán"  },
+      "conditional":         { "yo": "cantaría", "tú": "cantarías", "él/ella": "cantaría", "nosotros": "cantaríamos","vosotros": "cantaríais","ellos/ellas": "cantarían" },
+      "subjunctive_present": { "yo": "cante",    "tú": "cantes",    "él/ella": "cante",    "nosotros": "cantemos",   "vosotros": "cantéis",   "ellos/ellas": "canten"    }
+    },
+    "notes": "/* OWNER: write your notes for cantar here */",
+    "examples": []
+  },
+  {
+    "slug": "comenzar",
+    "infinitive": "comenzar",
+    "english": "to begin, to start",
+    "type": "irregular",
+    "conjugations": {
+      "present":             { "yo": "comienzo",   "tú": "comienzas",   "él/ella": "comienza",   "nosotros": "comenzamos",   "vosotros": "comenzáis",   "ellos/ellas": "comienzan"   },
+      "preterite":           { "yo": "comencé",    "tú": "comenzaste",  "él/ella": "comenzó",    "nosotros": "comenzamos",   "vosotros": "comenzasteis","ellos/ellas": "comenzaron"  },
+      "imperfect":           { "yo": "comenzaba",  "tú": "comenzabas",  "él/ella": "comenzaba",  "nosotros": "comenzábamos", "vosotros": "comenzabais", "ellos/ellas": "comenzaban"  },
+      "future":              { "yo": "comenzaré",  "tú": "comenzarás",  "él/ella": "comenzará",  "nosotros": "comenzaremos", "vosotros": "comenzaréis", "ellos/ellas": "comenzarán"  },
+      "conditional":         { "yo": "comenzaría", "tú": "comenzarías", "él/ella": "comenzaría", "nosotros": "comenzaríamos","vosotros": "comenzaríais","ellos/ellas": "comenzarían" },
+      "subjunctive_present": { "yo": "comience",   "tú": "comiences",   "él/ella": "comience",   "nosotros": "comencemos",   "vosotros": "comencéis",   "ellos/ellas": "comiencen"   }
+    },
+    "notes": "/* OWNER: write your notes for comenzar here */",
+    "examples": []
+  },
+  {
+    "slug": "comer",
+    "infinitive": "comer",
+    "english": "to eat",
+    "type": "regular",
+    "conjugations": {
+      "present":             { "yo": "como",    "tú": "comes",     "él/ella": "come",     "nosotros": "comemos",    "vosotros": "coméis",    "ellos/ellas": "comen"     },
+      "preterite":           { "yo": "comí",    "tú": "comiste",   "él/ella": "comió",    "nosotros": "comimos",    "vosotros": "comisteis", "ellos/ellas": "comieron"  },
+      "imperfect":           { "yo": "comía",   "tú": "comías",    "él/ella": "comía",    "nosotros": "comíamos",   "vosotros": "comíais",   "ellos/ellas": "comían"    },
+      "future":              { "yo": "comeré",  "tú": "comerás",   "él/ella": "comerá",   "nosotros": "comeremos",  "vosotros": "comeréis",  "ellos/ellas": "comerán"   },
+      "conditional":         { "yo": "comería", "tú": "comerías",  "él/ella": "comería",  "nosotros": "comeríamos", "vosotros": "comeríais", "ellos/ellas": "comerían"  },
+      "subjunctive_present": { "yo": "coma",    "tú": "comas",     "él/ella": "coma",     "nosotros": "comamos",    "vosotros": "comáis",    "ellos/ellas": "coman"     }
+    },
+    "notes": "/* OWNER: write your notes for comer here */",
+    "examples": []
+  },
+  {
+    "slug": "comprar",
+    "infinitive": "comprar",
+    "english": "to buy",
+    "type": "regular",
+    "conjugations": {
+      "present":             { "yo": "compro",    "tú": "compras",    "él/ella": "compra",    "nosotros": "compramos",   "vosotros": "compráis",   "ellos/ellas": "compran"    },
+      "preterite":           { "yo": "compré",    "tú": "compraste",  "él/ella": "compró",    "nosotros": "compramos",   "vosotros": "comprasteis","ellos/ellas": "compraron"  },
+      "imperfect":           { "yo": "compraba",  "tú": "comprabas",  "él/ella": "compraba",  "nosotros": "comprábamos", "vosotros": "comprabais", "ellos/ellas": "compraban"  },
+      "future":              { "yo": "compraré",  "tú": "comprarás",  "él/ella": "comprará",  "nosotros": "compraremos", "vosotros": "compraréis", "ellos/ellas": "comprarán"  },
+      "conditional":         { "yo": "compraría", "tú": "comprarías", "él/ella": "compraría", "nosotros": "compraríamos","vosotros": "compraríais","ellos/ellas": "comprarían" },
+      "subjunctive_present": { "yo": "compre",    "tú": "compres",    "él/ella": "compre",    "nosotros": "compremos",   "vosotros": "compréis",   "ellos/ellas": "compren"    }
+    },
+    "notes": "/* OWNER: write your notes for comprar here */",
+    "examples": []
+  },
+  {
+    "slug": "conducir",
+    "infinitive": "conducir",
+    "english": "to drive",
+    "type": "irregular",
+    "conjugations": {
+      "present":             { "yo": "conduzco",   "tú": "conduces",    "él/ella": "conduce",    "nosotros": "conducimos",   "vosotros": "conducís",    "ellos/ellas": "conducen"    },
+      "preterite":           { "yo": "conduje",    "tú": "condujiste",  "él/ella": "condujo",    "nosotros": "condujimos",   "vosotros": "condujisteis","ellos/ellas": "condujeron"  },
+      "imperfect":           { "yo": "conducía",   "tú": "conducías",   "él/ella": "conducía",   "nosotros": "conducíamos",  "vosotros": "conducíais",  "ellos/ellas": "conducían"   },
+      "future":              { "yo": "conduciré",  "tú": "conducirás",  "él/ella": "conducirá",  "nosotros": "conduciremos", "vosotros": "conduciréis", "ellos/ellas": "conducirán"  },
+      "conditional":         { "yo": "conduciría", "tú": "conducirías", "él/ella": "conduciría", "nosotros": "conduciríamos","vosotros": "conduciríais","ellos/ellas": "conducirían" },
+      "subjunctive_present": { "yo": "conduzca",   "tú": "conduzcas",   "él/ella": "conduzca",   "nosotros": "conduzcamos",  "vosotros": "conduzcáis",  "ellos/ellas": "conduzcan"   }
+    },
+    "notes": "/* OWNER: write your notes for conducir here */",
+    "examples": []
+  },
+  {
+    "slug": "conocer",
+    "infinitive": "conocer",
+    "english": "to know (people/places)",
+    "type": "irregular",
+    "conjugations": {
+      "present":             { "yo": "conozco",   "tú": "conoces",    "él/ella": "conoce",    "nosotros": "conocemos",   "vosotros": "conocéis",   "ellos/ellas": "conocen"    },
+      "preterite":           { "yo": "conocí",    "tú": "conociste",  "él/ella": "conoció",   "nosotros": "conocimos",   "vosotros": "conocisteis","ellos/ellas": "conocieron" },
+      "imperfect":           { "yo": "conocía",   "tú": "conocías",   "él/ella": "conocía",   "nosotros": "conocíamos",  "vosotros": "conocíais",  "ellos/ellas": "conocían"   },
+      "future":              { "yo": "conoceré",  "tú": "conocerás",  "él/ella": "conocerá",  "nosotros": "conoceremos", "vosotros": "conoceréis", "ellos/ellas": "conocerán"  },
+      "conditional":         { "yo": "conocería", "tú": "conocerías", "él/ella": "conocería", "nosotros": "conoceríamos","vosotros": "conoceríais","ellos/ellas": "conocerían" },
+      "subjunctive_present": { "yo": "conozca",   "tú": "conozcas",   "él/ella": "conozca",   "nosotros": "conozcamos",  "vosotros": "conozcáis",  "ellos/ellas": "conozcan"   }
+    },
+    "notes": "/* OWNER: write your notes for conocer here */",
+    "examples": []
+  },
+  {
+    "slug": "construir",
+    "infinitive": "construir",
+    "english": "to build, to construct",
+    "type": "irregular",
+    "conjugations": {
+      "present":             { "yo": "construyo",   "tú": "construyes",   "él/ella": "construye",   "nosotros": "construimos",   "vosotros": "construís",    "ellos/ellas": "construyen"   },
+      "preterite":           { "yo": "construí",    "tú": "construiste",  "él/ella": "construyó",   "nosotros": "construimos",   "vosotros": "construisteis","ellos/ellas": "construyeron" },
+      "imperfect":           { "yo": "construía",   "tú": "construías",   "él/ella": "construía",   "nosotros": "construíamos",  "vosotros": "construíais",  "ellos/ellas": "construían"   },
+      "future":              { "yo": "construiré",  "tú": "construirás",  "él/ella": "construirá",  "nosotros": "construiremos", "vosotros": "construiréis", "ellos/ellas": "construirán"  },
+      "conditional":         { "yo": "construiría", "tú": "construirías", "él/ella": "construiría", "nosotros": "construiríamos","vosotros": "construiríais","ellos/ellas": "construirían" },
+      "subjunctive_present": { "yo": "construya",   "tú": "construyas",   "él/ella": "construya",   "nosotros": "construyamos",  "vosotros": "construyáis",  "ellos/ellas": "construyan"   }
+    },
+    "notes": "/* OWNER: write your notes for construir here */",
+    "examples": []
+  },
+  {
+    "slug": "contar",
+    "infinitive": "contar",
+    "english": "to count, to tell",
+    "type": "irregular",
+    "conjugations": {
+      "present":             { "yo": "cuento",   "tú": "cuentas",   "él/ella": "cuenta",   "nosotros": "contamos",   "vosotros": "contáis",   "ellos/ellas": "cuentan"   },
+      "preterite":           { "yo": "conté",    "tú": "contaste",  "él/ella": "contó",    "nosotros": "contamos",   "vosotros": "contasteis","ellos/ellas": "contaron"  },
+      "imperfect":           { "yo": "contaba",  "tú": "contabas",  "él/ella": "contaba",  "nosotros": "contábamos", "vosotros": "contabais", "ellos/ellas": "contaban"  },
+      "future":              { "yo": "contaré",  "tú": "contarás",  "él/ella": "contará",  "nosotros": "contaremos", "vosotros": "contaréis", "ellos/ellas": "contarán"  },
+      "conditional":         { "yo": "contaría", "tú": "contarías", "él/ella": "contaría", "nosotros": "contaríamos","vosotros": "contaríais","ellos/ellas": "contarían" },
+      "subjunctive_present": { "yo": "cuente",   "tú": "cuentes",   "él/ella": "cuente",   "nosotros": "contemos",   "vosotros": "contéis",   "ellos/ellas": "cuenten"   }
+    },
+    "notes": "/* OWNER: write your notes for contar here */",
+    "examples": []
+  },
+  {
+    "slug": "creer",
+    "infinitive": "creer",
+    "english": "to believe, to think",
+    "type": "irregular",
+    "conjugations": {
+      "present":             { "yo": "creo",    "tú": "crees",     "él/ella": "cree",     "nosotros": "creemos",    "vosotros": "creéis",    "ellos/ellas": "creen"     },
+      "preterite":           { "yo": "creí",    "tú": "creíste",   "él/ella": "creyó",    "nosotros": "creímos",    "vosotros": "creísteis", "ellos/ellas": "creyeron"  },
+      "imperfect":           { "yo": "creía",   "tú": "creías",    "él/ella": "creía",    "nosotros": "creíamos",   "vosotros": "creíais",   "ellos/ellas": "creían"    },
+      "future":              { "yo": "creeré",  "tú": "creerás",   "él/ella": "creerá",   "nosotros": "creeremos",  "vosotros": "creeréis",  "ellos/ellas": "creerán"   },
+      "conditional":         { "yo": "creería", "tú": "creerías",  "él/ella": "creería",  "nosotros": "creeríamos", "vosotros": "creeríais", "ellos/ellas": "creerían"  },
+      "subjunctive_present": { "yo": "crea",    "tú": "creas",     "él/ella": "crea",     "nosotros": "creamos",    "vosotros": "creáis",    "ellos/ellas": "crean"     }
+    },
+    "notes": "/* OWNER: write your notes for creer here */",
+    "examples": []
+  },
+  {
+    "slug": "dar",
+    "infinitive": "dar",
+    "english": "to give",
+    "type": "irregular",
+    "conjugations": {
+      "present":             { "yo": "doy",     "tú": "das",       "él/ella": "da",       "nosotros": "damos",      "vosotros": "dais",      "ellos/ellas": "dan"       },
+      "preterite":           { "yo": "di",      "tú": "diste",     "él/ella": "dio",      "nosotros": "dimos",      "vosotros": "disteis",   "ellos/ellas": "dieron"    },
+      "imperfect":           { "yo": "daba",    "tú": "dabas",     "él/ella": "daba",     "nosotros": "dábamos",    "vosotros": "dabais",    "ellos/ellas": "daban"     },
+      "future":              { "yo": "daré",    "tú": "darás",     "él/ella": "dará",     "nosotros": "daremos",    "vosotros": "daréis",    "ellos/ellas": "darán"     },
+      "conditional":         { "yo": "daría",   "tú": "darías",    "él/ella": "daría",    "nosotros": "daríamos",   "vosotros": "daríais",   "ellos/ellas": "darían"    },
+      "subjunctive_present": { "yo": "dé",      "tú": "des",       "él/ella": "dé",       "nosotros": "demos",      "vosotros": "deis",      "ellos/ellas": "den"       }
+    },
+    "notes": "/* OWNER: write your notes for dar here */",
+    "examples": []
+  },
+  {
+    "slug": "deber",
+    "infinitive": "deber",
+    "english": "to owe, must, should",
+    "type": "regular",
+    "conjugations": {
+      "present":             { "yo": "debo",    "tú": "debes",     "él/ella": "debe",     "nosotros": "debemos",    "vosotros": "debéis",    "ellos/ellas": "deben"     },
+      "preterite":           { "yo": "debí",    "tú": "debiste",   "él/ella": "debió",    "nosotros": "debimos",    "vosotros": "debisteis", "ellos/ellas": "debieron"  },
+      "imperfect":           { "yo": "debía",   "tú": "debías",    "él/ella": "debía",    "nosotros": "debíamos",   "vosotros": "debíais",   "ellos/ellas": "debían"    },
+      "future":              { "yo": "deberé",  "tú": "deberás",   "él/ella": "deberá",   "nosotros": "deberemos",  "vosotros": "deberéis",  "ellos/ellas": "deberán"   },
+      "conditional":         { "yo": "debería", "tú": "deberías",  "él/ella": "debería",  "nosotros": "deberíamos", "vosotros": "deberíais", "ellos/ellas": "deberían"  },
+      "subjunctive_present": { "yo": "deba",    "tú": "debas",     "él/ella": "deba",     "nosotros": "debamos",    "vosotros": "debáis",    "ellos/ellas": "deban"     }
+    },
+    "notes": "/* OWNER: write your notes for deber here */",
+    "examples": []
+  },
+  {
+    "slug": "decir",
+    "infinitive": "decir",
+    "english": "to say, to tell",
+    "type": "irregular",
+    "conjugations": {
+      "present":             { "yo": "digo",    "tú": "dices",     "él/ella": "dice",     "nosotros": "decimos",    "vosotros": "decís",     "ellos/ellas": "dicen"     },
+      "preterite":           { "yo": "dije",    "tú": "dijiste",   "él/ella": "dijo",     "nosotros": "dijimos",    "vosotros": "dijisteis", "ellos/ellas": "dijeron"   },
+      "imperfect":           { "yo": "decía",   "tú": "decías",    "él/ella": "decía",    "nosotros": "decíamos",   "vosotros": "decíais",   "ellos/ellas": "decían"    },
+      "future":              { "yo": "diré",    "tú": "dirás",     "él/ella": "dirá",     "nosotros": "diremos",    "vosotros": "diréis",    "ellos/ellas": "dirán"     },
+      "conditional":         { "yo": "diría",   "tú": "dirías",    "él/ella": "diría",    "nosotros": "diríamos",   "vosotros": "diríais",   "ellos/ellas": "dirían"    },
+      "subjunctive_present": { "yo": "diga",    "tú": "digas",     "él/ella": "diga",     "nosotros": "digamos",    "vosotros": "digáis",    "ellos/ellas": "digan"     }
+    },
+    "notes": "/* OWNER: write your notes for decir here */",
+    "examples": []
+  },
+  {
+    "slug": "dormir",
+    "infinitive": "dormir",
+    "english": "to sleep",
+    "type": "irregular",
+    "conjugations": {
+      "present":             { "yo": "duermo",   "tú": "duermes",   "él/ella": "duerme",   "nosotros": "dormimos",   "vosotros": "dormís",    "ellos/ellas": "duermen"   },
+      "preterite":           { "yo": "dormí",    "tú": "dormiste",  "él/ella": "durmió",   "nosotros": "dormimos",   "vosotros": "dormisteis","ellos/ellas": "durmieron" },
+      "imperfect":           { "yo": "dormía",   "tú": "dormías",   "él/ella": "dormía",   "nosotros": "dormíamos",  "vosotros": "dormíais",  "ellos/ellas": "dormían"   },
+      "future":              { "yo": "dormiré",  "tú": "dormirás",  "él/ella": "dormirá",  "nosotros": "dormiremos", "vosotros": "dormiréis", "ellos/ellas": "dormirán"  },
+      "conditional":         { "yo": "dormiría", "tú": "dormirías", "él/ella": "dormiría", "nosotros": "dormiríamos","vosotros": "dormiríais","ellos/ellas": "dormirían" },
+      "subjunctive_present": { "yo": "duerma",   "tú": "duermas",   "él/ella": "duerma",   "nosotros": "durmamos",   "vosotros": "durmáis",   "ellos/ellas": "duerman"   }
+    },
+    "notes": "/* OWNER: write your notes for dormir here */",
+    "examples": []
+  },
+  {
+    "slug": "entrar",
+    "infinitive": "entrar",
+    "english": "to enter, to go in",
+    "type": "regular",
+    "conjugations": {
+      "present":             { "yo": "entro",    "tú": "entras",    "él/ella": "entra",    "nosotros": "entramos",   "vosotros": "entráis",   "ellos/ellas": "entran"    },
+      "preterite":           { "yo": "entré",    "tú": "entraste",  "él/ella": "entró",    "nosotros": "entramos",   "vosotros": "entrasteis","ellos/ellas": "entraron"  },
+      "imperfect":           { "yo": "entraba",  "tú": "entrabas",  "él/ella": "entraba",  "nosotros": "entrábamos", "vosotros": "entrabais", "ellos/ellas": "entraban"  },
+      "future":              { "yo": "entraré",  "tú": "entrarás",  "él/ella": "entrará",  "nosotros": "entraremos", "vosotros": "entraréis", "ellos/ellas": "entrarán"  },
+      "conditional":         { "yo": "entraría", "tú": "entrarías", "él/ella": "entraría", "nosotros": "entraríamos","vosotros": "entraríais","ellos/ellas": "entrarían" },
+      "subjunctive_present": { "yo": "entre",    "tú": "entres",    "él/ella": "entre",    "nosotros": "entremos",   "vosotros": "entréis",   "ellos/ellas": "entren"    }
+    },
+    "notes": "/* OWNER: write your notes for entrar here */",
+    "examples": []
+  },
+  {
+    "slug": "escribir",
+    "infinitive": "escribir",
+    "english": "to write",
+    "type": "regular",
+    "conjugations": {
+      "present":             { "yo": "escribo",    "tú": "escribes",    "él/ella": "escribe",    "nosotros": "escribimos",   "vosotros": "escribís",    "ellos/ellas": "escriben"    },
+      "preterite":           { "yo": "escribí",    "tú": "escribiste",  "él/ella": "escribió",   "nosotros": "escribimos",   "vosotros": "escribisteis","ellos/ellas": "escribieron" },
+      "imperfect":           { "yo": "escribía",   "tú": "escribías",   "él/ella": "escribía",   "nosotros": "escribíamos",  "vosotros": "escribíais",  "ellos/ellas": "escribían"   },
+      "future":              { "yo": "escribiré",  "tú": "escribirás",  "él/ella": "escribirá",  "nosotros": "escribiremos", "vosotros": "escribiréis", "ellos/ellas": "escribirán"  },
+      "conditional":         { "yo": "escribiría", "tú": "escribirías", "él/ella": "escribiría", "nosotros": "escribiríamos","vosotros": "escribiríais","ellos/ellas": "escribirían" },
+      "subjunctive_present": { "yo": "escriba",    "tú": "escribas",    "él/ella": "escriba",    "nosotros": "escribamos",   "vosotros": "escribáis",   "ellos/ellas": "escriban"    }
+    },
+    "notes": "/* OWNER: write your notes for escribir here */",
     "examples": []
   },
   {
@@ -32,19 +336,67 @@
     "examples": []
   },
   {
-    "slug": "tener",
-    "infinitive": "tener",
-    "english": "to have",
+    "slug": "estudiar",
+    "infinitive": "estudiar",
+    "english": "to study",
+    "type": "regular",
+    "conjugations": {
+      "present":             { "yo": "estudio",    "tú": "estudias",    "él/ella": "estudia",    "nosotros": "estudiamos",   "vosotros": "estudiáis",   "ellos/ellas": "estudian"    },
+      "preterite":           { "yo": "estudié",    "tú": "estudiaste",  "él/ella": "estudió",    "nosotros": "estudiamos",   "vosotros": "estudiasteis","ellos/ellas": "estudiaron"  },
+      "imperfect":           { "yo": "estudiaba",  "tú": "estudiabas",  "él/ella": "estudiaba",  "nosotros": "estudiábamos", "vosotros": "estudiabais", "ellos/ellas": "estudiaban"  },
+      "future":              { "yo": "estudiaré",  "tú": "estudiarás",  "él/ella": "estudiará",  "nosotros": "estudiaremos", "vosotros": "estudiaréis", "ellos/ellas": "estudiarán"  },
+      "conditional":         { "yo": "estudiaría", "tú": "estudiarías", "él/ella": "estudiaría", "nosotros": "estudiaríamos","vosotros": "estudiaríais","ellos/ellas": "estudiarían" },
+      "subjunctive_present": { "yo": "estudie",    "tú": "estudies",    "él/ella": "estudie",    "nosotros": "estudiemos",   "vosotros": "estudiéis",   "ellos/ellas": "estudien"    }
+    },
+    "notes": "/* OWNER: write your notes for estudiar here */",
+    "examples": []
+  },
+  {
+    "slug": "gustar",
+    "infinitive": "gustar",
+    "english": "to please, to like (impersonal)",
     "type": "irregular",
     "conjugations": {
-      "present":             { "yo": "tengo",   "tú": "tienes",    "él/ella": "tiene",    "nosotros": "tenemos",    "vosotros": "tenéis",    "ellos/ellas": "tienen"    },
-      "preterite":           { "yo": "tuve",    "tú": "tuviste",   "él/ella": "tuvo",     "nosotros": "tuvimos",    "vosotros": "tuvisteis", "ellos/ellas": "tuvieron"  },
-      "imperfect":           { "yo": "tenía",   "tú": "tenías",    "él/ella": "tenía",    "nosotros": "teníamos",   "vosotros": "teníais",   "ellos/ellas": "tenían"    },
-      "future":              { "yo": "tendré",  "tú": "tendrás",   "él/ella": "tendrá",   "nosotros": "tendremos",  "vosotros": "tendréis",  "ellos/ellas": "tendrán"   },
-      "conditional":         { "yo": "tendría", "tú": "tendrías",  "él/ella": "tendría",  "nosotros": "tendríamos", "vosotros": "tendríais", "ellos/ellas": "tendrían"  },
-      "subjunctive_present": { "yo": "tenga",   "tú": "tengas",    "él/ella": "tenga",    "nosotros": "tengamos",   "vosotros": "tengáis",   "ellos/ellas": "tengan"    }
+      "present":             { "yo": "gusto",    "tú": "gustas",    "él/ella": "gusta",    "nosotros": "gustamos",   "vosotros": "gustáis",   "ellos/ellas": "gustan"    },
+      "preterite":           { "yo": "gusté",    "tú": "gustaste",  "él/ella": "gustó",    "nosotros": "gustamos",   "vosotros": "gustasteis","ellos/ellas": "gustaron"  },
+      "imperfect":           { "yo": "gustaba",  "tú": "gustabas",  "él/ella": "gustaba",  "nosotros": "gustábamos", "vosotros": "gustabais", "ellos/ellas": "gustaban"  },
+      "future":              { "yo": "gustaré",  "tú": "gustarás",  "él/ella": "gustará",  "nosotros": "gustaremos", "vosotros": "gustaréis", "ellos/ellas": "gustarán"  },
+      "conditional":         { "yo": "gustaría", "tú": "gustarías", "él/ella": "gustaría", "nosotros": "gustaríamos","vosotros": "gustaríais","ellos/ellas": "gustarían" },
+      "subjunctive_present": { "yo": "guste",    "tú": "gustes",    "él/ella": "guste",    "nosotros": "gustemos",   "vosotros": "gustéis",   "ellos/ellas": "gusten"    }
     },
-    "notes": "/* OWNER: write your notes for tener here */",
+    "notes": "/* OWNER: write your notes for gustar here */",
+    "examples": []
+  },
+  {
+    "slug": "haber",
+    "infinitive": "haber",
+    "english": "to have (auxiliary)",
+    "type": "irregular",
+    "conjugations": {
+      "present":             { "yo": "he",      "tú": "has",       "él/ella": "ha",       "nosotros": "hemos",      "vosotros": "habéis",    "ellos/ellas": "han"       },
+      "preterite":           { "yo": "hube",    "tú": "hubiste",   "él/ella": "hubo",     "nosotros": "hubimos",    "vosotros": "hubisteis", "ellos/ellas": "hubieron"  },
+      "imperfect":           { "yo": "había",   "tú": "habías",    "él/ella": "había",    "nosotros": "habíamos",   "vosotros": "habíais",   "ellos/ellas": "habían"    },
+      "future":              { "yo": "habré",   "tú": "habrás",    "él/ella": "habrá",    "nosotros": "habremos",   "vosotros": "habréis",   "ellos/ellas": "habrán"    },
+      "conditional":         { "yo": "habría",  "tú": "habrías",   "él/ella": "habría",   "nosotros": "habríamos",  "vosotros": "habríais",  "ellos/ellas": "habrían"   },
+      "subjunctive_present": { "yo": "haya",    "tú": "hayas",     "él/ella": "haya",     "nosotros": "hayamos",    "vosotros": "hayáis",    "ellos/ellas": "hayan"     }
+    },
+    "notes": "/* OWNER: write your notes for haber here */",
+    "examples": []
+  },
+  {
+    "slug": "hablar",
+    "infinitive": "hablar",
+    "english": "to speak, to talk",
+    "type": "regular",
+    "conjugations": {
+      "present":             { "yo": "hablo",   "tú": "hablas",    "él/ella": "habla",    "nosotros": "hablamos",   "vosotros": "habláis",   "ellos/ellas": "hablan"    },
+      "preterite":           { "yo": "hablé",   "tú": "hablaste",  "él/ella": "habló",    "nosotros": "hablamos",   "vosotros": "hablasteis","ellos/ellas": "hablaron"  },
+      "imperfect":           { "yo": "hablaba", "tú": "hablabas",  "él/ella": "hablaba",  "nosotros": "hablábamos", "vosotros": "hablabais", "ellos/ellas": "hablaban"  },
+      "future":              { "yo": "hablaré", "tú": "hablarás",  "él/ella": "hablará",  "nosotros": "hablaremos", "vosotros": "hablaréis", "ellos/ellas": "hablarán"  },
+      "conditional":         { "yo": "hablaría","tú": "hablarías", "él/ella": "hablaría", "nosotros": "hablaríamos","vosotros": "hablaríais","ellos/ellas": "hablarían" },
+      "subjunctive_present": { "yo": "hable",   "tú": "hables",    "él/ella": "hable",    "nosotros": "hablemos",   "vosotros": "habléis",   "ellos/ellas": "hablen"    }
+    },
+    "notes": "/* OWNER: write your notes for hablar here */",
     "examples": []
   },
   {
@@ -80,6 +432,182 @@
     "examples": []
   },
   {
+    "slug": "irse",
+    "infinitive": "irse",
+    "english": "to leave, to go away",
+    "type": "irregular",
+    "conjugations": {
+      "present":             { "yo": "me voy",   "tú": "te vas",      "él/ella": "se va",      "nosotros": "nos vamos",    "vosotros": "os vais",     "ellos/ellas": "se van"      },
+      "preterite":           { "yo": "me fui",   "tú": "te fuiste",   "él/ella": "se fue",     "nosotros": "nos fuimos",   "vosotros": "os fuisteis", "ellos/ellas": "se fueron"   },
+      "imperfect":           { "yo": "me iba",   "tú": "te ibas",     "él/ella": "se iba",     "nosotros": "nos íbamos",   "vosotros": "os ibais",    "ellos/ellas": "se iban"     },
+      "future":              { "yo": "me iré",   "tú": "te irás",     "él/ella": "se irá",     "nosotros": "nos iremos",   "vosotros": "os iréis",    "ellos/ellas": "se irán"     },
+      "conditional":         { "yo": "me iría",  "tú": "te irías",    "él/ella": "se iría",    "nosotros": "nos iríamos",  "vosotros": "os iríais",   "ellos/ellas": "se irían"    },
+      "subjunctive_present": { "yo": "me vaya",  "tú": "te vayas",    "él/ella": "se vaya",    "nosotros": "nos vayamos",  "vosotros": "os vayáis",   "ellos/ellas": "se vayan"    }
+    },
+    "notes": "/* OWNER: write your notes for irse here */",
+    "examples": []
+  },
+  {
+    "slug": "leer",
+    "infinitive": "leer",
+    "english": "to read",
+    "type": "irregular",
+    "conjugations": {
+      "present":             { "yo": "leo",     "tú": "lees",      "él/ella": "lee",      "nosotros": "leemos",     "vosotros": "leéis",     "ellos/ellas": "leen"      },
+      "preterite":           { "yo": "leí",     "tú": "leíste",    "él/ella": "leyó",     "nosotros": "leímos",     "vosotros": "leísteis",  "ellos/ellas": "leyeron"   },
+      "imperfect":           { "yo": "leía",    "tú": "leías",     "él/ella": "leía",     "nosotros": "leíamos",    "vosotros": "leíais",    "ellos/ellas": "leían"     },
+      "future":              { "yo": "leeré",   "tú": "leerás",    "él/ella": "leerá",    "nosotros": "leeremos",   "vosotros": "leeréis",   "ellos/ellas": "leerán"    },
+      "conditional":         { "yo": "leería",  "tú": "leerías",   "él/ella": "leería",   "nosotros": "leeríamos",  "vosotros": "leeríais",  "ellos/ellas": "leerían"   },
+      "subjunctive_present": { "yo": "lea",     "tú": "leas",      "él/ella": "lea",      "nosotros": "leamos",     "vosotros": "leáis",     "ellos/ellas": "lean"      }
+    },
+    "notes": "/* OWNER: write your notes for leer here */",
+    "examples": []
+  },
+  {
+    "slug": "llamar",
+    "infinitive": "llamar",
+    "english": "to call",
+    "type": "regular",
+    "conjugations": {
+      "present":             { "yo": "llamo",    "tú": "llamas",    "él/ella": "llama",    "nosotros": "llamamos",   "vosotros": "llamáis",   "ellos/ellas": "llaman"    },
+      "preterite":           { "yo": "llamé",    "tú": "llamaste",  "él/ella": "llamó",    "nosotros": "llamamos",   "vosotros": "llamasteis","ellos/ellas": "llamaron"  },
+      "imperfect":           { "yo": "llamaba",  "tú": "llamabas",  "él/ella": "llamaba",  "nosotros": "llamábamos", "vosotros": "llamabais", "ellos/ellas": "llamaban"  },
+      "future":              { "yo": "llamaré",  "tú": "llamarás",  "él/ella": "llamará",  "nosotros": "llamaremos", "vosotros": "llamaréis", "ellos/ellas": "llamarán"  },
+      "conditional":         { "yo": "llamaría", "tú": "llamarías", "él/ella": "llamaría", "nosotros": "llamaríamos","vosotros": "llamaríais","ellos/ellas": "llamarían" },
+      "subjunctive_present": { "yo": "llame",    "tú": "llames",    "él/ella": "llame",    "nosotros": "llamemos",   "vosotros": "llaméis",   "ellos/ellas": "llamen"    }
+    },
+    "notes": "/* OWNER: write your notes for llamar here */",
+    "examples": []
+  },
+  {
+    "slug": "llamarse",
+    "infinitive": "llamarse",
+    "english": "to be called, to be named",
+    "type": "irregular",
+    "conjugations": {
+      "present":             { "yo": "me llamo",    "tú": "te llamas",    "él/ella": "se llama",    "nosotros": "nos llamamos",   "vosotros": "os llamáis",   "ellos/ellas": "se llaman"    },
+      "preterite":           { "yo": "me llamé",    "tú": "te llamaste",  "él/ella": "se llamó",    "nosotros": "nos llamamos",   "vosotros": "os llamasteis","ellos/ellas": "se llamaron"  },
+      "imperfect":           { "yo": "me llamaba",  "tú": "te llamabas",  "él/ella": "se llamaba",  "nosotros": "nos llamábamos", "vosotros": "os llamabais", "ellos/ellas": "se llamaban"  },
+      "future":              { "yo": "me llamaré",  "tú": "te llamarás",  "él/ella": "se llamará",  "nosotros": "nos llamaremos", "vosotros": "os llamaréis", "ellos/ellas": "se llamarán"  },
+      "conditional":         { "yo": "me llamaría", "tú": "te llamarías", "él/ella": "se llamaría", "nosotros": "nos llamaríamos","vosotros": "os llamaríais","ellos/ellas": "se llamarían" },
+      "subjunctive_present": { "yo": "me llame",    "tú": "te llames",    "él/ella": "se llame",    "nosotros": "nos llamemos",   "vosotros": "os llaméis",   "ellos/ellas": "se llamen"    }
+    },
+    "notes": "/* OWNER: write your notes for llamarse here */",
+    "examples": []
+  },
+  {
+    "slug": "llevar",
+    "infinitive": "llevar",
+    "english": "to carry, to wear, to take",
+    "type": "regular",
+    "conjugations": {
+      "present":             { "yo": "llevo",   "tú": "llevas",    "él/ella": "lleva",    "nosotros": "llevamos",   "vosotros": "lleváis",   "ellos/ellas": "llevan"    },
+      "preterite":           { "yo": "llevé",   "tú": "llevaste",  "él/ella": "llevó",    "nosotros": "llevamos",   "vosotros": "llevasteis","ellos/ellas": "llevaron"  },
+      "imperfect":           { "yo": "llevaba", "tú": "llevabas",  "él/ella": "llevaba",  "nosotros": "llevábamos", "vosotros": "llevabais", "ellos/ellas": "llevaban"  },
+      "future":              { "yo": "llevaré", "tú": "llevarás",  "él/ella": "llevará",  "nosotros": "llevaremos", "vosotros": "llevaréis", "ellos/ellas": "llevarán"  },
+      "conditional":         { "yo": "llevaría","tú": "llevarías", "él/ella": "llevaría", "nosotros": "llevaríamos","vosotros": "llevaríais","ellos/ellas": "llevarían" },
+      "subjunctive_present": { "yo": "lleve",   "tú": "lleves",    "él/ella": "lleve",    "nosotros": "llevemos",   "vosotros": "llevéis",   "ellos/ellas": "lleven"    }
+    },
+    "notes": "/* OWNER: write your notes for llevar here */",
+    "examples": []
+  },
+  {
+    "slug": "mirar",
+    "infinitive": "mirar",
+    "english": "to look at, to watch",
+    "type": "regular",
+    "conjugations": {
+      "present":             { "yo": "miro",    "tú": "miras",     "él/ella": "mira",     "nosotros": "miramos",    "vosotros": "miráis",    "ellos/ellas": "miran"     },
+      "preterite":           { "yo": "miré",    "tú": "miraste",   "él/ella": "miró",     "nosotros": "miramos",    "vosotros": "mirasteis", "ellos/ellas": "miraron"   },
+      "imperfect":           { "yo": "miraba",  "tú": "mirabas",   "él/ella": "miraba",   "nosotros": "mirábamos",  "vosotros": "mirabais",  "ellos/ellas": "miraban"   },
+      "future":              { "yo": "miraré",  "tú": "mirarás",   "él/ella": "mirará",   "nosotros": "miraremos",  "vosotros": "miraréis",  "ellos/ellas": "mirarán"   },
+      "conditional":         { "yo": "miraría", "tú": "mirarías",  "él/ella": "miraría",  "nosotros": "miraríamos", "vosotros": "miraríais", "ellos/ellas": "mirarían"  },
+      "subjunctive_present": { "yo": "mire",    "tú": "mires",     "él/ella": "mire",     "nosotros": "miremos",    "vosotros": "miréis",    "ellos/ellas": "miren"     }
+    },
+    "notes": "/* OWNER: write your notes for mirar here */",
+    "examples": []
+  },
+  {
+    "slug": "mirarse",
+    "infinitive": "mirarse",
+    "english": "to look at oneself",
+    "type": "irregular",
+    "conjugations": {
+      "present":             { "yo": "me miro",    "tú": "te miras",     "él/ella": "se mira",     "nosotros": "nos miramos",    "vosotros": "os miráis",    "ellos/ellas": "se miran"     },
+      "preterite":           { "yo": "me miré",    "tú": "te miraste",   "él/ella": "se miró",     "nosotros": "nos miramos",    "vosotros": "os mirasteis", "ellos/ellas": "se miraron"   },
+      "imperfect":           { "yo": "me miraba",  "tú": "te mirabas",   "él/ella": "se miraba",   "nosotros": "nos mirábamos",  "vosotros": "os mirabais",  "ellos/ellas": "se miraban"   },
+      "future":              { "yo": "me miraré",  "tú": "te mirarás",   "él/ella": "se mirará",   "nosotros": "nos miraremos",  "vosotros": "os miraréis",  "ellos/ellas": "se mirarán"   },
+      "conditional":         { "yo": "me miraría", "tú": "te mirarías",  "él/ella": "se miraría",  "nosotros": "nos miraríamos", "vosotros": "os miraríais", "ellos/ellas": "se mirarían"  },
+      "subjunctive_present": { "yo": "me mire",    "tú": "te mires",     "él/ella": "se mire",     "nosotros": "nos miremos",    "vosotros": "os miréis",    "ellos/ellas": "se miren"     }
+    },
+    "notes": "/* OWNER: write your notes for mirarse here */",
+    "examples": []
+  },
+  {
+    "slug": "oír",
+    "infinitive": "oír",
+    "english": "to hear",
+    "type": "irregular",
+    "conjugations": {
+      "present":             { "yo": "oigo",   "tú": "oyes",      "él/ella": "oye",      "nosotros": "oímos",      "vosotros": "oís",       "ellos/ellas": "oyen"      },
+      "preterite":           { "yo": "oí",     "tú": "oíste",     "él/ella": "oyó",      "nosotros": "oímos",      "vosotros": "oísteis",   "ellos/ellas": "oyeron"    },
+      "imperfect":           { "yo": "oía",    "tú": "oías",      "él/ella": "oía",      "nosotros": "oíamos",     "vosotros": "oíais",     "ellos/ellas": "oían"      },
+      "future":              { "yo": "oiré",   "tú": "oirás",     "él/ella": "oirá",     "nosotros": "oiremos",    "vosotros": "oiréis",    "ellos/ellas": "oirán"     },
+      "conditional":         { "yo": "oiría",  "tú": "oirías",    "él/ella": "oiría",    "nosotros": "oiríamos",   "vosotros": "oiríais",   "ellos/ellas": "oirían"    },
+      "subjunctive_present": { "yo": "oiga",   "tú": "oigas",     "él/ella": "oiga",     "nosotros": "oigamos",    "vosotros": "oigáis",    "ellos/ellas": "oigan"     }
+    },
+    "notes": "/* OWNER: write your notes for oír here */",
+    "examples": []
+  },
+  {
+    "slug": "pagar",
+    "infinitive": "pagar",
+    "english": "to pay",
+    "type": "irregular",
+    "conjugations": {
+      "present":             { "yo": "pago",    "tú": "pagas",     "él/ella": "paga",     "nosotros": "pagamos",    "vosotros": "pagáis",    "ellos/ellas": "pagan"     },
+      "preterite":           { "yo": "pagué",   "tú": "pagaste",   "él/ella": "pagó",     "nosotros": "pagamos",    "vosotros": "pagasteis", "ellos/ellas": "pagaron"   },
+      "imperfect":           { "yo": "pagaba",  "tú": "pagabas",   "él/ella": "pagaba",   "nosotros": "pagábamos",  "vosotros": "pagabais",  "ellos/ellas": "pagaban"   },
+      "future":              { "yo": "pagaré",  "tú": "pagarás",   "él/ella": "pagará",   "nosotros": "pagaremos",  "vosotros": "pagaréis",  "ellos/ellas": "pagarán"   },
+      "conditional":         { "yo": "pagaría", "tú": "pagarías",  "él/ella": "pagaría",  "nosotros": "pagaríamos", "vosotros": "pagaríais", "ellos/ellas": "pagarían"  },
+      "subjunctive_present": { "yo": "pague",   "tú": "pagues",    "él/ella": "pague",    "nosotros": "paguemos",   "vosotros": "paguéis",   "ellos/ellas": "paguen"    }
+    },
+    "notes": "/* OWNER: write your notes for pagar here */",
+    "examples": []
+  },
+  {
+    "slug": "pensar",
+    "infinitive": "pensar",
+    "english": "to think",
+    "type": "irregular",
+    "conjugations": {
+      "present":             { "yo": "pienso",   "tú": "piensas",   "él/ella": "piensa",   "nosotros": "pensamos",   "vosotros": "pensáis",   "ellos/ellas": "piensan"   },
+      "preterite":           { "yo": "pensé",    "tú": "pensaste",  "él/ella": "pensó",    "nosotros": "pensamos",   "vosotros": "pensasteis","ellos/ellas": "pensaron"  },
+      "imperfect":           { "yo": "pensaba",  "tú": "pensabas",  "él/ella": "pensaba",  "nosotros": "pensábamos", "vosotros": "pensabais", "ellos/ellas": "pensaban"  },
+      "future":              { "yo": "pensaré",  "tú": "pensarás",  "él/ella": "pensará",  "nosotros": "pensaremos", "vosotros": "pensaréis", "ellos/ellas": "pensarán"  },
+      "conditional":         { "yo": "pensaría", "tú": "pensarías", "él/ella": "pensaría", "nosotros": "pensaríamos","vosotros": "pensaríais","ellos/ellas": "pensarían" },
+      "subjunctive_present": { "yo": "piense",   "tú": "pienses",   "él/ella": "piense",   "nosotros": "pensemos",   "vosotros": "penséis",   "ellos/ellas": "piensen"   }
+    },
+    "notes": "/* OWNER: write your notes for pensar here */",
+    "examples": []
+  },
+  {
+    "slug": "perder",
+    "infinitive": "perder",
+    "english": "to lose",
+    "type": "irregular",
+    "conjugations": {
+      "present":             { "yo": "pierdo",   "tú": "pierdes",   "él/ella": "pierde",   "nosotros": "perdemos",   "vosotros": "perdéis",   "ellos/ellas": "pierden"   },
+      "preterite":           { "yo": "perdí",    "tú": "perdiste",  "él/ella": "perdió",   "nosotros": "perdimos",   "vosotros": "perdisteis","ellos/ellas": "perdieron" },
+      "imperfect":           { "yo": "perdía",   "tú": "perdías",   "él/ella": "perdía",   "nosotros": "perdíamos",  "vosotros": "perdíais",  "ellos/ellas": "perdían"   },
+      "future":              { "yo": "perderé",  "tú": "perderás",  "él/ella": "perderá",  "nosotros": "perderemos", "vosotros": "perderéis", "ellos/ellas": "perderán"  },
+      "conditional":         { "yo": "perdería", "tú": "perderías", "él/ella": "perdería", "nosotros": "perderíamos","vosotros": "perderíais","ellos/ellas": "perderían" },
+      "subjunctive_present": { "yo": "pierda",   "tú": "pierdas",   "él/ella": "pierda",   "nosotros": "perdamos",   "vosotros": "perdáis",   "ellos/ellas": "pierdan"   }
+    },
+    "notes": "/* OWNER: write your notes for perder here */",
+    "examples": []
+  },
+  {
     "slug": "poder",
     "infinitive": "poder",
     "english": "to be able to, can",
@@ -93,6 +621,54 @@
       "subjunctive_present": { "yo": "pueda",   "tú": "puedas",    "él/ella": "pueda",    "nosotros": "podamos",    "vosotros": "podáis",    "ellos/ellas": "puedan"    }
     },
     "notes": "/* OWNER: write your notes for poder here */",
+    "examples": []
+  },
+  {
+    "slug": "poner",
+    "infinitive": "poner",
+    "english": "to put, to place",
+    "type": "irregular",
+    "conjugations": {
+      "present":             { "yo": "pongo",   "tú": "pones",     "él/ella": "pone",     "nosotros": "ponemos",    "vosotros": "ponéis",    "ellos/ellas": "ponen"     },
+      "preterite":           { "yo": "puse",    "tú": "pusiste",   "él/ella": "puso",     "nosotros": "pusimos",    "vosotros": "pusisteis", "ellos/ellas": "pusieron"  },
+      "imperfect":           { "yo": "ponía",   "tú": "ponías",    "él/ella": "ponía",    "nosotros": "poníamos",   "vosotros": "poníais",   "ellos/ellas": "ponían"    },
+      "future":              { "yo": "pondré",  "tú": "pondrás",   "él/ella": "pondrá",   "nosotros": "pondremos",  "vosotros": "pondréis",  "ellos/ellas": "pondrán"   },
+      "conditional":         { "yo": "pondría", "tú": "pondrías",  "él/ella": "pondría",  "nosotros": "pondríamos", "vosotros": "pondríais", "ellos/ellas": "pondrían"  },
+      "subjunctive_present": { "yo": "ponga",   "tú": "pongas",    "él/ella": "ponga",    "nosotros": "pongamos",   "vosotros": "pongáis",   "ellos/ellas": "pongan"    }
+    },
+    "notes": "/* OWNER: write your notes for poner here */",
+    "examples": []
+  },
+  {
+    "slug": "ponerse",
+    "infinitive": "ponerse",
+    "english": "to put on (clothing), to become",
+    "type": "irregular",
+    "conjugations": {
+      "present":             { "yo": "me pongo",   "tú": "te pones",     "él/ella": "se pone",     "nosotros": "nos ponemos",    "vosotros": "os ponéis",    "ellos/ellas": "se ponen"     },
+      "preterite":           { "yo": "me puse",    "tú": "te pusiste",   "él/ella": "se puso",     "nosotros": "nos pusimos",    "vosotros": "os pusisteis", "ellos/ellas": "se pusieron"  },
+      "imperfect":           { "yo": "me ponía",   "tú": "te ponías",    "él/ella": "se ponía",    "nosotros": "nos poníamos",   "vosotros": "os poníais",   "ellos/ellas": "se ponían"    },
+      "future":              { "yo": "me pondré",  "tú": "te pondrás",   "él/ella": "se pondrá",   "nosotros": "nos pondremos",  "vosotros": "os pondréis",  "ellos/ellas": "se pondrán"   },
+      "conditional":         { "yo": "me pondría", "tú": "te pondrías",  "él/ella": "se pondría",  "nosotros": "nos pondríamos", "vosotros": "os pondríais", "ellos/ellas": "se pondrían"  },
+      "subjunctive_present": { "yo": "me ponga",   "tú": "te pongas",    "él/ella": "se ponga",    "nosotros": "nos pongamos",   "vosotros": "os pongáis",   "ellos/ellas": "se pongan"    }
+    },
+    "notes": "/* OWNER: write your notes for ponerse here */",
+    "examples": []
+  },
+  {
+    "slug": "quedarse",
+    "infinitive": "quedarse",
+    "english": "to stay, to remain",
+    "type": "irregular",
+    "conjugations": {
+      "present":             { "yo": "me quedo",    "tú": "te quedas",    "él/ella": "se queda",    "nosotros": "nos quedamos",   "vosotros": "os quedáis",   "ellos/ellas": "se quedan"    },
+      "preterite":           { "yo": "me quedé",    "tú": "te quedaste",  "él/ella": "se quedó",    "nosotros": "nos quedamos",   "vosotros": "os quedasteis","ellos/ellas": "se quedaron"  },
+      "imperfect":           { "yo": "me quedaba",  "tú": "te quedabas",  "él/ella": "se quedaba",  "nosotros": "nos quedábamos", "vosotros": "os quedabais", "ellos/ellas": "se quedaban"  },
+      "future":              { "yo": "me quedaré",  "tú": "te quedarás",  "él/ella": "se quedará",  "nosotros": "nos quedaremos", "vosotros": "os quedaréis", "ellos/ellas": "se quedarán"  },
+      "conditional":         { "yo": "me quedaría", "tú": "te quedarías", "él/ella": "se quedaría", "nosotros": "nos quedaríamos","vosotros": "os quedaríais","ellos/ellas": "se quedarían" },
+      "subjunctive_present": { "yo": "me quede",    "tú": "te quedes",    "él/ella": "se quede",    "nosotros": "nos quedemos",   "vosotros": "os quedéis",   "ellos/ellas": "se queden"    }
+    },
+    "notes": "/* OWNER: write your notes for quedarse here */",
     "examples": []
   },
   {
@@ -128,6 +704,118 @@
     "examples": []
   },
   {
+    "slug": "salir",
+    "infinitive": "salir",
+    "english": "to leave, to go out",
+    "type": "irregular",
+    "conjugations": {
+      "present":             { "yo": "salgo",   "tú": "sales",     "él/ella": "sale",     "nosotros": "salimos",    "vosotros": "salís",     "ellos/ellas": "salen"     },
+      "preterite":           { "yo": "salí",    "tú": "saliste",   "él/ella": "salió",    "nosotros": "salimos",    "vosotros": "salisteis", "ellos/ellas": "salieron"  },
+      "imperfect":           { "yo": "salía",   "tú": "salías",    "él/ella": "salía",    "nosotros": "salíamos",   "vosotros": "salíais",   "ellos/ellas": "salían"    },
+      "future":              { "yo": "saldré",  "tú": "saldrás",   "él/ella": "saldrá",   "nosotros": "saldremos",  "vosotros": "saldréis",  "ellos/ellas": "saldrán"   },
+      "conditional":         { "yo": "saldría", "tú": "saldrías",  "él/ella": "saldría",  "nosotros": "saldríamos", "vosotros": "saldríais", "ellos/ellas": "saldrían"  },
+      "subjunctive_present": { "yo": "salga",   "tú": "salgas",    "él/ella": "salga",    "nosotros": "salgamos",   "vosotros": "salgáis",   "ellos/ellas": "salgan"    }
+    },
+    "notes": "/* OWNER: write your notes for salir here */",
+    "examples": []
+  },
+  {
+    "slug": "sentir",
+    "infinitive": "sentir",
+    "english": "to feel, to sense",
+    "type": "irregular",
+    "conjugations": {
+      "present":             { "yo": "siento",   "tú": "sientes",   "él/ella": "siente",   "nosotros": "sentimos",   "vosotros": "sentís",    "ellos/ellas": "sienten"   },
+      "preterite":           { "yo": "sentí",    "tú": "sentiste",  "él/ella": "sintió",   "nosotros": "sentimos",   "vosotros": "sentisteis","ellos/ellas": "sintieron" },
+      "imperfect":           { "yo": "sentía",   "tú": "sentías",   "él/ella": "sentía",   "nosotros": "sentíamos",  "vosotros": "sentíais",  "ellos/ellas": "sentían"   },
+      "future":              { "yo": "sentiré",  "tú": "sentirás",  "él/ella": "sentirá",  "nosotros": "sentiremos", "vosotros": "sentiréis", "ellos/ellas": "sentirán"  },
+      "conditional":         { "yo": "sentiría", "tú": "sentirías", "él/ella": "sentiría", "nosotros": "sentiríamos","vosotros": "sentiríais","ellos/ellas": "sentirían" },
+      "subjunctive_present": { "yo": "sienta",   "tú": "sientas",   "él/ella": "sienta",   "nosotros": "sintamos",   "vosotros": "sintáis",   "ellos/ellas": "sientan"   }
+    },
+    "notes": "/* OWNER: write your notes for sentir here */",
+    "examples": []
+  },
+  {
+    "slug": "sentirse",
+    "infinitive": "sentirse",
+    "english": "to feel (about oneself)",
+    "type": "irregular",
+    "conjugations": {
+      "present":             { "yo": "me siento",   "tú": "te sientes",   "él/ella": "se siente",   "nosotros": "nos sentimos",   "vosotros": "os sentís",    "ellos/ellas": "se sienten"   },
+      "preterite":           { "yo": "me sentí",    "tú": "te sentiste",  "él/ella": "se sintió",   "nosotros": "nos sentimos",   "vosotros": "os sentisteis","ellos/ellas": "se sintieron" },
+      "imperfect":           { "yo": "me sentía",   "tú": "te sentías",   "él/ella": "se sentía",   "nosotros": "nos sentíamos",  "vosotros": "os sentíais",  "ellos/ellas": "se sentían"   },
+      "future":              { "yo": "me sentiré",  "tú": "te sentirás",  "él/ella": "se sentirá",  "nosotros": "nos sentiremos", "vosotros": "os sentiréis", "ellos/ellas": "se sentirán"  },
+      "conditional":         { "yo": "me sentiría", "tú": "te sentirías", "él/ella": "se sentiría", "nosotros": "nos sentiríamos","vosotros": "os sentiríais","ellos/ellas": "se sentirían" },
+      "subjunctive_present": { "yo": "me sienta",   "tú": "te sientas",   "él/ella": "se sienta",   "nosotros": "nos sintamos",   "vosotros": "os sintáis",   "ellos/ellas": "se sientan"   }
+    },
+    "notes": "/* OWNER: write your notes for sentirse here */",
+    "examples": []
+  },
+  {
+    "slug": "ser",
+    "infinitive": "ser",
+    "english": "to be (permanent)",
+    "type": "irregular",
+    "conjugations": {
+      "present":             { "yo": "soy",    "tú": "eres",      "él/ella": "es",      "nosotros": "somos",    "vosotros": "sois",      "ellos/ellas": "son"      },
+      "preterite":           { "yo": "fui",    "tú": "fuiste",    "él/ella": "fue",     "nosotros": "fuimos",   "vosotros": "fuisteis",  "ellos/ellas": "fueron"   },
+      "imperfect":           { "yo": "era",    "tú": "eras",      "él/ella": "era",     "nosotros": "éramos",   "vosotros": "erais",     "ellos/ellas": "eran"     },
+      "future":              { "yo": "seré",   "tú": "serás",     "él/ella": "será",    "nosotros": "seremos",  "vosotros": "seréis",    "ellos/ellas": "serán"    },
+      "conditional":         { "yo": "sería",  "tú": "serías",    "él/ella": "sería",   "nosotros": "seríamos", "vosotros": "seríais",   "ellos/ellas": "serían"   },
+      "subjunctive_present": { "yo": "sea",    "tú": "seas",      "él/ella": "sea",     "nosotros": "seamos",   "vosotros": "seáis",     "ellos/ellas": "sean"     }
+    },
+    "notes": "/* OWNER: write your notes for ser here */",
+    "examples": []
+  },
+  {
+    "slug": "tener",
+    "infinitive": "tener",
+    "english": "to have",
+    "type": "irregular",
+    "conjugations": {
+      "present":             { "yo": "tengo",   "tú": "tienes",    "él/ella": "tiene",    "nosotros": "tenemos",    "vosotros": "tenéis",    "ellos/ellas": "tienen"    },
+      "preterite":           { "yo": "tuve",    "tú": "tuviste",   "él/ella": "tuvo",     "nosotros": "tuvimos",    "vosotros": "tuvisteis", "ellos/ellas": "tuvieron"  },
+      "imperfect":           { "yo": "tenía",   "tú": "tenías",    "él/ella": "tenía",    "nosotros": "teníamos",   "vosotros": "teníais",   "ellos/ellas": "tenían"    },
+      "future":              { "yo": "tendré",  "tú": "tendrás",   "él/ella": "tendrá",   "nosotros": "tendremos",  "vosotros": "tendréis",  "ellos/ellas": "tendrán"   },
+      "conditional":         { "yo": "tendría", "tú": "tendrías",  "él/ella": "tendría",  "nosotros": "tendríamos", "vosotros": "tendríais", "ellos/ellas": "tendrían"  },
+      "subjunctive_present": { "yo": "tenga",   "tú": "tengas",    "él/ella": "tenga",    "nosotros": "tengamos",   "vosotros": "tengáis",   "ellos/ellas": "tengan"    }
+    },
+    "notes": "/* OWNER: write your notes for tener here */",
+    "examples": []
+  },
+  {
+    "slug": "tomar",
+    "infinitive": "tomar",
+    "english": "to take, to drink",
+    "type": "regular",
+    "conjugations": {
+      "present":             { "yo": "tomo",    "tú": "tomas",     "él/ella": "toma",     "nosotros": "tomamos",    "vosotros": "tomáis",    "ellos/ellas": "toman"     },
+      "preterite":           { "yo": "tomé",    "tú": "tomaste",   "él/ella": "tomó",     "nosotros": "tomamos",    "vosotros": "tomasteis", "ellos/ellas": "tomaron"   },
+      "imperfect":           { "yo": "tomaba",  "tú": "tomabas",   "él/ella": "tomaba",   "nosotros": "tomábamos",  "vosotros": "tomabais",  "ellos/ellas": "tomaban"   },
+      "future":              { "yo": "tomaré",  "tú": "tomarás",   "él/ella": "tomará",   "nosotros": "tomaremos",  "vosotros": "tomaréis",  "ellos/ellas": "tomarán"   },
+      "conditional":         { "yo": "tomaría", "tú": "tomarías",  "él/ella": "tomaría",  "nosotros": "tomaríamos", "vosotros": "tomaríais", "ellos/ellas": "tomarían"  },
+      "subjunctive_present": { "yo": "tome",    "tú": "tomes",     "él/ella": "tome",     "nosotros": "tomemos",    "vosotros": "toméis",    "ellos/ellas": "tomen"     }
+    },
+    "notes": "/* OWNER: write your notes for tomar here */",
+    "examples": []
+  },
+  {
+    "slug": "traer",
+    "infinitive": "traer",
+    "english": "to bring",
+    "type": "irregular",
+    "conjugations": {
+      "present":             { "yo": "traigo",   "tú": "traes",     "él/ella": "trae",     "nosotros": "traemos",    "vosotros": "traéis",    "ellos/ellas": "traen"     },
+      "preterite":           { "yo": "traje",    "tú": "trajiste",  "él/ella": "trajo",    "nosotros": "trajimos",   "vosotros": "trajisteis","ellos/ellas": "trajeron"  },
+      "imperfect":           { "yo": "traía",    "tú": "traías",    "él/ella": "traía",    "nosotros": "traíamos",   "vosotros": "traíais",   "ellos/ellas": "traían"    },
+      "future":              { "yo": "traeré",   "tú": "traerás",   "él/ella": "traerá",   "nosotros": "traeremos",  "vosotros": "traeréis",  "ellos/ellas": "traerán"   },
+      "conditional":         { "yo": "traería",  "tú": "traerías",  "él/ella": "traería",  "nosotros": "traeríamos", "vosotros": "traeríais", "ellos/ellas": "traerían"  },
+      "subjunctive_present": { "yo": "traiga",   "tú": "traigas",   "él/ella": "traiga",   "nosotros": "traigamos",  "vosotros": "traigáis",  "ellos/ellas": "traigan"   }
+    },
+    "notes": "/* OWNER: write your notes for traer here */",
+    "examples": []
+  },
+  {
     "slug": "venir",
     "infinitive": "venir",
     "english": "to come",
@@ -141,38 +829,6 @@
       "subjunctive_present": { "yo": "venga",   "tú": "vengas",    "él/ella": "venga",    "nosotros": "vengamos",   "vosotros": "vengáis",   "ellos/ellas": "vengan"    }
     },
     "notes": "/* OWNER: write your notes for venir here */",
-    "examples": []
-  },
-  {
-    "slug": "decir",
-    "infinitive": "decir",
-    "english": "to say, to tell",
-    "type": "irregular",
-    "conjugations": {
-      "present":             { "yo": "digo",    "tú": "dices",     "él/ella": "dice",     "nosotros": "decimos",    "vosotros": "decís",     "ellos/ellas": "dicen"     },
-      "preterite":           { "yo": "dije",    "tú": "dijiste",   "él/ella": "dijo",     "nosotros": "dijimos",    "vosotros": "dijisteis", "ellos/ellas": "dijeron"   },
-      "imperfect":           { "yo": "decía",   "tú": "decías",    "él/ella": "decía",    "nosotros": "decíamos",   "vosotros": "decíais",   "ellos/ellas": "decían"    },
-      "future":              { "yo": "diré",    "tú": "dirás",     "él/ella": "dirá",     "nosotros": "diremos",    "vosotros": "diréis",    "ellos/ellas": "dirán"     },
-      "conditional":         { "yo": "diría",   "tú": "dirías",    "él/ella": "diría",    "nosotros": "diríamos",   "vosotros": "diríais",   "ellos/ellas": "dirían"    },
-      "subjunctive_present": { "yo": "diga",    "tú": "digas",     "él/ella": "diga",     "nosotros": "digamos",    "vosotros": "digáis",    "ellos/ellas": "digan"     }
-    },
-    "notes": "/* OWNER: write your notes for decir here */",
-    "examples": []
-  },
-  {
-    "slug": "dar",
-    "infinitive": "dar",
-    "english": "to give",
-    "type": "irregular",
-    "conjugations": {
-      "present":             { "yo": "doy",     "tú": "das",       "él/ella": "da",       "nosotros": "damos",      "vosotros": "dais",      "ellos/ellas": "dan"       },
-      "preterite":           { "yo": "di",      "tú": "diste",     "él/ella": "dio",      "nosotros": "dimos",      "vosotros": "disteis",   "ellos/ellas": "dieron"    },
-      "imperfect":           { "yo": "daba",    "tú": "dabas",     "él/ella": "daba",     "nosotros": "dábamos",    "vosotros": "dabais",    "ellos/ellas": "daban"     },
-      "future":              { "yo": "daré",    "tú": "darás",     "él/ella": "dará",     "nosotros": "daremos",    "vosotros": "daréis",    "ellos/ellas": "darán"     },
-      "conditional":         { "yo": "daría",   "tú": "darías",    "él/ella": "daría",    "nosotros": "daríamos",   "vosotros": "daríais",   "ellos/ellas": "darían"    },
-      "subjunctive_present": { "yo": "dé",      "tú": "des",       "él/ella": "dé",       "nosotros": "demos",      "vosotros": "deis",      "ellos/ellas": "den"       }
-    },
-    "notes": "/* OWNER: write your notes for dar here */",
     "examples": []
   },
   {
@@ -192,86 +848,6 @@
     "examples": []
   },
   {
-    "slug": "poner",
-    "infinitive": "poner",
-    "english": "to put, to place",
-    "type": "irregular",
-    "conjugations": {
-      "present":             { "yo": "pongo",   "tú": "pones",     "él/ella": "pone",     "nosotros": "ponemos",    "vosotros": "ponéis",    "ellos/ellas": "ponen"     },
-      "preterite":           { "yo": "puse",    "tú": "pusiste",   "él/ella": "puso",     "nosotros": "pusimos",    "vosotros": "pusisteis", "ellos/ellas": "pusieron"  },
-      "imperfect":           { "yo": "ponía",   "tú": "ponías",    "él/ella": "ponía",    "nosotros": "poníamos",   "vosotros": "poníais",   "ellos/ellas": "ponían"    },
-      "future":              { "yo": "pondré",  "tú": "pondrás",   "él/ella": "pondrá",   "nosotros": "pondremos",  "vosotros": "pondréis",  "ellos/ellas": "pondrán"   },
-      "conditional":         { "yo": "pondría", "tú": "pondrías",  "él/ella": "pondría",  "nosotros": "pondríamos", "vosotros": "pondríais", "ellos/ellas": "pondrían"  },
-      "subjunctive_present": { "yo": "ponga",   "tú": "pongas",    "él/ella": "ponga",    "nosotros": "pongamos",   "vosotros": "pongáis",   "ellos/ellas": "pongan"    }
-    },
-    "notes": "/* OWNER: write your notes for poner here */",
-    "examples": []
-  },
-  {
-    "slug": "salir",
-    "infinitive": "salir",
-    "english": "to leave, to go out",
-    "type": "irregular",
-    "conjugations": {
-      "present":             { "yo": "salgo",   "tú": "sales",     "él/ella": "sale",     "nosotros": "salimos",    "vosotros": "salís",     "ellos/ellas": "salen"     },
-      "preterite":           { "yo": "salí",    "tú": "saliste",   "él/ella": "salió",    "nosotros": "salimos",    "vosotros": "salisteis", "ellos/ellas": "salieron"  },
-      "imperfect":           { "yo": "salía",   "tú": "salías",    "él/ella": "salía",    "nosotros": "salíamos",   "vosotros": "salíais",   "ellos/ellas": "salían"    },
-      "future":              { "yo": "saldré",  "tú": "saldrás",   "él/ella": "saldrá",   "nosotros": "saldremos",  "vosotros": "saldréis",  "ellos/ellas": "saldrán"   },
-      "conditional":         { "yo": "saldría", "tú": "saldrías",  "él/ella": "saldría",  "nosotros": "saldríamos", "vosotros": "saldríais", "ellos/ellas": "saldrían"  },
-      "subjunctive_present": { "yo": "salga",   "tú": "salgas",    "él/ella": "salga",    "nosotros": "salgamos",   "vosotros": "salgáis",   "ellos/ellas": "salgan"    }
-    },
-    "notes": "/* OWNER: write your notes for salir here */",
-    "examples": []
-  },
-  {
-    "slug": "llevar",
-    "infinitive": "llevar",
-    "english": "to carry, to wear, to take",
-    "type": "regular",
-    "conjugations": {
-      "present":             { "yo": "llevo",   "tú": "llevas",    "él/ella": "lleva",    "nosotros": "llevamos",   "vosotros": "lleváis",   "ellos/ellas": "llevan"    },
-      "preterite":           { "yo": "llevé",   "tú": "llevaste",  "él/ella": "llevó",    "nosotros": "llevamos",   "vosotros": "llevasteis","ellos/ellas": "llevaron"  },
-      "imperfect":           { "yo": "llevaba", "tú": "llevabas",  "él/ella": "llevaba",  "nosotros": "llevábamos", "vosotros": "llevabais", "ellos/ellas": "llevaban"  },
-      "future":              { "yo": "llevaré", "tú": "llevarás",  "él/ella": "llevará",  "nosotros": "llevaremos", "vosotros": "llevaréis", "ellos/ellas": "llevarán"  },
-      "conditional":         { "yo": "llevaría","tú": "llevarías", "él/ella": "llevaría", "nosotros": "llevaríamos","vosotros": "llevaríais","ellos/ellas": "llevarían" },
-      "subjunctive_present": { "yo": "lleve",   "tú": "lleves",    "él/ella": "lleve",    "nosotros": "llevemos",   "vosotros": "llevéis",   "ellos/ellas": "lleven"    }
-    },
-    "notes": "/* OWNER: write your notes for llevar here */",
-    "examples": []
-  },
-  {
-    "slug": "hablar",
-    "infinitive": "hablar",
-    "english": "to speak, to talk",
-    "type": "regular",
-    "conjugations": {
-      "present":             { "yo": "hablo",   "tú": "hablas",    "él/ella": "habla",    "nosotros": "hablamos",   "vosotros": "habláis",   "ellos/ellas": "hablan"    },
-      "preterite":           { "yo": "hablé",   "tú": "hablaste",  "él/ella": "habló",    "nosotros": "hablamos",   "vosotros": "hablasteis","ellos/ellas": "hablaron"  },
-      "imperfect":           { "yo": "hablaba", "tú": "hablabas",  "él/ella": "hablaba",  "nosotros": "hablábamos", "vosotros": "hablabais", "ellos/ellas": "hablaban"  },
-      "future":              { "yo": "hablaré", "tú": "hablarás",  "él/ella": "hablará",  "nosotros": "hablaremos", "vosotros": "hablaréis", "ellos/ellas": "hablarán"  },
-      "conditional":         { "yo": "hablaría","tú": "hablarías", "él/ella": "hablaría", "nosotros": "hablaríamos","vosotros": "hablaríais","ellos/ellas": "hablarían" },
-      "subjunctive_present": { "yo": "hable",   "tú": "hables",    "él/ella": "hable",    "nosotros": "hablemos",   "vosotros": "habléis",   "ellos/ellas": "hablen"    }
-    },
-    "notes": "/* OWNER: write your notes for hablar here */",
-    "examples": []
-  },
-  {
-    "slug": "comer",
-    "infinitive": "comer",
-    "english": "to eat",
-    "type": "regular",
-    "conjugations": {
-      "present":             { "yo": "como",    "tú": "comes",     "él/ella": "come",     "nosotros": "comemos",    "vosotros": "coméis",    "ellos/ellas": "comen"     },
-      "preterite":           { "yo": "comí",    "tú": "comiste",   "él/ella": "comió",    "nosotros": "comimos",    "vosotros": "comisteis", "ellos/ellas": "comieron"  },
-      "imperfect":           { "yo": "comía",   "tú": "comías",    "él/ella": "comía",    "nosotros": "comíamos",   "vosotros": "comíais",   "ellos/ellas": "comían"    },
-      "future":              { "yo": "comeré",  "tú": "comerás",   "él/ella": "comerá",   "nosotros": "comeremos",  "vosotros": "comeréis",  "ellos/ellas": "comerán"   },
-      "conditional":         { "yo": "comería", "tú": "comerías",  "él/ella": "comería",  "nosotros": "comeríamos", "vosotros": "comeríais", "ellos/ellas": "comerían"  },
-      "subjunctive_present": { "yo": "coma",    "tú": "comas",     "él/ella": "coma",     "nosotros": "comamos",    "vosotros": "comáis",    "ellos/ellas": "coman"     }
-    },
-    "notes": "/* OWNER: write your notes for comer here */",
-    "examples": []
-  },
-  {
     "slug": "vivir",
     "infinitive": "vivir",
     "english": "to live",
@@ -288,35 +864,19 @@
     "examples": []
   },
   {
-    "slug": "trabajar",
-    "infinitive": "trabajar",
-    "english": "to work",
-    "type": "regular",
+    "slug": "volver",
+    "infinitive": "volver",
+    "english": "to return, to come back",
+    "type": "irregular",
     "conjugations": {
-      "present":             { "yo": "trabajo",   "tú": "trabajas",   "él/ella": "trabaja",   "nosotros": "trabajamos",   "vosotros": "trabajáis",   "ellos/ellas": "trabajan"   },
-      "preterite":           { "yo": "trabajé",   "tú": "trabajaste", "él/ella": "trabajó",   "nosotros": "trabajamos",   "vosotros": "trabajasteis","ellos/ellas": "trabajaron" },
-      "imperfect":           { "yo": "trabajaba", "tú": "trabajabas", "él/ella": "trabajaba", "nosotros": "trabajábamos", "vosotros": "trabajabais", "ellos/ellas": "trabajaban" },
-      "future":              { "yo": "trabajaré", "tú": "trabajarás", "él/ella": "trabajará", "nosotros": "trabajaremos", "vosotros": "trabajaréis", "ellos/ellas": "trabajarán" },
-      "conditional":         { "yo": "trabajaría","tú": "trabajarías","él/ella": "trabajaría","nosotros": "trabajaríamos","vosotros": "trabajaríais","ellos/ellas": "trabajarían"},
-      "subjunctive_present": { "yo": "trabaje",   "tú": "trabajes",   "él/ella": "trabaje",   "nosotros": "trabajemos",   "vosotros": "trabajéis",   "ellos/ellas": "trabajen"   }
+      "present":             { "yo": "vuelvo",   "tú": "vuelves",   "él/ella": "vuelve",   "nosotros": "volvemos",   "vosotros": "volvéis",   "ellos/ellas": "vuelven"   },
+      "preterite":           { "yo": "volví",    "tú": "volviste",  "él/ella": "volvió",   "nosotros": "volvimos",   "vosotros": "volvisteis","ellos/ellas": "volvieron" },
+      "imperfect":           { "yo": "volvía",   "tú": "volvías",   "él/ella": "volvía",   "nosotros": "volvíamos",  "vosotros": "volvíais",  "ellos/ellas": "volvían"   },
+      "future":              { "yo": "volveré",  "tú": "volverás",  "él/ella": "volverá",  "nosotros": "volveremos", "vosotros": "volveréis", "ellos/ellas": "volverán"  },
+      "conditional":         { "yo": "volvería", "tú": "volverías", "él/ella": "volvería", "nosotros": "volveríamos","vosotros": "volveríais","ellos/ellas": "volverían" },
+      "subjunctive_present": { "yo": "vuelva",   "tú": "vuelvas",   "él/ella": "vuelva",   "nosotros": "volvamos",   "vosotros": "volváis",   "ellos/ellas": "vuelvan"   }
     },
-    "notes": "/* OWNER: write your notes for trabajar here */",
-    "examples": []
-  },
-  {
-    "slug": "necesitar",
-    "infinitive": "necesitar",
-    "english": "to need",
-    "type": "regular",
-    "conjugations": {
-      "present":             { "yo": "necesito",   "tú": "necesitas",   "él/ella": "necesita",   "nosotros": "necesitamos",   "vosotros": "necesitáis",   "ellos/ellas": "necesitan"   },
-      "preterite":           { "yo": "necesité",   "tú": "necesitaste", "él/ella": "necesitó",   "nosotros": "necesitamos",   "vosotros": "necesitasteis","ellos/ellas": "necesitaron" },
-      "imperfect":           { "yo": "necesitaba", "tú": "necesitabas", "él/ella": "necesitaba", "nosotros": "necesitábamos", "vosotros": "necesitabais", "ellos/ellas": "necesitaban" },
-      "future":              { "yo": "necesitaré", "tú": "necesitarás", "él/ella": "necesitará", "nosotros": "necesitaremos", "vosotros": "necesitaréis", "ellos/ellas": "necesitarán" },
-      "conditional":         { "yo": "necesitaría","tú": "necesitarías","él/ella": "necesitaría","nosotros": "necesitaríamos","vosotros": "necesitaríais","ellos/ellas": "necesitarían"},
-      "subjunctive_present": { "yo": "necesite",   "tú": "necesites",   "él/ella": "necesite",   "nosotros": "necesitemos",   "vosotros": "necesitéis",   "ellos/ellas": "necesiten"   }
-    },
-    "notes": "/* OWNER: write your notes for necesitar here */",
+    "notes": "/* OWNER: write your notes for volver here */",
     "examples": []
   }
 ]
