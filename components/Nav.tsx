@@ -10,13 +10,27 @@ const VERB_SLUGS = [
 ];
 
 const TIPS_LINKS = [
-  { label: "Conversation",      href: "/conversation"      },
   { label: "Listening",         href: "/listening"         },
   { label: "How to Study",      href: "/how-to-study"      },
   { label: "Language Exchange", href: "/language-exchange" },
 ];
 
-type DropdownKey = "verbs" | "tips";
+const CONVERSATION_LINKS = [
+  { label: "Greeting others and introductions",        slug: "greeting-others-and-introductions"        },
+  { label: "Talking about what you like",              slug: "talking-about-what-you-like"              },
+  { label: "Beginning a conversation",                 slug: "beginning-a-conversation"                 },
+  { label: "Making plans and appointments",            slug: "making-plans-and-appointments"            },
+  { label: "Describing things",                        slug: "describing-things"                        },
+  { label: "Expressing a desire",                      slug: "expressing-a-desire"                      },
+  { label: "Asking for something and making an offer", slug: "asking-for-something-and-making-an-offer" },
+  { label: "Disagreeing and showing doubt",            slug: "disagreeing-and-showing-doubt"            },
+  { label: "Talking about the future",                 slug: "talking-about-the-future"                 },
+  { label: "Arguing your point of view",               slug: "arguing-your-point-of-view"               },
+  { label: "Telling a story about yourself",           slug: "telling-a-story-about-yourself"           },
+  { label: "Recounting a past conversation",           slug: "recounting-a-past-conversation"           },
+];
+
+type DropdownKey = "verbs" | "tips" | "conversation";
 
 export default function Nav() {
   const [scrolled, setScrolled]         = useState(false);
@@ -112,6 +126,42 @@ export default function Nav() {
               )}
             </div>
 
+            {/* Conversation dropdown */}
+            <div
+              className="relative"
+              onClick={(e) => e.stopPropagation()}
+            >
+              <DropdownTrigger
+                label="Conversation"
+                isOpen={openDropdown === "conversation"}
+                isActive={pathname.startsWith("/conversation")}
+                onToggle={() => setOpenDropdown((o) => (o === "conversation" ? null : "conversation"))}
+              />
+              {openDropdown === "conversation" && (
+                <div className="absolute top-full right-0 mt-2 w-80 bg-base rounded-xl shadow-lg border border-border overflow-hidden">
+                  <div className="px-4 py-3 border-b border-border">
+                    <Link
+                      href="/conversation"
+                      className="font-ui text-sm font-medium text-accent hover:text-accent-dark transition-colors"
+                    >
+                      All Scenarios →
+                    </Link>
+                  </div>
+                  <div className="p-2">
+                    {CONVERSATION_LINKS.map((link) => (
+                      <Link
+                        key={link.slug}
+                        href={`/conversation/${link.slug}`}
+                        className="block px-3 py-2 rounded font-ui text-sm text-text hover:text-accent hover:bg-surface transition-colors"
+                      >
+                        {link.label}
+                      </Link>
+                    ))}
+                  </div>
+                </div>
+              )}
+            </div>
+
             {/* Tips dropdown */}
             <div
               className="relative"
@@ -181,10 +231,11 @@ export default function Nav() {
           className="flex-1 overflow-y-auto px-4 py-6"
           aria-label="Mobile navigation"
         >
-          <MobileLink href="/"       label="Home"         current={pathname} />
-          <MobileLink href="/words"  label="1000 Words"   current={pathname} />
-          <MobileLink href="/tenses" label="14 Tenses"    current={pathname} />
-          <MobileLink href="/verbs"  label="55 Essential Verbs" current={pathname} />
+          <MobileLink href="/"            label="Home"               current={pathname} />
+          <MobileLink href="/words"       label="1000 Words"         current={pathname} />
+          <MobileLink href="/tenses"      label="14 Tenses"          current={pathname} />
+          <MobileLink href="/verbs"       label="55 Essential Verbs" current={pathname} />
+          <MobileLink href="/conversation" label="Conversation"      current={pathname} />
 
           <div className="mt-6 mb-2">
             <p className="px-3 font-ui text-xs font-medium text-muted uppercase tracking-widest mb-1">
@@ -202,6 +253,27 @@ export default function Nav() {
                   }`}
                 >
                   {slug}
+                </Link>
+              ))}
+            </div>
+          </div>
+
+          <div className="mt-6 mb-2">
+            <p className="px-3 font-ui text-xs font-medium text-muted uppercase tracking-widest mb-1">
+              Conversation Scenarios
+            </p>
+            <div className="grid grid-cols-1">
+              {CONVERSATION_LINKS.map((link) => (
+                <Link
+                  key={link.slug}
+                  href={`/conversation/${link.slug}`}
+                  className={`block px-3 py-2 rounded-lg font-ui text-sm transition-colors ${
+                    pathname === `/conversation/${link.slug}`
+                      ? "text-accent font-medium"
+                      : "text-muted hover:text-accent"
+                  }`}
+                >
+                  {link.label}
                 </Link>
               ))}
             </div>

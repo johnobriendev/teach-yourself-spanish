@@ -12,29 +12,29 @@ export default function Footer() {
         <div className="grid grid-cols-2 md:grid-cols-4 gap-8 mb-10">
           {/* Learn */}
           <div>
-            <h3 className="font-ui font-medium text-sm text-text mb-3 uppercase tracking-widest text-xs">
+            <h3 className="font-ui font-medium text-xs text-text mb-3 uppercase tracking-widest">
               Learn
             </h3>
             <ul className="space-y-2">
-              <FooterLink href="/words"   label="1000 Words"  />
-              <FooterLink href="/tenses"  label="14 Tenses"   />
-              <FooterLink href="/verbs"   label="Key Verbs"   />
+              <FooterLink href="/words"        label="1000 Words"    />
+              <FooterLink href="/tenses"       label="14 Tenses"     />
+              <FooterLink href="/verbs"        label="Key Verbs"     />
+              <FooterLink href="/conversation" label="Conversation"  />
             </ul>
           </div>
 
           {/* Grammar */}
           <div>
-            <h3 className="font-ui font-medium text-sm text-text mb-3 uppercase tracking-widest text-xs">
+            <h3 className="font-ui font-medium text-xs text-text mb-3 uppercase tracking-widest">
               Grammar
             </h3>
             <ul className="space-y-2">
               <FooterLink href="/regular-vs-irregular" label="Regular vs Irregular" />
             </ul>
-            <h3 className="font-ui font-medium text-sm text-text mb-3 mt-6 uppercase tracking-widest text-xs">
+            <h3 className="font-ui font-medium text-xs text-text mb-3 mt-6 uppercase tracking-widest">
               Tips
             </h3>
             <ul className="space-y-2">
-              <FooterLink href="/conversation"     label="Conversation"      />
               <FooterLink href="/listening"         label="Listening"         />
               <FooterLink href="/how-to-study"      label="How to Study"      />
               <FooterLink href="/language-exchange" label="Language Exchange" />
@@ -43,7 +43,7 @@ export default function Footer() {
 
           {/* Verbs */}
           <div className="col-span-2">
-            <h3 className="font-ui font-medium text-sm text-text mb-3 uppercase tracking-widest text-xs">
+            <h3 className="font-ui font-medium text-xs text-text mb-3 uppercase tracking-widest">
               Key Verbs
             </h3>
             <ul className="grid grid-cols-2 gap-x-4 gap-y-2">
@@ -62,7 +62,7 @@ export default function Footer() {
                   href="/verbs"
                   className="font-ui text-sm text-accent hover:text-accent-dark transition-colors"
                 >
-                  All 20 verbs →
+                  All 55 verbs →
                 </Link>
               </li>
             </ul>
