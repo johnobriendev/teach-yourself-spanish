@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import Image from "next/image";
+import johnImage from "@/public/john.png";
 import Button from "@/components/Button";
 import CalloutBox from "@/components/CalloutBox";
 import TopicCard from "@/components/TopicCard";
@@ -179,12 +180,13 @@ export default function HomePage() {
 
           {/* Photo */}
           <div className="relative">
-            <div className="rounded-2xl overflow-hidden aspect-4/5 relative bg-base">
+            <div className="rounded-2xl overflow-hidden aspect-4/5 relative bg-base isolate">
               <Image
-                src="/john.png"
+                src={johnImage}
                 alt="John"
                 fill
-                priority
+                loading="eager"
+                fetchPriority="high"
                 sizes="(min-width: 1024px) 50vw, 100vw"
                 className="object-cover"
               />

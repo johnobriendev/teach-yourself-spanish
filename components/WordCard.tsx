@@ -12,20 +12,30 @@ const posColors: Record<string, string> = {
   other:       "bg-surface text-muted border border-border",
 };
 
+const posAbbr: Record<string, string> = {
+  preposition: "prep.",
+  conjunction: "conj.",
+  adjective:   "adj.",
+  adverb:      "adv.",
+  pronoun:     "pron.",
+  article:     "art.",
+};
+
 export default function WordCard({ word, isFirst }: { word: Word; isFirst?: boolean }) {
   return (
     <>
       {!isFirst && <div className="col-span-4 h-0 border-t border-border" />}
       <span className="py-3 font-ui text-xs text-muted">{word.rank}</span>
-      <span className="py-3 font-body text-lg text-text font-medium" lang="es">
+      <span className="py-3 font-body text-base sm:text-lg text-text font-medium" lang="es">
         {word.spanish}
       </span>
-      <span className="py-3 font-body text-base text-muted text-center">{word.english}</span>
+      <span className="py-3 font-body text-sm sm:text-base text-muted text-center">{word.english}</span>
       <div className="py-3 flex items-center justify-end">
         <span
           className={`font-ui text-xs px-2 py-0.5 rounded-full shrink-0 ${posColors[word.pos] ?? posColors.other}`}
         >
-          {word.pos}
+          <span className="sm:hidden">{posAbbr[word.pos] ?? word.pos}</span>
+          <span className="hidden sm:inline">{word.pos}</span>
         </span>
       </div>
     </>
