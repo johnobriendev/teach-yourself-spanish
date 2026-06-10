@@ -9,11 +9,6 @@ const VERB_SLUGS = [
   "poder", "querer", "saber", "venir", "decir",
 ];
 
-const TIPS_LINKS = [
-  { label: "Listening",         href: "/listening"         },
-  { label: "How to Study",      href: "/how-to-study"      },
-  { label: "Language Exchange", href: "/language-exchange" },
-];
 
 const CONVERSATION_LINKS = [
   { label: "Greeting others and introductions",        slug: "greeting-others-and-introductions"        },
@@ -30,7 +25,7 @@ const CONVERSATION_LINKS = [
   { label: "Recounting a past conversation",           slug: "recounting-a-past-conversation"           },
 ];
 
-type DropdownKey = "verbs" | "tips" | "conversation";
+type DropdownKey = "verbs" | "conversation";
 
 export default function Nav() {
   const [scrolled, setScrolled]         = useState(false);
@@ -87,6 +82,7 @@ export default function Nav() {
 
           {/* Desktop nav links */}
           <nav className="hidden lg:flex items-center gap-1" aria-label="Main">
+            <DesktopLink href="/how-to-use-this-guide" label="How to Use" current={pathname} />
             <DesktopLink href="/words"   label="Words"   current={pathname} />
             <DesktopLink href="/tenses"  label="Tenses"  current={pathname} />
 
@@ -162,31 +158,6 @@ export default function Nav() {
               )}
             </div>
 
-            {/* Tips dropdown */}
-            <div
-              className="relative"
-              onClick={(e) => e.stopPropagation()}
-            >
-              <DropdownTrigger
-                label="Tips"
-                isOpen={openDropdown === "tips"}
-                isActive={TIPS_LINKS.some((l) => l.href === pathname)}
-                onToggle={() => setOpenDropdown((o) => (o === "tips" ? null : "tips"))}
-              />
-              {openDropdown === "tips" && (
-                <div className="absolute top-full right-0 mt-2 w-52 bg-base rounded-xl shadow-lg border border-border overflow-hidden">
-                  {TIPS_LINKS.map((link) => (
-                    <Link
-                      key={link.href}
-                      href={link.href}
-                      className="block px-4 py-2.5 font-ui text-sm text-text hover:text-accent hover:bg-surface transition-colors"
-                    >
-                      {link.label}
-                    </Link>
-                  ))}
-                </div>
-              )}
-            </div>
           </nav>
 
           {/* Hamburger */}
@@ -232,19 +203,12 @@ export default function Nav() {
           aria-label="Mobile navigation"
         >
           <MobileLink href="/"            label="Home"               current={pathname} />
+          <MobileLink href="/how-to-use-this-guide" label="How to Use This Guide" current={pathname} />
           <MobileLink href="/words"       label="1000 Words"         current={pathname} />
           <MobileLink href="/tenses"      label="14 Tenses"          current={pathname} />
           <MobileLink href="/verbs"       label="Key Verbs"          current={pathname} />
           <MobileLink href="/conversation" label="Conversation"      current={pathname} />
 
-          <div className="mt-6">
-            <p className="px-3 font-ui text-xs font-medium text-muted uppercase tracking-widest mb-1">
-              Tips
-            </p>
-            {TIPS_LINKS.map((link) => (
-              <MobileLink key={link.href} href={link.href} label={link.label} current={pathname} />
-            ))}
-          </div>
         </nav>
       </div>
     </>

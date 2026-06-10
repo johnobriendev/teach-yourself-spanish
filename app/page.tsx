@@ -47,24 +47,6 @@ const TOPICS = [
       "How to hold a real conversation in Spanish, even as a complete beginner.",
     href: "/conversation",
   },
-  {
-    title: "Listening Tips",
-    description:
-      "Train your ear to understand native speakers at natural speed.",
-    href: "/listening",
-  },
-  {
-    title: "How to Study",
-    description:
-      "The notebook method and how to structure your daily practice for real progress.",
-    href: "/how-to-study",
-  },
-  {
-    title: "Language Exchange",
-    description:
-      "Find a partner and practise real Spanish with real people, for free.",
-    href: "/language-exchange",
-  },
 ];
 
 export default function HomePage() {
@@ -223,12 +205,12 @@ export default function HomePage() {
             Ready to start?
           </h2>
           <p className="font-body text-xl text-muted leading-relaxed mb-10">
-            Begin with the 1000 most common Spanish words. You can read through
-            the whole list in under an hour — and it will change what you hear
-            and read in Spanish forever.
+            Not sure where to begin? The guide walks you through exactly what
+            to tackle first, what order makes sense, and how to use this site
+            to make real progress.
           </p>
-          <Button as="link" href="/words" size="lg">
-            Start with the 1000 words →
+          <Button as="link" href="/how-to-use-this-guide" size="lg">
+            How to use this guide →
           </Button>
         </div>
       </section>

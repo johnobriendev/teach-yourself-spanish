@@ -31,14 +31,6 @@ export default function Footer() {
             <ul className="space-y-2">
               <FooterLink href="/regular-vs-irregular" label="Regular vs Irregular" />
             </ul>
-            <h3 className="font-ui font-medium text-xs text-text mb-3 mt-6 uppercase tracking-widest">
-              Tips
-            </h3>
-            <ul className="space-y-2">
-              <FooterLink href="/listening"         label="Listening"         />
-              <FooterLink href="/how-to-study"      label="How to Study"      />
-              <FooterLink href="/language-exchange" label="Language Exchange" />
-            </ul>
           </div>
 
           {/* Verbs */}
