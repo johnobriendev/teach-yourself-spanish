@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Image from "next/image";
 import Button from "@/components/Button";
 import CalloutBox from "@/components/CalloutBox";
 import TopicCard from "@/components/TopicCard";
@@ -28,7 +29,7 @@ const TOPICS = [
     href: "/tenses",
   },
   {
-    title: "20 Key Verbs",
+    title: "55 Key Verbs",
     description:
       "The most-used Spanish verbs, fully conjugated and explained in plain English.",
     href: "/verbs",
@@ -106,19 +107,19 @@ export default function HomePage() {
       <section id="method" className="py-20 lg:py-32 bg-surface">
         <div className="max-w-4xl mx-auto px-4 sm:px-6">
           <h2 className="font-display text-3xl lg:text-4xl font-bold text-text mb-10">
-            I've been there
+            Learning Spanish takes time. But it's worth the effort
           </h2>
 
           <div className="max-w-prose space-y-6 font-body text-lg leading-relaxed text-text">
             <p>
               {/* Owner will write this section */}
-              You log into the app, excited to learn. But you spend half the time watching adds and repeating the same words. You're learning at their pace instead of your own.
+              You log into the app, excited to learn. But you spend half the time watching adds and repeating the same words. 15 minutes a day? Good luck. You're learning at their pace instead of your own.
             </p>
             <p>
               That's why I created Teach Yourself Spanish. Here you learn Spanish at your own pace, as fast or as slow as you want. Learn from someone who has actually learned a language themselves, and has the travel experience to prove it.
             </p>
             <p>
-              Stop wasting time following set programs and learn the things you need to know to start communicating and having real conversations with native speakers.
+              Stop wasting time following set programs and learn the things you need to know to start communicating and having real conversations with native speakers. Get out of it what you put into it.
             </p>
           
           </div>
@@ -149,51 +150,45 @@ export default function HomePage() {
             </h2>
             <div className="space-y-5 font-body text-lg leading-relaxed text-text">
               <p>
-                {/* Owner will write this section */}
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do
-                eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-                enim ad minim veniam, quis nostrud exercitation ullamco.
+                I&apos;m living proof that you can learn Spanish and use it in
+                your everyday life. I have lived in Chile, Argentina, and
+                Uruguay and worked in all three countries. I even got work as a
+                translator due to my language abilities (both listening and
+                speaking). I have tried all the popular learning methods so you
+                don&apos;t have to.
               </p>
               <p>
-                Duis aute irure dolor in reprehenderit in voluptate velit esse
-                cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
-                cupidatat non proident, sunt in culpa qui officia deserunt.
+                While a lot of the apps made for learning languages today do
+                provide valuable information, they also overwhelm you with ads
+                and try to get you to buy their pro version which will
+                &ldquo;help you learn better.&rdquo; The reality is, the pro
+                version just gives you access to information that&apos;s already
+                out there on the web. The only thing that can make you learn a
+                language is you! Not an app or learning program.
               </p>
               <p>
-                Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-                accusantium doloremque laudantium, totam rem aperiam eaque ipsa
-                quae ab illo inventore veritatis.
+                This site is meant to get you directly to the information you
+                need to start learning Spanish and using it in your everyday
+                life, whether it be to talk to your neighbor or to travel the
+                world. Here you will be shown the work ahead of you and how to
+                break it up into manageable chunks so that you can continue to
+                make progress in your language learning journey.
               </p>
             </div>
           </div>
 
-          {/* Photo placeholder */}
+          {/* Photo */}
           <div className="relative">
-            <div className="rounded-2xl bg-surface border border-border aspect-[4/5] flex flex-col items-center justify-center gap-3">
-              {/* Owner will provide photo */}
-              <svg
-                className="w-12 h-12 text-border"
-                fill="none"
-                viewBox="0 0 24 24"
-                stroke="currentColor"
-                strokeWidth={1}
-                aria-hidden="true"
-              >
-                <path
-                  strokeLinecap="round"
-                  strokeLinejoin="round"
-                  d="M15.75 6a3.75 3.75 0 11-7.5 0 3.75 3.75 0 017.5 0zM4.501 20.118a7.5 7.5 0 0114.998 0A17.933 17.933 0 0112 21.75c-2.676 0-5.216-.584-7.499-1.632z"
-                />
-              </svg>
-              <p className="font-ui text-sm text-muted text-center px-8">
-                Owner will provide photo
-              </p>
+            <div className="rounded-2xl overflow-hidden aspect-4/5 relative bg-base">
+              <Image
+                src="/john.png"
+                alt="John"
+                fill
+                priority
+                sizes="(min-width: 1024px) 50vw, 100vw"
+                className="object-cover"
+              />
             </div>
-            {/* Decorative offset border */}
-            <div
-              aria-hidden="true"
-              className="absolute -bottom-3 -right-3 rounded-2xl border border-accent/20 inset-0 -z-10"
-            />
           </div>
         </div>
       </section>
