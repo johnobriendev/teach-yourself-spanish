@@ -1,0 +1,57 @@
+{
+  "greeting-others-and-introductions": {
+    "conversation": {
+      "title": "Meeting Someone for the First Time",
+      "lines": [
+        { "speaker": "Ana", "es": "Hola, buenos días.", "en": "Hello, good morning." },
+        { "speaker": "Carlos", "es": "Buenos días.", "en": "Good morning." },
+        { "speaker": "Ana", "es": "Me llamo Ana. ¿Cómo te llamas?", "en": "My name is Ana. What's your name?" },
+        { "speaker": "Carlos", "es": "Me llamo Carlos. Mucho gusto.", "en": "My name is Carlos. Nice to meet you." },
+        { "speaker": "Ana", "es": "Mucho gusto, Carlos.", "en": "Nice to meet you, Carlos." },
+        { "speaker": "Carlos", "es": "¿Cómo estás?", "en": "How are you?" },
+        { "speaker": "Ana", "es": "Muy bien, gracias. ¿Y tú?", "en": "Very well, thank you. And you?" },
+        { "speaker": "Carlos", "es": "Bien, gracias.", "en": "Good, thanks." },
+        { "speaker": "Ana", "es": "Encantada de conocerte.", "en": "Pleased to meet you." },
+        { "speaker": "Carlos", "es": "Igualmente.", "en": "Likewise." }
+      ]
+    },
+    "phraseSections": [
+      {
+        "id": "informal",
+        "title": "Informal Greetings and Introductions",
+        "phrases": [
+          { "es": "Hola.", "en": "Hi." },
+          { "es": "¡Hola! ¿Cómo estás?", "en": "Hi! How are you?" },
+          { "es": "¿Qué tal?", "en": "How's it going?" },
+          { "es": "¿Cómo te llamas?", "en": "What's your name?" },
+          { "es": "Me llamo Sofía.", "en": "My name is Sofía." },
+          { "es": "Soy Miguel.", "en": "I'm Miguel." },
+          { "es": "Mucho gusto.", "en": "Nice to meet you." },
+          { "es": "Encantado / Encantada.", "en": "Pleased to meet you." },
+          { "es": "¿De dónde eres?", "en": "Where are you from?" },
+          { "es": "Soy de Estados Unidos.", "en": "I'm from the United States." },
+          { "es": "Hasta luego.", "en": "See you later." },
+          { "es": "Adiós.", "en": "Goodbye." }
+        ]
+      },
+      {
+        "id": "formal",
+        "title": "Formal Greetings and Introductions",
+        "phrases": [
+          { "es": "Buenos días.", "en": "Good morning." },
+          { "es": "Buenas tardes.", "en": "Good afternoon." },
+          { "es": "Buenas noches.", "en": "Good evening / Good night." },
+          { "es": "¿Cómo está usted?", "en": "How are you? (formal)" },
+          { "es": "¿Cuál es su nombre?", "en": "What is your name? (formal)" },
+          { "es": "Mi nombre es Laura.", "en": "My name is Laura." },
+          { "es": "Mucho gusto en conocerle.", "en": "Nice to meet you." },
+          { "es": "Encantado / Encantada de conocerle.", "en": "Pleased to meet you." },
+          { "es": "¿De dónde es usted?", "en": "Where are you from? (formal)" },
+          { "es": "Soy de Canadá.", "en": "I'm from Canada." },
+          { "es": "Que tenga un buen día.", "en": "Have a nice day." },
+          { "es": "Hasta pronto.", "en": "See you soon." }
+        ]
+      }
+    ]
+  }
+}
