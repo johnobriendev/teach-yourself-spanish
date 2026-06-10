@@ -101,9 +101,11 @@ export default function TensesPage() {
 
         {/* ── 1. Present ─────────────────────────────────────────── */}
         <TenseSection id="present" number={1} englishName="Present" spanishName="Presente de Indicativo">
-          {/* OWNER: write your explanation of the Present tense here */}
+          <p className="font-body text-lg text-text leading-relaxed mb-4">
+            The present tense is used to talk about actions happening now, habitual actions, general truths, and facts. Unlike English, Spanish often uses the present tense where English would use the present progressive ("I am speaking"). For example, <span lang="es">hablo español</span> can mean both "I speak Spanish" and "I am speaking Spanish" depending on context.
+          </p>
           <p className="font-body text-lg text-text leading-relaxed mb-6">
-            [Owner will write this section — explain when to use the present tense, how it differs from English, and any tips for forming it.]
+            Most regular verbs are formed by removing the infinitive ending (<span lang="es">-ar</span>, <span lang="es">-er</span>, <span lang="es">-ir</span>) and adding the appropriate present-tense endings. Because the present tense appears constantly in everyday conversation, mastering it should be one of your highest priorities.
           </p>
           <TenseTable
             label="to speak"
@@ -123,9 +125,11 @@ export default function TensesPage() {
 
         {/* ── 2. Preterite ────────────────────────────────────────── */}
         <TenseSection id="preterite" number={2} englishName="Preterite" spanishName="Pretérito Indefinido">
-          {/* OWNER: write your explanation of the Preterite tense here */}
+          <p className="font-body text-lg text-text leading-relaxed mb-4">
+            The preterite is the main past tense used for completed actions. It describes events that happened at a specific time and are viewed as finished: <span lang="es">Ayer hablé con mi profesor</span> ("Yesterday I spoke with my teacher").
+          </p>
           <p className="font-body text-lg text-text leading-relaxed mb-6">
-            [Owner will write this section — explain the preterite as the "completed action" past tense, how it contrasts with the imperfect, and common signal words like <span lang="es">ayer</span> and <span lang="es">el año pasado</span>.]
+            The preterite often contrasts with the imperfect. Think of the preterite as the tense that moves a story forward by describing what happened. Common signal words include <span lang="es">ayer</span> (yesterday), <span lang="es">anoche</span> (last night), <span lang="es">la semana pasada</span> (last week), and <span lang="es">el año pasado</span> (last year).
           </p>
           <TenseTable
             label="to speak"
@@ -145,9 +149,11 @@ export default function TensesPage() {
 
         {/* ── 3. Imperfect ────────────────────────────────────────── */}
         <TenseSection id="imperfect" number={3} englishName="Imperfect" spanishName="Pretérito Imperfecto">
-          {/* OWNER: write your explanation of the Imperfect tense here */}
+          <p className="font-body text-lg text-text leading-relaxed mb-4">
+            The imperfect describes ongoing, repeated, or habitual actions in the past. It is often translated as "used to" or "was/were ___-ing." For example, <span lang="es">hablaba con mis amigos todos los días</span> means "I used to talk with my friends every day."
+          </p>
           <p className="font-body text-lg text-text leading-relaxed mb-6">
-            [Owner will write this section — explain ongoing/habitual past actions, how to choose between imperfect and preterite, and the "used to / was ___-ing" translation patterns.]
+            While the preterite focuses on completed events, the imperfect provides background information, descriptions, and habits. A useful rule is that the imperfect paints the scene, while the preterite tells what happened within it.
           </p>
           <TenseTable
             label="to speak"
@@ -167,9 +173,11 @@ export default function TensesPage() {
 
         {/* ── 4. Future ───────────────────────────────────────────── */}
         <TenseSection id="future" number={4} englishName="Future" spanishName="Futuro Simple">
-          {/* OWNER: write your explanation of the Future tense here */}
+          <p className="font-body text-lg text-text leading-relaxed mb-4">
+            The simple future expresses actions that will happen in the future, predictions, promises, and assumptions. It is formed by adding future endings directly to the infinitive: <span lang="es">hablaré</span> ("I will speak").
+          </p>
           <p className="font-body text-lg text-text leading-relaxed mb-6">
-            [Owner will write this section — explain the simple future, how it is formed (infinitive + endings), and when Spanish speakers use it vs. the "ir a + infinitive" construction.]
+            In everyday conversation, many Spanish speakers prefer <span lang="es">ir a + infinitivo</span> (<span lang="es">voy a hablar</span>) for near-future plans. The simple future often sounds slightly more formal or certain and is especially common for predictions and statements about the future.
           </p>
           <TenseTable
             label="to speak"
@@ -189,9 +197,11 @@ export default function TensesPage() {
 
         {/* ── 5. Conditional ──────────────────────────────────────── */}
         <TenseSection id="conditional" number={5} englishName="Conditional" spanishName="Condicional Simple">
-          {/* OWNER: write your explanation of the Conditional tense here */}
+          <p className="font-body text-lg text-text leading-relaxed mb-4">
+            The conditional expresses what someone would do under certain circumstances. It is commonly translated with "would," as in <span lang="es">hablaría</span> ("I would speak").
+          </p>
           <p className="font-body text-lg text-text leading-relaxed mb-6">
-            [Owner will write this section — explain "would do" meanings, how the conditional is formed (same stems as future + imperfect endings), and its use in polite requests and hypotheticals.]
+            Beyond hypothetical situations, the conditional is frequently used for polite requests (<span lang="es">¿Podría ayudarme?</span>) and speculation about the past or present. It shares many irregular stems with the future tense, making the two tenses useful to learn together.
           </p>
           <TenseTable
             label="to speak"
@@ -208,9 +218,11 @@ export default function TensesPage() {
 
         {/* ── 6. Present Perfect ──────────────────────────────────── */}
         <TenseSection id="present-perfect" number={6} englishName="Present Perfect" spanishName="Pretérito Perfecto Compuesto">
-          {/* OWNER: write your explanation of the Present Perfect here */}
+          <p className="font-body text-lg text-text leading-relaxed mb-4">
+            The present perfect describes actions that have happened recently or actions from the past that still have relevance to the present. It is formed with the present tense of <span lang="es">haber</span> plus a past participle: <span lang="es">he hablado</span> ("I have spoken").
+          </p>
           <p className="font-body text-lg text-text leading-relaxed mb-6">
-            [Owner will write this section — explain "have done" meanings, how it is formed with <span lang="es">haber</span> + past participle, and the key regional difference (Spain uses it far more than Latin America).]
+            Usage varies by region. In Spain, this tense is commonly used for events that happened earlier today or in a time period that is not yet finished. In much of Latin America, speakers often use the preterite instead.
           </p>
           <TenseTable
             label="to speak"
@@ -230,9 +242,11 @@ export default function TensesPage() {
 
         {/* ── 7. Pluperfect ───────────────────────────────────────── */}
         <TenseSection id="pluperfect" number={7} englishName="Past Perfect (Pluperfect)" spanishName="Pretérito Pluscuamperfecto">
-          {/* OWNER: write your explanation of the Pluperfect here */}
+          <p className="font-body text-lg text-text leading-relaxed mb-4">
+            The pluperfect describes an action that had already happened before another past action. It creates a "past before the past" relationship: <span lang="es">Ya había hablado cuando llegó mi amigo</span> ("I had already spoken when my friend arrived").
+          </p>
           <p className="font-body text-lg text-text leading-relaxed mb-6">
-            [Owner will write this section — explain "had done" meanings, how it is formed with the imperfect of <span lang="es">haber</span> + past participle, and when you use it to establish a past-before-the-past.]
+            It is formed with the imperfect tense of <span lang="es">haber</span> plus a past participle. Whenever you need to establish the order of two events in the past, the pluperfect is often the best choice.
           </p>
           <TenseTable
             label="to speak"
@@ -249,9 +263,11 @@ export default function TensesPage() {
 
         {/* ── 8. Future Perfect ───────────────────────────────────── */}
         <TenseSection id="future-perfect" number={8} englishName="Future Perfect" spanishName="Futuro Compuesto">
-          {/* OWNER: write your explanation of the Future Perfect here */}
+          <p className="font-body text-lg text-text leading-relaxed mb-4">
+            The future perfect expresses actions that will have been completed before a specific point in the future. For example, <span lang="es">Para mañana habré terminado</span> means "By tomorrow I will have finished."
+          </p>
           <p className="font-body text-lg text-text leading-relaxed mb-6">
-            [Owner will write this section — explain "will have done" meanings, its rare but useful appearance in formal writing and speculation, and how it is formed with the future of <span lang="es">haber</span> + past participle.]
+            It is formed with the future tense of <span lang="es">haber</span> plus a past participle. In addition to true future meaning, it can also express probability or speculation about something that has already happened.
           </p>
           <TenseTable
             label="to speak"
@@ -268,9 +284,11 @@ export default function TensesPage() {
 
         {/* ── 9. Conditional Perfect ──────────────────────────────── */}
         <TenseSection id="conditional-perfect" number={9} englishName="Conditional Perfect" spanishName="Condicional Compuesto">
-          {/* OWNER: write your explanation of the Conditional Perfect here */}
+          <p className="font-body text-lg text-text leading-relaxed mb-4">
+            The conditional perfect expresses what someone would have done under different circumstances. It is often translated as "would have done": <span lang="es">Habría hablado si hubiera tenido tiempo</span> ("I would have spoken if I had had time").
+          </p>
           <p className="font-body text-lg text-text leading-relaxed mb-6">
-            [Owner will write this section — explain "would have done" meanings, its primary role in hypothetical (if-then) sentences, and how it is formed with the conditional of <span lang="es">haber</span> + past participle.]
+            This tense is especially important for discussing missed opportunities, regrets, and hypothetical situations in the past. It is formed with the conditional of <span lang="es">haber</span> plus a past participle.
           </p>
           <TenseTable
             label="to speak"
@@ -290,9 +308,11 @@ export default function TensesPage() {
 
         {/* ── 10. Present Subjunctive ─────────────────────────────── */}
         <TenseSection id="present-subjunctive" number={10} englishName="Present Subjunctive" spanishName="Subjuntivo Presente">
-          {/* OWNER: write your explanation of the Present Subjunctive here */}
+          <p className="font-body text-lg text-text leading-relaxed mb-4">
+            The subjunctive is a mood rather than a tense. It is used to express doubt, desire, emotion, uncertainty, recommendations, and hypothetical situations. You will often see it after trigger phrases such as <span lang="es">quiero que</span> (I want that), <span lang="es">espero que</span> (I hope that), and <span lang="es">es importante que</span> (it's important that).
+          </p>
           <p className="font-body text-lg text-text leading-relaxed mb-6">
-            [Owner will write this section — explain what the subjunctive mood is (doubt, desire, emotion, hypothetical), the triggers that require it (e.g. <span lang="es">quiero que</span>, <span lang="es">espero que</span>), and how it is formed (present-tense yo stem + "opposite" vowel endings).]
+            For most verbs, the present subjunctive is formed from the present-tense yo form and uses the opposite vowel endings. Learning common trigger expressions is often more important than memorizing abstract rules.
           </p>
           <TenseTable
             label="to speak"
@@ -312,9 +332,11 @@ export default function TensesPage() {
 
         {/* ── 11. Imperfect Subjunctive ───────────────────────────── */}
         <TenseSection id="imperfect-subjunctive" number={11} englishName="Imperfect Subjunctive" spanishName="Subjuntivo Imperfecto">
-          {/* OWNER: write your explanation of the Imperfect Subjunctive here */}
+          <p className="font-body text-lg text-text leading-relaxed mb-4">
+            The imperfect subjunctive is the past form of the subjunctive mood. It appears when the main verb is in a past tense and still requires a subjunctive clause: <span lang="es">Quería que hablaras</span> ("I wanted you to speak").
+          </p>
           <p className="font-body text-lg text-text leading-relaxed mb-6">
-            [Owner will write this section — explain the past-tense subjunctive, how it is formed from the ellos preterite stem, the -ra vs. -se variant endings, and when the sequence-of-tenses rule sends you here instead of the present subjunctive.]
+            It is usually formed from the third-person plural preterite stem. You may encounter both <span lang="es">-ra</span> and <span lang="es">-se</span> endings; both are correct, although the <span lang="es">-ra</span> forms are much more common in modern speech.
           </p>
           <TenseTable
             label="to speak"
@@ -331,9 +353,11 @@ export default function TensesPage() {
 
         {/* ── 12. Present Perfect Subjunctive ─────────────────────── */}
         <TenseSection id="present-perfect-subjunctive" number={12} englishName="Present Perfect Subjunctive" spanishName="Subjuntivo Pretérito Perfecto">
-          {/* OWNER: write your explanation of the Present Perfect Subjunctive here */}
+          <p className="font-body text-lg text-text leading-relaxed mb-4">
+            This tense combines the meaning of the present perfect with the uncertainty or subjectivity of the subjunctive. It is used when a subjunctive trigger refers to an action that has already been completed: <span lang="es">Espero que hayas hablado con ella</span> ("I hope that you have spoken with her").
+          </p>
           <p className="font-body text-lg text-text leading-relaxed mb-6">
-            [Owner will write this section — explain how this tense combines subjunctive triggers with a "have done" meaning, how it is formed with the present subjunctive of <span lang="es">haber</span> + past participle, and example sentences.]
+            It is formed with the present subjunctive of <span lang="es">haber</span> plus a past participle. The action is completed, but the speaker's attitude still requires the subjunctive.
           </p>
           <TenseTable
             label="to speak"
@@ -350,9 +374,11 @@ export default function TensesPage() {
 
         {/* ── 13. Past Perfect Subjunctive ────────────────────────── */}
         <TenseSection id="past-perfect-subjunctive" number={13} englishName="Past Perfect Subjunctive" spanishName="Subjuntivo Pluscuamperfecto">
-          {/* OWNER: write your explanation of the Past Perfect Subjunctive here */}
+          <p className="font-body text-lg text-text leading-relaxed mb-4">
+            The past perfect subjunctive describes an action that had already happened within a hypothetical, doubtful, or unreal past situation. It is most famous for appearing in <span lang="es">si</span> clauses: <span lang="es">Si hubiera hablado antes…</span> ("If I had spoken earlier…").
+          </p>
           <p className="font-body text-lg text-text leading-relaxed mb-6">
-            [Owner will write this section — explain "had done" in a subjunctive context, its essential role in hypothetical <span lang="es">si</span> clauses (<span lang="es">Si hubiera hablado…</span>), and how it is formed with the imperfect subjunctive of <span lang="es">haber</span> + past participle.]
+            It is formed with the imperfect subjunctive of <span lang="es">haber</span> plus a past participle. Together with the conditional perfect, it allows speakers to discuss alternative versions of the past and express complex hypothetical ideas.
           </p>
           <TenseTable
             label="to speak"
@@ -372,9 +398,11 @@ export default function TensesPage() {
 
         {/* ── 14. Imperative ──────────────────────────────────────── */}
         <TenseSection id="imperative" number={14} englishName="Imperative" spanishName="Imperativo">
-          {/* OWNER: write your explanation of the Imperative mood here */}
+          <p className="font-body text-lg text-text leading-relaxed mb-4">
+            The imperative is used to give commands, instructions, requests, and advice. Spanish distinguishes between positive commands (<span lang="es">Habla más despacio</span> — "Speak more slowly") and negative commands (<span lang="es">No hables tan rápido</span> — "Don't speak so fast").
+          </p>
           <p className="font-body text-lg text-text leading-relaxed mb-6">
-            [Owner will write this section — explain positive vs. negative commands, how the forms differ between <span lang="es">tú</span>/<span lang="es">vosotros</span> and <span lang="es">usted</span>/<span lang="es">ustedes</span>, and how negative commands use the present subjunctive forms.]
+            Different command forms exist for <span lang="es">tú</span>, <span lang="es">usted</span>, <span lang="es">vosotros</span>, and <span lang="es">ustedes</span>. One important pattern to remember is that negative commands use the present subjunctive forms, which makes knowledge of the subjunctive especially valuable.
           </p>
           <TenseTable
             label="to speak (commands)"
