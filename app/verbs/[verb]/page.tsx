@@ -85,12 +85,11 @@ export default async function VerbPage({ params }: Props) {
             </div>
             <p className="font-body text-xl text-muted mb-8">{data.english}</p>
 
-            {/* OWNER: write your overview for {data.infinitive} here */}
-            <p className="font-body text-lg text-muted leading-relaxed">
-              [Owner will write an overview of this verb — when to use it, what
-              makes it notable, and any key points to know before studying the
-              conjugation tables.]
-            </p>
+            {data.overview && (
+              <p className="font-body text-lg text-muted leading-relaxed">
+                {data.overview}
+              </p>
+            )}
           </section>
 
           {/* Conjugation tables */}
@@ -121,11 +120,13 @@ export default async function VerbPage({ params }: Props) {
             <h2 className="font-heading text-2xl lg:text-3xl font-semibold text-text mb-4">
               Notes &amp; Usage
             </h2>
-            {/* OWNER: write your notes for {data.infinitive} here */}
-            <p className="font-body text-lg text-muted leading-relaxed">
-              [Owner will write usage notes here — common patterns, pitfalls,
-              regional differences, and tips for remembering this verb.]
-            </p>
+            {data.notes.length > 0 && (
+              <ul className="font-body text-lg text-muted leading-relaxed space-y-2 list-disc list-inside">
+                {data.notes.map((note, i) => (
+                  <li key={i}>{note}</li>
+                ))}
+              </ul>
+            )}
           </section>
 
           {/* Examples */}
@@ -136,10 +137,16 @@ export default async function VerbPage({ params }: Props) {
             <h2 className="font-heading text-2xl lg:text-3xl font-semibold text-text mb-4">
               Examples
             </h2>
-            {/* OWNER: write example sentences for {data.infinitive} here */}
-            <p className="font-body text-lg text-muted leading-relaxed">
-              [Owner will write example sentences here.]
-            </p>
+            {data.examples.length > 0 && (
+              <ul className="font-body text-lg space-y-3">
+                {data.examples.map((ex, i) => (
+                  <li key={i}>
+                    <span className="text-text" lang="es">{ex.es}</span>
+                    <span className="text-muted"> — {ex.en}</span>
+                  </li>
+                ))}
+              </ul>
+            )}
           </section>
 
           {/* Prev / Next navigation */}

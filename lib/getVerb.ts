@@ -9,6 +9,8 @@ export type Conjugation = {
   "ellos/ellas": string;
 };
 
+export type Example = { es: string; en: string };
+
 export type Verb = {
   slug: string;
   infinitive: string;
@@ -22,8 +24,9 @@ export type Verb = {
     conditional: Conjugation;
     subjunctive_present: Conjugation;
   };
-  notes: string;
-  examples: string[];
+  overview: string;
+  notes: string[];
+  examples: Example[];
 };
 
 const verbs = verbsData as Verb[];
