@@ -108,7 +108,7 @@ export default function Nav() {
                       href="/verbs"
                       className="font-ui text-sm font-medium text-accent hover:text-accent-dark transition-colors"
                     >
-                      55 Essential Verbs →
+                      Key Verbs →
                     </Link>
                   </div>
                   <div className="grid grid-cols-2 p-3 gap-x-2">
@@ -234,50 +234,8 @@ export default function Nav() {
           <MobileLink href="/"            label="Home"               current={pathname} />
           <MobileLink href="/words"       label="1000 Words"         current={pathname} />
           <MobileLink href="/tenses"      label="14 Tenses"          current={pathname} />
-          <MobileLink href="/verbs"       label="55 Essential Verbs" current={pathname} />
+          <MobileLink href="/verbs"       label="Key Verbs"          current={pathname} />
           <MobileLink href="/conversation" label="Conversation"      current={pathname} />
-
-          <div className="mt-6 mb-2">
-            <p className="px-3 font-ui text-xs font-medium text-muted uppercase tracking-widest mb-1">
-              Individual Verbs
-            </p>
-            <div className="grid grid-cols-2">
-              {VERB_SLUGS.map((slug) => (
-                <Link
-                  key={slug}
-                  href={`/verbs/${slug}`}
-                  className={`block px-3 py-2 rounded-lg font-ui text-sm capitalize transition-colors ${
-                    pathname === `/verbs/${slug}`
-                      ? "text-accent font-medium"
-                      : "text-muted hover:text-accent"
-                  }`}
-                >
-                  {slug}
-                </Link>
-              ))}
-            </div>
-          </div>
-
-          <div className="mt-6 mb-2">
-            <p className="px-3 font-ui text-xs font-medium text-muted uppercase tracking-widest mb-1">
-              Conversation Scenarios
-            </p>
-            <div className="grid grid-cols-1">
-              {CONVERSATION_LINKS.map((link) => (
-                <Link
-                  key={link.slug}
-                  href={`/conversation/${link.slug}`}
-                  className={`block px-3 py-2 rounded-lg font-ui text-sm transition-colors ${
-                    pathname === `/conversation/${link.slug}`
-                      ? "text-accent font-medium"
-                      : "text-muted hover:text-accent"
-                  }`}
-                >
-                  {link.label}
-                </Link>
-              ))}
-            </div>
-          </div>
 
           <div className="mt-6">
             <p className="px-3 font-ui text-xs font-medium text-muted uppercase tracking-widest mb-1">
@@ -356,7 +314,7 @@ function MobileLink({ href, label, current }: { href: string; label: string; cur
       href={href}
       className={`block px-3 py-3 rounded-lg font-ui text-base font-medium transition-colors ${
         active
-          ? "text-accent bg-accent-light"
+          ? "text-text bg-accent-light"
           : "text-text hover:text-accent hover:bg-surface"
       }`}
       aria-current={active ? "page" : undefined}

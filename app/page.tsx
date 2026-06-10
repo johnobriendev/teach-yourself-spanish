@@ -30,7 +30,7 @@ const TOPICS = [
     href: "/tenses",
   },
   {
-    title: "55 Key Verbs",
+    title: "Key Verbs",
     description:
       "The most-used Spanish verbs, fully conjugated and explained in plain English.",
     href: "/verbs",
@@ -71,7 +71,7 @@ export default function HomePage() {
   return (
     <>
       {/* ── Section 1: Hero ─────────────────────────────────────────────── */}
-      <section className="relative min-h-screen flex items-center bg-base overflow-hidden">
+      <section className="relative lg:min-h-screen flex items-center bg-base overflow-hidden">
         {/* Decorative faded Spanish text */}
         <div
           aria-hidden="true"
@@ -88,7 +88,7 @@ export default function HomePage() {
         <div className="relative w-full max-w-4xl mx-auto px-4 sm:px-6 pt-28 pb-24">
         
 
-          <h1 className="font-display text-5xl lg:text-7xl font-bold text-text leading-[1.05] mb-6 max-w-3xl">
+          <h1 className="font-display text-5xl sm:text-6xl lg:text-7xl font-bold text-text leading-[1.05] mb-6 max-w-3xl">
             Trying to Learn Spanish? 
           </h1>
 
