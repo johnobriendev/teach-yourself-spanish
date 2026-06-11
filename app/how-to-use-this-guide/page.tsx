@@ -32,16 +32,15 @@ export default function HowToUseThisGuidePage() {
           <h2 className="font-heading text-2xl lg:text-3xl text-text font-semibold mb-6">
             Where to start
           </h2>
-          {/* OWNER: write your advice on where a complete beginner should start — probably vocabulary first, then tenses, then verbs */}
+          
           <p className="font-body text-lg text-text leading-relaxed mb-4">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+            First you need to ask yourself why you want to learn Spanish? Is it to be able to understand movies without the subtitles? Talk to your neighbor? Travel to another country? Asking yourself these and similar questions will help you narrow in your ultimate goal. It's important to always keep in mind why you are doing this.
           </p>
           <p className="font-body text-lg text-text leading-relaxed mb-6">
-            Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+            The best place to start is the 1000 most frequently used words. 1000 can seem like a lot but break it up into whatever pieces you have to so it doesn't seem like a lot. If you do 100 words a day, you'll have them all in 10 days. In the beginning I recommend you read through the entire list, and then write down the first 100 in a note book.
           </p>
           <CalloutBox variant="shortcuts">
-            {/* OWNER: write a callout about the single most important first step */}
-            [Owner will write this callout — e.g. the single best thing you can do on day one is work through the 1000 most common words list.]
+            Memorizing is an unfortunate part of learning a language. In the beginning you need to do a lot of studying so you have a base of words you can understand. Writing the most common words down helps you repeat them in your brain and memorize them. 
           </CalloutBox>
         </section>
 
@@ -50,16 +49,15 @@ export default function HowToUseThisGuidePage() {
           <h2 className="font-heading text-2xl lg:text-3xl text-text font-semibold mb-6">
             Suggested learning path
           </h2>
-          {/* OWNER: write a recommended order — e.g. 1. Vocabulary 2. Tenses 3. Key Verbs 4. Conversation practice */}
+          
           <p className="font-body text-lg text-text leading-relaxed mb-4">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+            Everyone must create their own learning path based upon what they think they are lacking. Ask yourself, the last time I tried to speak Spanish, what did I want to say but couldn't? Or if I were to speak to someone in Spanish for the first time, what would I say? The best you thing you can do while memorizing words is starting to think of sentences you can use them in. Once you have a few nouns and verbs memorized you have a good base to expand on. Think about things you wish you could talk about in Spanish and then look up how to say them if you don't have the vocabulary yet. In the beginning of my Spanish journey I was looking up vocabulary about music and guitars because I'm a guitar player. 
           </p>
           <p className="font-body text-lg text-text leading-relaxed mb-6">
-            Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+            Once you have some vocabulary built up about your common interests, your goal should be to have a short conversation about that topic with someone who speaks Spanish. You can do this before you memorize the 1000 most common words. Find out how to find a language partner in the language partner section.
           </p>
           <CalloutBox variant="why-this-matters">
-            {/* OWNER: write a callout on why following a sequence matters rather than jumping around */}
-            [Owner will write this callout — why a structured path beats randomly browsing topics.]
+            The reality is, in the beginning you will be overwhelmed with everything there is to learn. 1000 words, 14 verb tenses, Irregular vs Regular verbs: these are just a few of the many options you have to focus on. That is why if you want to speak, it's recommended to start speaking as soon as possible. 
           </CalloutBox>
         </section>
 
@@ -68,12 +66,12 @@ export default function HowToUseThisGuidePage() {
           <h2 className="font-heading text-2xl lg:text-3xl text-text font-semibold mb-6">
             How the site is laid out
           </h2>
-          {/* OWNER: describe each section of the site briefly — Words, Tenses, Verbs, Conversation, Tips */}
+          
           <p className="font-body text-lg text-text leading-relaxed mb-4">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+            This website provides the learner with everything they need to create their own Spanish study plan. You can browse the site as you wish and there is no set plan you have to follow.
           </p>
           <p className="font-body text-lg text-text leading-relaxed mb-6">
-            Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+            I normally recommend that the first thing people interact with and study is the 1000 most frequently used words. Although they are somewhat random, having the words in the back of your mind or having seen them before even without knowing the exact definition is of benefit. It gives you something to build on.
           </p>
         </section>
 
@@ -82,16 +80,14 @@ export default function HowToUseThisGuidePage() {
           <h2 className="font-heading text-2xl lg:text-3xl text-text font-semibold mb-6">
             Getting the most out of it
           </h2>
-          {/* OWNER: write practical tips — use a notebook alongside the site, come back regularly, don't try to do everything at once */}
           <p className="font-body text-lg text-text leading-relaxed mb-4">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+            Write everything down in a notebook. Writing things down gives you another repetition and helps cement it in your brain. When you think of a word you will have an image of where you wrote it on the page. 
           </p>
           <p className="font-body text-lg text-text leading-relaxed mb-6">
-            Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+            Think and use your brain! Think of scenarios where you would be speaking Spanish and think about what you would say. What kind of responses might you hear? Put yourself to the test. Speaking with others gives you immediate feedback about what you need to focus on.  
           </p>
           <CalloutBox variant="notebook-tip">
-            {/* OWNER: write a notebook tip for using this site alongside a physical notebook */}
-            [Owner will write this notebook tip — e.g. open a notebook every time you use this site and write down anything that surprises you.]
+            It's not necessary to understand all the grammar and words before you start trying to speak. 
           </CalloutBox>
         </section>
 

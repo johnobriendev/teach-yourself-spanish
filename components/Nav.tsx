@@ -107,6 +107,20 @@ export default function Nav() {
                       Key Verbs →
                     </Link>
                   </div>
+                  <div className="px-3 pt-3 pb-1 flex gap-2 border-b border-border">
+                    <Link
+                      href="/verbs/regular"
+                      className="flex-1 px-2 py-1.5 rounded font-ui text-sm text-text hover:text-accent hover:bg-surface transition-colors"
+                    >
+                      Regular Verbs
+                    </Link>
+                    <Link
+                      href="/verbs/irregular"
+                      className="flex-1 px-2 py-1.5 rounded font-ui text-sm text-text hover:text-accent hover:bg-surface transition-colors"
+                    >
+                      Irregular Verbs
+                    </Link>
+                  </div>
                   <div className="grid grid-cols-2 p-3 gap-x-2">
                     {VERB_SLUGS.map((slug) => (
                       <Link
@@ -206,7 +220,9 @@ export default function Nav() {
           <MobileLink href="/how-to-use-this-guide" label="How to Use This Guide" current={pathname} />
           <MobileLink href="/words"       label="1000 Words"         current={pathname} />
           <MobileLink href="/tenses"      label="14 Tenses"          current={pathname} />
-          <MobileLink href="/verbs"       label="Key Verbs"          current={pathname} />
+          <MobileLink href="/verbs"          label="Key Verbs"          current={pathname} />
+          <MobileLink href="/verbs/regular"   label="Regular Verbs"   current={pathname} />
+          <MobileLink href="/verbs/irregular" label="Irregular Verbs" current={pathname} />
           <MobileLink href="/conversation" label="Conversation"      current={pathname} />
 
         </nav>
