@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import Image from "next/image";
-import johnImage from "@/public/john.png";
+import johnImage from "@/public/john3.png";
 import Button from "@/components/Button";
 import CalloutBox from "@/components/CalloutBox";
 import TopicCard from "@/components/TopicCard";
