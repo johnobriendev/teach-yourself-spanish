@@ -774,5 +774,240 @@
         { "expression": "Chao / Ciao", "meaning": "Bye", "example": "Chao, nos vemos." }
       ]
     }
+  },
+  "making-plans-and-appointments": {
+    "conversation": {
+      "title": "Making Plans with a Friend",
+      "lines": [
+        { "speaker": "Laura", "es": "Hola, Carlos. ¿Qué haces esta noche?", "en": "Hi, Carlos. What are you doing tonight?" },
+        { "speaker": "Carlos", "es": "Nada especial. ¿Por qué?", "en": "Nothing special. Why?" },
+        { "speaker": "Laura", "es": "Tengo ganas de ir al cine.", "en": "I feel like going to the movie theater." },
+        { "speaker": "Carlos", "es": "¡Me encantaría! ¿A qué hora?", "en": "I'd love to! What time?" },
+        { "speaker": "Laura", "es": "La película empieza a las cuatro.", "en": "The movie starts at four o'clock." },
+        { "speaker": "Carlos", "es": "Son las tres y media ahora. Tenemos tiempo.", "en": "It's three thirty now. We have time." },
+        { "speaker": "Laura", "es": "Perfecto. Nos vemos en el cine.", "en": "Perfect. See you at the movie theater." },
+        { "speaker": "Carlos", "es": "Efectivamente. Estaré allí.", "en": "Exactly. I'll be there." },
+        { "speaker": "Laura", "es": "Si hay algún problema, te llamo.", "en": "If there's any problem, I'll call you." },
+        { "speaker": "Carlos", "es": "Bien. Nos vemos luego.", "en": "Good. See you later." },
+        { "speaker": "Laura", "es": "Hasta luego.", "en": "See you later." },
+        { "speaker": "Carlos", "es": "Adiós.", "en": "Goodbye." }
+      ]
+    },
+    "phraseSections": [
+      {
+        "id": "making-plans",
+        "title": "Making Plans",
+        "phrases": [
+          { "es": "¿Quieres salir esta noche?", "en": "Do you want to go out tonight?" },
+          { "es": "¿Tienes planes para mañana?", "en": "Do you have plans for tomorrow?" },
+          { "es": "Tengo ganas de salir.", "en": "I feel like going out." },
+          { "es": "Tengo ganas de ver una película.", "en": "I feel like watching a movie." },
+          { "es": "Me encantaría.", "en": "I'd love to." },
+          { "es": "Claro que sí.", "en": "Of course." },
+          { "es": "Perfecto.", "en": "Perfect." },
+          { "es": "Nos vemos allí.", "en": "See you there." },
+          { "es": "Te llamo más tarde.", "en": "I'll call you later." },
+          { "es": "Hablamos luego.", "en": "We'll talk later." }
+        ]
+      },
+      {
+        "id": "time",
+        "title": "Talking About Time",
+        "phrases": [
+          { "es": "Es la una.", "en": "It's one o'clock." },
+          { "es": "Son las dos.", "en": "It's two o'clock." },
+          { "es": "Son las tres.", "en": "It's three o'clock." },
+          { "es": "Son las cuatro.", "en": "It's four o'clock." },
+          { "es": "Son las cinco y media.", "en": "It's five thirty." },
+          { "es": "Son las seis y cuarto.", "en": "It's six fifteen." },
+          { "es": "Son las siete menos cuarto.", "en": "It's six forty-five." },
+          { "es": "¿A qué hora?", "en": "At what time?" },
+          { "es": "A las cuatro.", "en": "At four o'clock." },
+          { "es": "Esta noche.", "en": "Tonight." },
+          { "es": "Por la mañana.", "en": "In the morning." },
+          { "es": "Por la tarde.", "en": "In the afternoon." },
+          { "es": "Por la noche.", "en": "At night / In the evening." }
+        ]
+      },
+      {
+        "id": "places",
+        "title": "Places to Meet",
+        "phrases": [
+          { "es": "en el cine", "en": "at the movie theater" },
+          { "es": "en el restaurante", "en": "at the restaurant" },
+          { "es": "en el café", "en": "at the café" },
+          { "es": "en el parque", "en": "at the park" },
+          { "es": "en la plaza", "en": "at the town square" },
+          { "es": "en la biblioteca", "en": "at the library" },
+          { "es": "en el centro comercial", "en": "at the shopping mall" },
+          { "es": "en la estación", "en": "at the station" },
+          { "es": "en mi casa", "en": "at my house" },
+          { "es": "en tu casa", "en": "at your house" }
+        ]
+      },
+      {
+        "id": "nationalities",
+        "title": "Nationalities",
+        "phrases": [
+          { "es": "mexicano / mexicana", "en": "Mexican" },
+          { "es": "español / española", "en": "Spanish" },
+          { "es": "argentino / argentina", "en": "Argentine" },
+          { "es": "colombiano / colombiana", "en": "Colombian" },
+          { "es": "peruano / peruana", "en": "Peruvian" },
+          { "es": "chileno / chilena", "en": "Chilean" },
+          { "es": "uruguayo / uruguaya", "en": "Uruguayan" },
+          { "es": "venezolano / venezolana", "en": "Venezuelan" },
+          { "es": "estadounidense", "en": "American (U.S.)" },
+          { "es": "canadiense", "en": "Canadian" }
+        ]
+      },
+      {
+        "id": "responding",
+        "title": "Responding to Invitations",
+        "phrases": [
+          { "es": "Me encantaría.", "en": "I'd love to." },
+          { "es": "Claro.", "en": "Of course." },
+          { "es": "Suena bien.", "en": "Sounds good." },
+          { "es": "Perfecto.", "en": "Perfect." },
+          { "es": "Qué buena idea.", "en": "What a good idea." },
+          { "es": "Lo siento, no puedo.", "en": "Sorry, I can't." },
+          { "es": "Tal vez otro día.", "en": "Maybe another day." },
+          { "es": "Tengo otros planes.", "en": "I have other plans." }
+        ]
+      }
+    ],
+    "usefulExpressions": {
+      "title": "Useful Expressions for Making Plans",
+      "expressions": [
+        {
+          "term": "Te llamo",
+          "description": "Means \"I'll call you.\"",
+          "examples": [
+            { "es": "Te llamo esta noche.", "en": "I'll call you tonight." },
+            { "es": "Te llamo después.", "en": "I'll call you later." },
+            { "es": "Si cambia algo, te llamo.", "en": "If something changes, I'll call you." }
+          ],
+          "note": "Very common when arranging plans."
+        },
+        {
+          "term": "Por la noche",
+          "description": "Means \"at night\" or \"in the evening.\"",
+          "examples": [
+            { "es": "Trabajo por la noche.", "en": "I work at night." },
+            { "es": "Nos vemos por la noche.", "en": "We'll see each other tonight." }
+          ],
+          "note": "Related expressions: Por la mañana — In the morning. Por la tarde — In the afternoon."
+        },
+        {
+          "term": "Son las cuatro (Telling Time)",
+          "description": "To tell time in Spanish, use es la for one o'clock and son las for all other hours. To ask the time: ¿Qué hora es? To ask when something happens: ¿A qué hora?",
+          "examples": [
+            { "es": "Es la una.", "en": "It's one o'clock." },
+            { "es": "Son las dos.", "en": "It's two o'clock." },
+            { "es": "Son las ocho y media.", "en": "It's eight thirty." },
+            { "es": "Son las nueve y cuarto.", "en": "It's nine fifteen." },
+            { "es": "Son las diez menos cuarto.", "en": "It's nine forty-five." }
+          ]
+        },
+        {
+          "term": "Nacionalidades (Nationalities)",
+          "description": "Nationalities describe where someone comes from and often appear when making plans with new people or groups.",
+          "examples": [
+            { "es": "Soy mexicana.", "en": "I am Mexican." },
+            { "es": "Es colombiano.", "en": "He is Colombian." },
+            { "es": "Somos uruguayos.", "en": "We are Uruguayan." }
+          ]
+        },
+        {
+          "term": "En el cine (Places)",
+          "description": "Spanish commonly uses en + el/la to say where an activity takes place.",
+          "examples": [
+            { "es": "en el cine", "en": "at the movie theater" },
+            { "es": "en el restaurante", "en": "at the restaurant" },
+            { "es": "en el parque", "en": "at the park" },
+            { "es": "en la biblioteca", "en": "at the library" }
+          ]
+        },
+        {
+          "term": "Efectivamente",
+          "description": "Means \"indeed,\" \"exactly,\" or \"that's correct.\"",
+          "examples": [
+            { "es": "Efectivamente, la reunión es mañana.", "en": "Indeed, the meeting is tomorrow." },
+            { "es": "Efectivamente, son las cuatro.", "en": "That's correct, it's four o'clock." }
+          ],
+          "note": "A slightly more formal way to agree or confirm information."
+        },
+        {
+          "term": "Me encantaría",
+          "description": "Means \"I'd love to.\"",
+          "examples": [
+            { "es": "¿Quieres ir al cine?", "en": "Do you want to go to the movies?" },
+            { "es": "¡Me encantaría!", "en": "I'd love to!" }
+          ],
+          "note": "A very common positive response to invitations."
+        },
+        {
+          "term": "Tener ganas de",
+          "description": "Means \"to feel like\" or \"to want to.\" Always followed by a noun or infinitive verb.",
+          "examples": [
+            { "es": "Tengo ganas de salir.", "en": "I feel like going out." },
+            { "es": "Tengo ganas de comer pizza.", "en": "I feel like eating pizza." },
+            { "es": "Tengo ganas de viajar.", "en": "I feel like traveling." }
+          ]
+        },
+        {
+          "term": "Bien",
+          "description": "Means \"good,\" \"well,\" or \"okay.\"",
+          "examples": [
+            { "es": "Bien, nos vemos mañana.", "en": "Okay, see you tomorrow." },
+            { "es": "Estoy bien.", "en": "I'm fine." },
+            { "es": "Muy bien.", "en": "Very good." }
+          ],
+          "note": "Often used to accept or confirm plans."
+        },
+        {
+          "term": "Después / Luego",
+          "description": "Both mean \"later\" or \"afterward.\" In many situations, they are interchangeable.",
+          "examples": [
+            { "es": "Te llamo después.", "en": "I'll call you later." },
+            { "es": "Hablamos luego.", "en": "We'll talk later." },
+            { "es": "Después vamos a cenar.", "en": "Afterwards we'll have dinner." }
+          ]
+        },
+        {
+          "term": "Hasta luego",
+          "description": "Means \"see you later.\"",
+          "examples": [
+            { "es": "Hasta luego.", "en": "See you later." },
+            { "es": "Bueno, hasta luego.", "en": "Well, see you later." }
+          ],
+          "note": "One of the most common ways to end a conversation."
+        },
+        {
+          "term": "Adiós",
+          "description": "Means \"goodbye.\"",
+          "examples": [
+            { "es": "Adiós, que tengas un buen día.", "en": "Goodbye, have a nice day." },
+            { "es": "Adiós, nos vemos pronto.", "en": "Goodbye, see you soon." }
+          ],
+          "note": "Generally a stronger farewell than hasta luego."
+        }
+      ],
+      "quickReference": [
+        { "expression": "Te llamo", "meaning": "I'll call you", "example": "Te llamo después." },
+        { "expression": "Por la noche", "meaning": "At night", "example": "Nos vemos por la noche." },
+        { "expression": "Son las cuatro", "meaning": "It's four o'clock", "example": "Son las cuatro." },
+        { "expression": "Mexicana", "meaning": "Mexican (female)", "example": "Ella es mexicana." },
+        { "expression": "En el cine", "meaning": "At the movie theater", "example": "Nos vemos en el cine." },
+        { "expression": "Efectivamente", "meaning": "Indeed / Exactly", "example": "Efectivamente, es correcto." },
+        { "expression": "Me encantaría", "meaning": "I'd love to", "example": "¡Me encantaría!" },
+        { "expression": "Tener ganas de", "meaning": "To feel like", "example": "Tengo ganas de salir." },
+        { "expression": "Bien", "meaning": "Good / Okay", "example": "Bien, perfecto." },
+        { "expression": "Después", "meaning": "Later / Afterwards", "example": "Te llamo después." },
+        { "expression": "Luego", "meaning": "Later", "example": "Hablamos luego." },
+        { "expression": "Hasta luego", "meaning": "See you later", "example": "Hasta luego." },
+        { "expression": "Adiós", "meaning": "Goodbye", "example": "Adiós, nos vemos pronto." }
+      ]
+    }
   }
 }
