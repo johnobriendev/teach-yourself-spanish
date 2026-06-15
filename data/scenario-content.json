@@ -52,6 +52,486 @@
           { "es": "Hasta pronto.", "en": "See you soon." }
         ]
       }
-    ]
+    ],
+    "usefulExpressions": {
+      "title": "Useful Expressions for Greetings and Introductions",
+      "expressions": [
+        {
+          "term": "Ser / Soy",
+          "description": "Ser means \"to be\" and is used to describe identity, origin, profession, and characteristics.",
+          "examples": [
+            { "es": "Soy Ana.", "en": "I am Ana." },
+            { "es": "Soy profesor.", "en": "I am a teacher." },
+            { "es": "Soy de México.", "en": "I am from Mexico." }
+          ],
+          "note": "When introducing yourself, soy is often used instead of me llamo."
+        },
+        {
+          "term": "Encantado / Encantada",
+          "description": "Means \"pleased to meet you\" or \"delighted.\" Encantado is used by a man; Encantada by a woman.",
+          "examples": [
+            { "es": "Encantado de conocerte.", "en": "Pleased to meet you." },
+            { "es": "Encantada de conocerle.", "en": "Pleased to meet you. (formal)" }
+          ],
+          "note": "Often used after learning someone's name."
+        },
+        {
+          "term": "Encontrarse",
+          "description": "A reflexive verb meaning \"to find oneself\" or, in greetings, \"to be.\"",
+          "examples": [
+            { "es": "¿Cómo te encuentras?", "en": "How are you feeling?" },
+            { "es": "Me encuentro bien.", "en": "I am doing well." }
+          ],
+          "note": "Less common than ¿Cómo estás?, but useful for asking about someone's condition."
+        },
+        {
+          "term": "Llamarse",
+          "description": "Means \"to be called\" and is the most common way to ask and say someone's name.",
+          "examples": [
+            { "es": "¿Cómo te llamas?", "en": "What is your name?" },
+            { "es": "Me llamo Ana.", "en": "My name is Ana." }
+          ]
+        },
+        {
+          "term": "¿Verdad?",
+          "description": "Means \"right?\" or \"isn't that true?\" Used to confirm information.",
+          "examples": [
+            { "es": "Eres de España, ¿verdad?", "en": "You're from Spain, right?" },
+            { "es": "Te llamas Carlos, ¿verdad?", "en": "Your name is Carlos, right?" }
+          ],
+          "note": "Useful when meeting someone and checking information."
+        },
+        {
+          "term": "De dónde soy / Soy de...",
+          "description": "Used to talk about where someone is from.",
+          "examples": [
+            { "es": "¿De dónde eres?", "en": "Where are you from?" },
+            { "es": "Soy de Argentina.", "en": "I am from Argentina." },
+            { "es": "Soy de Montevideo.", "en": "I am from Montevideo." }
+          ],
+          "note": "A very common topic during introductions."
+        },
+        {
+          "term": "Sino",
+          "description": "Usually means \"but rather\" or \"instead.\"",
+          "examples": [
+            { "es": "No soy de Chile, sino de Perú.", "en": "I'm not from Chile, but rather from Peru." }
+          ],
+          "note": "Useful when correcting information about yourself."
+        },
+        {
+          "term": "Qué",
+          "description": "Means \"what.\" Used to ask for information.",
+          "examples": [
+            { "es": "¿Qué tal?", "en": "How's it going?" },
+            { "es": "¿Qué haces?", "en": "What do you do?" },
+            { "es": "¿Qué estudias?", "en": "What do you study?" }
+          ],
+          "note": "Common in conversation after introductions."
+        },
+        {
+          "term": "Quién",
+          "description": "Means \"who.\" Used to ask about a person's identity.",
+          "examples": [
+            { "es": "¿Quién es ella?", "en": "Who is she?" },
+            { "es": "¿Quién es tu amigo?", "en": "Who is your friend?" }
+          ],
+          "note": "Useful when introducing other people."
+        },
+        {
+          "term": "Desde cuándo",
+          "description": "Means \"since when?\" or \"how long?\"",
+          "examples": [
+            { "es": "¿Desde cuándo vives aquí?", "en": "How long have you lived here?" },
+            { "es": "¿Desde cuándo estudias español?", "en": "How long have you been studying Spanish?" }
+          ],
+          "note": "A common follow-up question after introductions."
+        },
+        {
+          "term": "Ya",
+          "description": "Has several meanings, including \"already,\" \"now,\" or \"I understand.\"",
+          "examples": [
+            { "es": "Ya conozco a María.", "en": "I already know María." },
+            { "es": "Ya veo.", "en": "I see." },
+            { "es": "Ya entiendo.", "en": "I understand." }
+          ],
+          "note": "Frequently used in conversation when getting to know someone."
+        },
+        {
+          "term": "A ver",
+          "description": "Literally means \"let's see.\"",
+          "examples": [
+            { "es": "A ver, ¿cómo te llamas?", "en": "Let's see, what's your name?" },
+            { "es": "A ver...", "en": "Let's see..." }
+          ],
+          "note": "Used to pause, think, or invite someone to explain something."
+        },
+        {
+          "term": "Así que",
+          "description": "Means \"so\" or \"therefore.\"",
+          "examples": [
+            { "es": "Así que eres de Colombia.", "en": "So you're from Colombia." },
+            { "es": "Así que estudias medicina.", "en": "So you study medicine." }
+          ],
+          "note": "Used to react to information someone has shared."
+        },
+        {
+          "term": "Bueno",
+          "description": "Means \"well,\" \"okay,\" or \"good.\"",
+          "examples": [
+            { "es": "Bueno, mucho gusto.", "en": "Well, nice to meet you." },
+            { "es": "Bueno, tengo que irme.", "en": "Well, I have to go." }
+          ],
+          "note": "Often used to start, continue, or end a conversation politely."
+        },
+        {
+          "term": "Parece mentira",
+          "description": "Literally means \"it seems like a lie,\" but is used like \"it's hard to believe.\"",
+          "examples": [
+            { "es": "¡Parece mentira que ya hayan pasado diez años!", "en": "It's hard to believe ten years have already passed!" },
+            { "es": "Parece mentira que nos conozcamos por fin.", "en": "It's hard to believe we're finally meeting." }
+          ],
+          "note": "Can be used when meeting someone after a long time or after only knowing them online."
+        }
+      ],
+      "quickReference": [
+        { "expression": "Soy", "meaning": "I am", "example": "Soy Ana." },
+        { "expression": "Me llamo", "meaning": "My name is", "example": "Me llamo Ana." },
+        { "expression": "Encantado/a", "meaning": "Pleased to meet you", "example": "Encantado de conocerte." },
+        { "expression": "¿Verdad?", "meaning": "Right?", "example": "Eres de México, ¿verdad?" },
+        { "expression": "Soy de...", "meaning": "I am from...", "example": "Soy de Uruguay." },
+        { "expression": "Sino", "meaning": "But rather", "example": "No soy de Chile, sino de Perú." },
+        { "expression": "Qué", "meaning": "What", "example": "¿Qué tal?" },
+        { "expression": "Quién", "meaning": "Who", "example": "¿Quién es él?" },
+        { "expression": "Desde cuándo", "meaning": "Since when / How long", "example": "¿Desde cuándo estudias español?" },
+        { "expression": "Ya", "meaning": "Already / I see", "example": "Ya entiendo." },
+        { "expression": "A ver", "meaning": "Let's see", "example": "A ver, cuéntame." },
+        { "expression": "Así que", "meaning": "So", "example": "Así que eres estudiante." },
+        { "expression": "Bueno", "meaning": "Well / Okay", "example": "Bueno, mucho gusto." },
+        { "expression": "Parece mentira", "meaning": "It's hard to believe", "example": "Parece mentira que estemos aquí." }
+      ]
+    }
+  },
+  "talking-about-what-you-like": {
+    "conversation": {
+      "title": "Talking About What You Like",
+      "lines": [
+        { "speaker": "Sofía", "es": "Hola, Diego. ¿Qué te gusta hacer en tu tiempo libre?", "en": "Hello, Diego. What do you like to do in your free time?" },
+        { "speaker": "Diego", "es": "Me gusta hacer senderismo y viajar. ¿Y a ti?", "en": "I like hiking and traveling. And you?" },
+        { "speaker": "Sofía", "es": "Me gusta leer y escuchar música.", "en": "I like reading and listening to music." },
+        { "speaker": "Diego", "es": "¿Qué tipo de música te gusta?", "en": "What kind of music do you like?" },
+        { "speaker": "Sofía", "es": "Me gusta el jazz y el rock.", "en": "I like jazz and rock." },
+        { "speaker": "Diego", "es": "A mí también me gusta el jazz.", "en": "I like jazz too." },
+        { "speaker": "Sofía", "es": "¿Qué te parece la música clásica?", "en": "What do you think of classical music?" },
+        { "speaker": "Diego", "es": "Para serte sincero, me gusta bastante.", "en": "To be honest, I like it quite a bit." },
+        { "speaker": "Sofía", "es": "A mí no me gusta mucho.", "en": "I don't like it very much." },
+        { "speaker": "Diego", "es": "De hecho, la escucho desde hace años.", "en": "In fact, I've been listening to it for years." },
+        { "speaker": "Sofía", "es": "Bueno, todos tenemos gustos diferentes.", "en": "Well, we all have different tastes." },
+        { "speaker": "Diego", "es": "Estoy de acuerdo.", "en": "I agree." },
+        { "speaker": "Sofía", "es": "A propósito, ¿qué te parece esta nueva película?", "en": "By the way, what do you think of this new movie?" },
+        { "speaker": "Diego", "es": "Creo que es interesante, aunque un poco larga.", "en": "I think it's interesting, although a bit long." },
+        { "speaker": "Sofía", "es": "Yo también. Por otra parte, los actores son excelentes.", "en": "Me too. On the other hand, the actors are excellent." },
+        { "speaker": "Diego", "es": "Sí, apoyo esa opinión.", "en": "Yes, I support that opinion." },
+        { "speaker": "Sofía", "es": "Quisiera verla otra vez este fin de semana.", "en": "I'd like to watch it again this weekend." },
+        { "speaker": "Diego", "es": "¡Perfecto! Espero que podamos ir juntos.", "en": "Perfect! I hope we can go together." }
+      ]
+    },
+    "phraseSections": [
+      {
+        "id": "likes-dislikes",
+        "title": "Likes and Dislikes",
+        "phrases": [
+          { "es": "Me gusta el fútbol.", "en": "I like soccer." },
+          { "es": "Me gustan los libros.", "en": "I like books." },
+          { "es": "Me encanta la música.", "en": "I love music." },
+          { "es": "Me encantan los animales.", "en": "I love animals." },
+          { "es": "Me interesa la historia.", "en": "History interests me." },
+          { "es": "Me fascina viajar.", "en": "I am fascinated by traveling." },
+          { "es": "Prefiero el té al café.", "en": "I prefer tea to coffee." },
+          { "es": "No me gusta el café.", "en": "I don't like coffee." },
+          { "es": "No me gustan las películas de terror.", "en": "I don't like horror movies." },
+          { "es": "No soporto el ruido.", "en": "I can't stand noise." },
+          { "es": "Odio levantarme temprano.", "en": "I hate waking up early." },
+          { "es": "Me da igual.", "en": "I don't mind." }
+        ]
+      },
+      {
+        "id": "asking-opinions",
+        "title": "Asking for Opinions",
+        "phrases": [
+          { "es": "¿Qué opinas?", "en": "What do you think?" },
+          { "es": "¿Qué te parece?", "en": "What do you think?" },
+          { "es": "¿Te gusta?", "en": "Do you like it?" },
+          { "es": "¿Qué piensas de eso?", "en": "What do you think about that?" },
+          { "es": "¿Estás de acuerdo?", "en": "Do you agree?" },
+          { "es": "¿Cuál prefieres?", "en": "Which do you prefer?" }
+        ]
+      },
+      {
+        "id": "expressing-opinions",
+        "title": "Expressing Opinions",
+        "phrases": [
+          { "es": "Creo que sí.", "en": "I think so." },
+          { "es": "Creo que no.", "en": "I don't think so." },
+          { "es": "Pienso que es interesante.", "en": "I think it is interesting." },
+          { "es": "En mi opinión...", "en": "In my opinion..." },
+          { "es": "Para mí...", "en": "For me..." },
+          { "es": "Me parece bien.", "en": "It seems good to me." },
+          { "es": "Me parece interesante.", "en": "It seems interesting to me." },
+          { "es": "Estoy de acuerdo.", "en": "I agree." },
+          { "es": "No estoy de acuerdo.", "en": "I disagree." },
+          { "es": "Tienes razón.", "en": "You're right." },
+          { "es": "Apoyo esa idea.", "en": "I support that idea." },
+          { "es": "Sostengo que es correcta.", "en": "I maintain that it is correct." },
+          { "es": "Por otra parte...", "en": "On the other hand..." }
+        ]
+      },
+      {
+        "id": "preferences",
+        "title": "Preferences",
+        "phrases": [
+          { "es": "Prefiero el verano al invierno.", "en": "I prefer summer to winter." },
+          { "es": "Me gusta más el café que el té.", "en": "I like coffee more than tea." },
+          { "es": "Quisiera aprender italiano.", "en": "I would like to learn Italian." },
+          { "es": "Quisiera visitar España algún día.", "en": "I would like to visit Spain someday." },
+          { "es": "Me gusta viajar, ya sea en tren o en avión.", "en": "I like traveling, whether by train or by plane." },
+          { "es": "Para serte sincero, prefiero quedarme en casa.", "en": "To be honest, I prefer staying home." }
+        ]
+      }
+    ],
+    "usefulExpressions": {
+      "title": "Useful Expressions for Likes and Opinions",
+      "expressions": [
+        {
+          "term": "Gustar",
+          "description": "Gustar means \"to be pleasing to\" and is used to talk about likes. The verb agrees with the thing being liked, not the person.",
+          "examples": [
+            { "es": "Me gusta la música.", "en": "I like music." },
+            { "es": "Me gustan los libros.", "en": "I like books." },
+            { "es": "¿Te gusta viajar?", "en": "Do you like traveling?" }
+          ]
+        },
+        {
+          "term": "Encantar",
+          "description": "Means \"to love.\" Works the same way as gustar.",
+          "examples": [
+            { "es": "Me encanta el chocolate.", "en": "I love chocolate." },
+            { "es": "Me encantan los perros.", "en": "I love dogs." }
+          ]
+        },
+        {
+          "term": "Interesar",
+          "description": "Means \"to interest.\" Works the same way as gustar.",
+          "examples": [
+            { "es": "Me interesa la historia.", "en": "History interests me." },
+            { "es": "¿Te interesan los idiomas?", "en": "Are you interested in languages?" }
+          ]
+        },
+        {
+          "term": "Fascinar",
+          "description": "Means \"to fascinate.\" Works the same way as gustar.",
+          "examples": [
+            { "es": "Me fascina la astronomía.", "en": "Astronomy fascinates me." }
+          ]
+        },
+        {
+          "term": "Molestar",
+          "description": "Means \"to bother.\" Works the same way as gustar.",
+          "examples": [
+            { "es": "Me molesta el ruido.", "en": "Noise bothers me." }
+          ]
+        },
+        {
+          "term": "Importar",
+          "description": "Means \"to matter.\" Works the same way as gustar.",
+          "examples": [
+            { "es": "No me importa.", "en": "It doesn't matter to me." },
+            { "es": "¿Te importa si abro la ventana?", "en": "Do you mind if I open the window?" }
+          ]
+        },
+        {
+          "term": "Aburrir",
+          "description": "Means \"to bore.\" Works the same way as gustar.",
+          "examples": [
+            { "es": "Me aburren las reuniones largas.", "en": "Long meetings bore me." }
+          ]
+        },
+        {
+          "term": "Esperar que",
+          "description": "Means \"to hope that\" or \"to expect that.\"",
+          "examples": [
+            { "es": "Espero que te guste.", "en": "I hope you like it." },
+            { "es": "Espero que estés de acuerdo.", "en": "I hope you agree." },
+            { "es": "Espero que la película sea buena.", "en": "I hope the movie is good." }
+          ],
+          "note": "Often used when recommending something."
+        },
+        {
+          "term": "Como",
+          "description": "Can mean \"like,\" \"as,\" or \"the way.\"",
+          "examples": [
+            { "es": "Como tú, prefiero el verano.", "en": "Like you, I prefer summer." },
+            { "es": "Me gusta cocinar como mi abuela.", "en": "I like cooking like my grandmother." },
+            { "es": "Me gusta cómo canta.", "en": "I like how he/she sings." }
+          ]
+        },
+        {
+          "term": "Desde",
+          "description": "Means \"from\" or \"since.\"",
+          "examples": [
+            { "es": "Me gusta el fútbol desde niño.", "en": "I've liked soccer since I was a child." },
+            { "es": "Escucho jazz desde hace cinco años.", "en": "I've been listening to jazz for five years." }
+          ],
+          "note": "Used to describe how long you've liked something."
+        },
+        {
+          "term": "Ya sea",
+          "description": "Means \"whether it be\" or \"whether.\"",
+          "examples": [
+            { "es": "Me gusta viajar, ya sea en tren o en avión.", "en": "I like traveling whether by train or plane." },
+            { "es": "Disfruto la música, ya sea clásica o moderna.", "en": "I enjoy music whether classical or modern." }
+          ]
+        },
+        {
+          "term": "O sea",
+          "description": "Means \"that is,\" \"in other words,\" or \"I mean.\"",
+          "examples": [
+            { "es": "Me encanta leer; o sea, leo todos los días.", "en": "I love reading; I mean, I read every day." },
+            { "es": "No me gusta mucho; o sea, está bien.", "en": "I don't like it very much; I mean, it's okay." }
+          ],
+          "note": "Very common in spoken Spanish."
+        },
+        {
+          "term": "De hecho",
+          "description": "Means \"in fact\" or \"actually.\"",
+          "examples": [
+            { "es": "Me gusta mucho el cine. De hecho, voy todas las semanas.", "en": "I really like movies. In fact, I go every week." },
+            { "es": "De hecho, es mi libro favorito.", "en": "In fact, it's my favorite book." }
+          ],
+          "note": "Used to add supporting information."
+        },
+        {
+          "term": "A propósito",
+          "description": "Means \"by the way.\"",
+          "examples": [
+            { "es": "A propósito, ¿te gusta la música latina?", "en": "By the way, do you like Latin music?" },
+            { "es": "A propósito, ¿qué opinas de esa película?", "en": "By the way, what do you think of that movie?" }
+          ],
+          "note": "Used to introduce a new topic."
+        },
+        {
+          "term": "¿Qué te parece?",
+          "description": "Means \"What do you think?\"",
+          "examples": [
+            { "es": "¿Qué te parece esta canción?", "en": "What do you think of this song?" },
+            { "es": "¿Qué te parece la idea?", "en": "What do you think of the idea?" }
+          ],
+          "note": "One of the most common ways to ask for opinions."
+        },
+        {
+          "term": "Para serte sincero / sincera",
+          "description": "Means \"to be honest with you.\"",
+          "examples": [
+            { "es": "Para serte sincero, no me gusta mucho.", "en": "To be honest, I don't like it very much." },
+            { "es": "Para serte sincera, prefiero el otro.", "en": "To be honest, I prefer the other one." }
+          ],
+          "note": "Used before expressing a personal opinion."
+        },
+        {
+          "term": "Soportar",
+          "description": "Means \"to tolerate\" or \"to stand.\"",
+          "examples": [
+            { "es": "No soporto el ruido.", "en": "I can't stand noise." },
+            { "es": "No soporto las películas de terror.", "en": "I can't stand horror movies." }
+          ],
+          "note": "Stronger than no me gusta."
+        },
+        {
+          "term": "Apoyar",
+          "description": "Means \"to support.\"",
+          "examples": [
+            { "es": "Apoyo esa idea.", "en": "I support that idea." },
+            { "es": "Apoyo a ese equipo.", "en": "I support that team." }
+          ],
+          "note": "Useful when expressing agreement."
+        },
+        {
+          "term": "Sostener",
+          "description": "Means \"to maintain,\" \"to argue,\" or \"to hold an opinion.\"",
+          "examples": [
+            { "es": "Sostengo que es una buena idea.", "en": "I maintain that it's a good idea." },
+            { "es": "Muchos sostienen que es la mejor opción.", "en": "Many argue that it is the best option." }
+          ],
+          "note": "More formal than creo que."
+        },
+        {
+          "term": "Por otra parte",
+          "description": "Means \"on the other hand.\"",
+          "examples": [
+            { "es": "Me gusta vivir aquí. Por otra parte, es muy caro.", "en": "I like living here. On the other hand, it is very expensive." },
+            { "es": "La película es divertida. Por otra parte, es demasiado larga.", "en": "The movie is entertaining. On the other hand, it is too long." }
+          ],
+          "note": "Used to present a contrasting opinion."
+        },
+        {
+          "term": "Quisiera",
+          "description": "Means \"I would like.\"",
+          "examples": [
+            { "es": "Quisiera aprender italiano.", "en": "I would like to learn Italian." },
+            { "es": "Quisiera probar esa comida.", "en": "I would like to try that food." }
+          ],
+          "note": "A polite way to express wishes and preferences."
+        },
+        {
+          "term": "Creo que",
+          "description": "Means \"I think that.\"",
+          "examples": [
+            { "es": "Creo que es interesante.", "en": "I think it's interesting." },
+            { "es": "Creo que tienes razón.", "en": "I think you're right." }
+          ]
+        },
+        {
+          "term": "Me parece que",
+          "description": "Means \"It seems to me that.\"",
+          "examples": [
+            { "es": "Me parece que es una buena idea.", "en": "It seems to me that it's a good idea." },
+            { "es": "Me parece que no es necesario.", "en": "It seems to me that it's not necessary." }
+          ],
+          "note": "A softer way to express an opinion."
+        },
+        {
+          "term": "Para mí",
+          "description": "Means \"for me\" or \"in my opinion.\"",
+          "examples": [
+            { "es": "Para mí, es la mejor canción del álbum.", "en": "For me, it's the best song on the album." },
+            { "es": "Para mí, el verano es mejor que el invierno.", "en": "For me, summer is better than winter." }
+          ]
+        }
+      ],
+      "quickReference": [
+        { "expression": "Gustar", "meaning": "To like", "example": "Me gusta el café." },
+        { "expression": "Encantar", "meaning": "To love", "example": "Me encanta viajar." },
+        { "expression": "Interesar", "meaning": "To interest", "example": "Me interesa la historia." },
+        { "expression": "Fascinar", "meaning": "To fascinate", "example": "Me fascina la música." },
+        { "expression": "Esperar que", "meaning": "To hope that", "example": "Espero que te guste." },
+        { "expression": "Como", "meaning": "Like / As", "example": "Como tú, prefiero el verano." },
+        { "expression": "Desde", "meaning": "Since / From", "example": "Me gusta desde niño." },
+        { "expression": "Ya sea", "meaning": "Whether it be", "example": "Ya sea té o café." },
+        { "expression": "O sea", "meaning": "I mean / That is", "example": "O sea, me gusta mucho." },
+        { "expression": "De hecho", "meaning": "In fact", "example": "De hecho, es mi favorito." },
+        { "expression": "A propósito", "meaning": "By the way", "example": "A propósito, ¿qué opinas?" },
+        { "expression": "¿Qué te parece?", "meaning": "What do you think?", "example": "¿Qué te parece esta idea?" },
+        { "expression": "Para serte sincero", "meaning": "To be honest", "example": "Para serte sincero, prefiero el otro." },
+        { "expression": "Soportar", "meaning": "To tolerate / stand", "example": "No soporto el ruido." },
+        { "expression": "Apoyar", "meaning": "To support", "example": "Apoyo esa idea." },
+        { "expression": "Sostener", "meaning": "To maintain / argue", "example": "Sostengo que es correcta." },
+        { "expression": "Por otra parte", "meaning": "On the other hand", "example": "Por otra parte, es caro." },
+        { "expression": "Quisiera", "meaning": "I would like", "example": "Quisiera aprender español." },
+        { "expression": "Creo que", "meaning": "I think that", "example": "Creo que es buena." },
+        { "expression": "Me parece que", "meaning": "It seems to me", "example": "Me parece interesante." },
+        { "expression": "Para mí", "meaning": "In my opinion", "example": "Para mí, es excelente." },
+        { "expression": "Estoy de acuerdo", "meaning": "I agree", "example": "Estoy de acuerdo contigo." }
+      ]
+    }
   }
 }

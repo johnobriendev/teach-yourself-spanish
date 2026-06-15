@@ -105,6 +105,7 @@ export default async function TopicPage({ params }: Props) {
   const sidebarLinks = [
     ...(content.conversation ? [{ label: "Conversation", href: "#conversation" }] : []),
     ...content.phraseSections.map((s) => ({ label: s.title.split(" ")[0], href: `#${s.id}` })),
+    ...(content.usefulExpressions ? [{ label: "Expressions", href: "#useful-expressions" }] : []),
   ];
 
   return (
@@ -188,6 +189,52 @@ export default async function TopicPage({ params }: Props) {
               </div>
             </section>
           ))}
+
+          {content.usefulExpressions && (
+            <section id="useful-expressions" className="mb-16 scroll-mt-24 pt-6 border-t border-border">
+              <h2 className="font-heading text-2xl lg:text-3xl font-semibold text-text mb-10">
+                {content.usefulExpressions.title}
+              </h2>
+
+              <div className="space-y-12 mb-16">
+                {content.usefulExpressions.expressions.map((expr, i) => (
+                  <div key={i}>
+                    <h3 className="font-heading text-xl font-semibold text-text mb-2" lang="es">
+                      {expr.term}
+                    </h3>
+                    <p className="font-body text-lg text-muted mb-4">{expr.description}</p>
+                    <div className="space-y-2 mb-3">
+                      {expr.examples.map((ex, j) => (
+                        <div key={j} className="grid grid-cols-2 gap-8 py-2 border-b border-border/50 last:border-0">
+                          <span className="font-body text-lg text-text" lang="es">{ex.es}</span>
+                          <span className="font-body text-lg text-muted">{ex.en}</span>
+                        </div>
+                      ))}
+                    </div>
+                    {expr.note && (
+                      <p className="font-body text-sm text-muted italic">{expr.note}</p>
+                    )}
+                  </div>
+                ))}
+              </div>
+
+              <h3 className="font-heading text-xl font-semibold text-text mb-4">Quick Reference</h3>
+              <div className="grid grid-cols-3 gap-4 pb-2 mb-2 border-b border-border">
+                <span className="font-ui text-xs font-medium text-muted uppercase tracking-wide">Expression</span>
+                <span className="font-ui text-xs font-medium text-muted uppercase tracking-wide">Meaning</span>
+                <span className="font-ui text-xs font-medium text-muted uppercase tracking-wide">Example</span>
+              </div>
+              <div>
+                {content.usefulExpressions.quickReference.map((row, i) => (
+                  <div key={i} className="grid grid-cols-3 gap-4 py-3 border-b border-border/50 last:border-0">
+                    <span className="font-body text-lg text-text font-medium" lang="es">{row.expression}</span>
+                    <span className="font-body text-lg text-muted">{row.meaning}</span>
+                    <span className="font-body text-lg text-muted" lang="es">{row.example}</span>
+                  </div>
+                ))}
+              </div>
+            </section>
+          )}
 
           {prevNext}
         </article>
