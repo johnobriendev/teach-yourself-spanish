@@ -533,5 +533,246 @@
         { "expression": "Estoy de acuerdo", "meaning": "I agree", "example": "Estoy de acuerdo contigo." }
       ]
     }
+  },
+  "beginning-a-conversation": {
+    "conversation": {
+      "title": "Starting a Friendly Conversation",
+      "lines": [
+        { "speaker": "Ana", "es": "¡Hola, Marta! ¿Qué tal?", "en": "Hi, Marta! How's it going?" },
+        { "speaker": "Marta", "es": "Muy bien, gracias. ¿Y tú?", "en": "Very well, thanks. And you?" },
+        { "speaker": "Ana", "es": "Bien también. ¿Qué hay de nuevo?", "en": "Good too. What's new?" },
+        { "speaker": "Marta", "es": "Pues, me mudé a un apartamento nuevo la semana pasada.", "en": "Well, I moved to a new apartment last week." },
+        { "speaker": "Ana", "es": "¡En serio! ¡Qué bueno!", "en": "Really? That's great!" },
+        { "speaker": "Marta", "es": "Sí, y todavía estoy organizando todo.", "en": "Yes, and I'm still organizing everything." },
+        { "speaker": "Ana", "es": "Cuéntame, ¿cómo es el lugar?", "en": "Tell me, what's the place like?" },
+        { "speaker": "Marta", "es": "Es pequeño, pero muy cómodo. Incluso tiene un balcón.", "en": "It's small, but very comfortable. It even has a balcony." },
+        { "speaker": "Ana", "es": "¡Qué bien! ¿Todavía te dedicas al diseño gráfico?", "en": "That's great! Do you still work in graphic design?" },
+        { "speaker": "Marta", "es": "Claro. De hecho, trabajo desde casa ahora.", "en": "Of course. In fact, I work from home now." },
+        { "speaker": "Ana", "es": "Fíjate, eso suena muy conveniente.", "en": "Wow, that sounds very convenient." },
+        { "speaker": "Marta", "es": "Sí, aunque a veces extraño la oficina.", "en": "Yes, although sometimes I miss the office." },
+        { "speaker": "Ana", "es": "¿Te apetece tomar un cafecito algún día?", "en": "Would you like to have a little coffee sometime?" },
+        { "speaker": "Marta", "es": "Claro que sí.", "en": "Of course!" },
+        { "speaker": "Ana", "es": "Bueno, hablamos pronto. ¡Chao!", "en": "Well, talk to you soon. Bye!" },
+        { "speaker": "Marta", "es": "¡Chao!", "en": "Bye!" }
+      ]
+    },
+    "phraseSections": [
+      {
+        "id": "starters",
+        "title": "Common Conversation Starters",
+        "phrases": [
+          { "es": "Hola.", "en": "Hello." },
+          { "es": "¿Qué tal?", "en": "How's it going?" },
+          { "es": "¿Cómo estás?", "en": "How are you?" },
+          { "es": "¿Qué hay de nuevo?", "en": "What's new?" },
+          { "es": "¿Cómo te va?", "en": "How are things going?" },
+          { "es": "Cuéntame.", "en": "Tell me about it." },
+          { "es": "¿Qué haces estos días?", "en": "What are you doing these days?" },
+          { "es": "¿Cómo has estado?", "en": "How have you been?" },
+          { "es": "Mucho tiempo sin verte.", "en": "Long time no see." },
+          { "es": "¡Qué bueno verte!", "en": "It's great to see you!" }
+        ]
+      },
+      {
+        "id": "reacting",
+        "title": "Reacting During a Conversation",
+        "phrases": [
+          { "es": "¿En serio?", "en": "Really?" },
+          { "es": "¡Qué bueno!", "en": "That's great!" },
+          { "es": "Claro.", "en": "Of course." },
+          { "es": "Claro que sí.", "en": "Absolutely." },
+          { "es": "Fíjate.", "en": "Look / Imagine that / You know what?" },
+          { "es": "Pues...", "en": "Well..." },
+          { "es": "¡Qué interesante!", "en": "How interesting!" },
+          { "es": "No me digas.", "en": "You don't say!" },
+          { "es": "¡Qué sorpresa!", "en": "What a surprise!" },
+          { "es": "Entiendo.", "en": "I understand." }
+        ]
+      },
+      {
+        "id": "ending",
+        "title": "Ending a Conversation",
+        "phrases": [
+          { "es": "Bueno, tengo que irme.", "en": "Well, I have to go." },
+          { "es": "Hablamos luego.", "en": "We'll talk later." },
+          { "es": "Hasta luego.", "en": "See you later." },
+          { "es": "Nos vemos.", "en": "See you." },
+          { "es": "Que tengas un buen día.", "en": "Have a nice day." },
+          { "es": "Chao.", "en": "Bye." },
+          { "es": "Ciao.", "en": "Bye." },
+          { "es": "Adiós.", "en": "Goodbye." }
+        ]
+      }
+    ],
+    "usefulExpressions": {
+      "title": "Useful Expressions for Beginning Conversations",
+      "expressions": [
+        {
+          "term": "Besos",
+          "description": "Means \"kisses.\" In many Spanish-speaking countries, friends and family often greet each other with one or two cheek kisses.",
+          "examples": [
+            { "es": "Un beso.", "en": "A kiss." },
+            { "es": "Besos.", "en": "Kisses." },
+            { "es": "Te mando un beso.", "en": "Sending you a kiss." }
+          ],
+          "note": "Often used at the end of messages, emails, or conversations."
+        },
+        {
+          "term": "¿Qué tal?",
+          "description": "One of the most common ways to say \"How's it going?\", \"How are things?\", or \"What's up?\"",
+          "examples": [
+            { "es": "¿Qué tal?", "en": "How's it going?" },
+            { "es": "¿Qué tal tu día?", "en": "How's your day going?" }
+          ],
+          "note": "Less formal than ¿Cómo está usted?"
+        },
+        {
+          "term": "¿Qué hay de nuevo?",
+          "description": "Means \"What's new?\"",
+          "examples": [
+            { "es": "¿Qué hay de nuevo?", "en": "What's new?" },
+            { "es": "No mucho.", "en": "Not much." }
+          ],
+          "note": "A common question when reconnecting with someone."
+        },
+        {
+          "term": "Cafecito and the Diminutive (-ito / -ita)",
+          "description": "A diminutive is a word ending used to make something sound smaller, friendlier, or more affectionate. Common examples: café → cafecito, casa → casita, perro → perrito, momento → momentito.",
+          "examples": [
+            { "es": "¿Tomamos un cafecito?", "en": "Shall we have a little coffee?" },
+            { "es": "Espera un momentito.", "en": "Wait a little moment." }
+          ],
+          "note": "The diminutive often expresses friendliness rather than actual size."
+        },
+        {
+          "term": "Cuéntame",
+          "description": "Means \"Tell me.\" Used to encourage someone to continue speaking.",
+          "examples": [
+            { "es": "Cuéntame.", "en": "Tell me." },
+            { "es": "Cuéntame más.", "en": "Tell me more." },
+            { "es": "Cuéntame qué pasó.", "en": "Tell me what happened." }
+          ],
+          "note": "Very common in casual conversation."
+        },
+        {
+          "term": "¿En serio?",
+          "description": "Means \"Really?\" Used to express surprise.",
+          "examples": [
+            { "es": "¿En serio?", "en": "Really?" },
+            { "es": "¿En serio hiciste eso?", "en": "You really did that?" }
+          ]
+        },
+        {
+          "term": "Dedicarse",
+          "description": "Means \"to work in\" or \"to dedicate oneself to.\" Often used when asking about someone's profession.",
+          "examples": [
+            { "es": "¿A qué te dedicas?", "en": "What do you do for a living?" },
+            { "es": "Me dedico a la enseñanza.", "en": "I work in education." }
+          ],
+          "note": "Very useful when getting to know someone."
+        },
+        {
+          "term": "Aunque",
+          "description": "Means \"although\" or \"even though.\"",
+          "examples": [
+            { "es": "Me gusta, aunque es caro.", "en": "I like it, although it's expensive." },
+            { "es": "Aunque estaba cansado, fui.", "en": "Even though I was tired, I went." }
+          ],
+          "note": "Used to connect contrasting ideas."
+        },
+        {
+          "term": "Pues",
+          "description": "Means \"well...\" Often used to start an answer or give yourself time to think.",
+          "examples": [
+            { "es": "Pues, no lo sé.", "en": "Well, I don't know." },
+            { "es": "Pues, tengo una idea.", "en": "Well, I have an idea." }
+          ],
+          "note": "Extremely common in spoken Spanish."
+        },
+        {
+          "term": "Fíjate",
+          "description": "Literally means \"look\" or \"notice.\" Often used like \"You know what?\", \"Imagine that\", or \"Interestingly enough.\"",
+          "examples": [
+            { "es": "Fíjate, yo también viví allí.", "en": "You know what, I lived there too." },
+            { "es": "Fíjate qué curioso.", "en": "Isn't that interesting." }
+          ],
+          "note": "Very common in conversation."
+        },
+        {
+          "term": "Claro",
+          "description": "Means \"of course,\" \"certainly,\" or \"clearly.\"",
+          "examples": [
+            { "es": "Claro.", "en": "Of course." },
+            { "es": "Claro que sí.", "en": "Absolutely." },
+            { "es": "Claro que no.", "en": "Of course not." }
+          ],
+          "note": "One of the most common agreement expressions."
+        },
+        {
+          "term": "¡Qué bueno!",
+          "description": "Means \"That's great!\" or \"That's good!\"",
+          "examples": [
+            { "es": "¡Qué bueno!", "en": "That's great!" },
+            { "es": "¡Qué bueno verte!", "en": "Great to see you!" }
+          ],
+          "note": "Used to react positively to news."
+        },
+        {
+          "term": "Acabar de + Infinitive",
+          "description": "Means \"to have just done something.\"",
+          "examples": [
+            { "es": "Acabo de llegar.", "en": "I just arrived." },
+            { "es": "Acabamos de mudarnos.", "en": "We just moved." },
+            { "es": "¿Acabas de terminar?", "en": "Did you just finish?" }
+          ],
+          "note": "Very common when talking about recent events."
+        },
+        {
+          "term": "Mudarse",
+          "description": "Means \"to move\" (change residence).",
+          "examples": [
+            { "es": "Me mudé el mes pasado.", "en": "I moved last month." },
+            { "es": "¿Te mudaste recientemente?", "en": "Did you move recently?" }
+          ],
+          "note": "A common topic when catching up with someone."
+        },
+        {
+          "term": "Incluso",
+          "description": "Means \"even\" or \"including.\"",
+          "examples": [
+            { "es": "Incluso tiene piscina.", "en": "It even has a pool." },
+            { "es": "Todos fueron, incluso Ana.", "en": "Everyone went, including Ana." }
+          ],
+          "note": "Used to emphasize additional information."
+        },
+        {
+          "term": "Chao / Ciao",
+          "description": "Both mean \"bye.\"",
+          "examples": [
+            { "es": "Chao, nos vemos mañana.", "en": "Bye, see you tomorrow." },
+            { "es": "Ciao, cuídate.", "en": "Bye, take care." }
+          ],
+          "note": "Very common informal farewells throughout the Spanish-speaking world."
+        }
+      ],
+      "quickReference": [
+        { "expression": "Besos", "meaning": "Kisses", "example": "Besos, hasta mañana." },
+        { "expression": "¿Qué tal?", "meaning": "How's it going?", "example": "¿Qué tal tu día?" },
+        { "expression": "¿Qué hay de nuevo?", "meaning": "What's new?", "example": "¿Qué hay de nuevo por aquí?" },
+        { "expression": "Cafecito", "meaning": "Little coffee (friendly diminutive)", "example": "¿Tomamos un cafecito?" },
+        { "expression": "Cuéntame", "meaning": "Tell me", "example": "Cuéntame más." },
+        { "expression": "¿En serio?", "meaning": "Really?", "example": "¿En serio hiciste eso?" },
+        { "expression": "Dedicarse", "meaning": "To work in", "example": "¿A qué te dedicas?" },
+        { "expression": "Aunque", "meaning": "Although", "example": "Me gusta, aunque es caro." },
+        { "expression": "Pues", "meaning": "Well...", "example": "Pues, no sé." },
+        { "expression": "Fíjate", "meaning": "You know what / Look", "example": "Fíjate qué curioso." },
+        { "expression": "Claro", "meaning": "Of course", "example": "Claro que sí." },
+        { "expression": "¡Qué bueno!", "meaning": "That's great!", "example": "¡Qué bueno verte!" },
+        { "expression": "Acabar de", "meaning": "To have just done", "example": "Acabo de llegar." },
+        { "expression": "Mudarse", "meaning": "To move house", "example": "Me mudé hace poco." },
+        { "expression": "Incluso", "meaning": "Even / Including", "example": "Incluso tiene balcón." },
+        { "expression": "Chao / Ciao", "meaning": "Bye", "example": "Chao, nos vemos." }
+      ]
+    }
   }
 }
