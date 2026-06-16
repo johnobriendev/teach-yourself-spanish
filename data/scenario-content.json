@@ -1432,5 +1432,345 @@
         { "expression": "Asegurarse de", "meaning": "To make sure", "example": "Quiero asegurarme de eso." }
       ]
     }
+  },
+  "asking-for-something-and-making-an-offer": {
+    "conversation": {
+      "title": "Asking a Friend for Help",
+      "lines": [
+        { "speaker": "Ana", "es": "Oye, Carlos, ¿puedo pedirte un favor?", "en": "Hey, Carlos, can I ask you a favor?" },
+        { "speaker": "Carlos", "es": "Por supuesto. ¿Qué necesitas?", "en": "Of course. What do you need?" },
+        { "speaker": "Ana", "es": "Es que perdí mis apuntes de la clase de ayer.", "en": "It's just that I lost my notes from yesterday's class." },
+        { "speaker": "Carlos", "es": "Qué mala suerte.", "en": "That's bad luck." },
+        { "speaker": "Ana", "es": "¿Podrías prestarme tus apuntes?", "en": "Could you lend me your notes?" },
+        { "speaker": "Carlos", "es": "Claro. Te los puedo prestar esta tarde.", "en": "Sure. I can lend them to you this afternoon." },
+        { "speaker": "Ana", "es": "Muchas gracias. Estoy tratando de preparar el examen.", "en": "Thank you very much. I'm trying to prepare for the exam." },
+        { "speaker": "Carlos", "es": "No hay problema. Además, puedo ofrecerte ayuda si tienes dudas.", "en": "No problem. I can also offer you help if you have questions." },
+        { "speaker": "Ana", "es": "¡Gracias! Eso me ayudaría mucho.", "en": "Thanks! That would help me a lot." },
+        { "speaker": "Carlos", "es": "¿Quieres quedar conmigo para estudiar mañana?", "en": "Do you want to meet with me to study tomorrow?" },
+        { "speaker": "Ana", "es": "Me parece una buena idea.", "en": "That sounds like a good idea." },
+        { "speaker": "Carlos", "es": "Perfecto. En cuanto termine mis clases, te llamo.", "en": "Perfect. As soon as I finish my classes, I'll call you." },
+        { "speaker": "Ana", "es": "Por cierto, ¿a qué hora nos vemos?", "en": "By the way, what time should we meet?" },
+        { "speaker": "Carlos", "es": "A las cuatro.", "en": "At four o'clock." },
+        { "speaker": "Ana", "es": "Perfecto. Hasta mañana.", "en": "Perfect. See you tomorrow." }
+      ]
+    },
+    "phraseSections": [
+      {
+        "id": "asking-for-something",
+        "title": "Asking for Something",
+        "phrases": [
+          { "es": "¿Puedo pedirte un favor?", "en": "Can I ask you a favor?" },
+          { "es": "¿Me ayudas?", "en": "Can you help me?" },
+          { "es": "¿Podrías ayudarme?", "en": "Could you help me?" },
+          { "es": "¿Me prestas tu libro?", "en": "Can you lend me your book?" },
+          { "es": "Necesito ayuda.", "en": "I need help." },
+          { "es": "Estoy tratando de entender esto.", "en": "I'm trying to understand this." },
+          { "es": "¿Tienes un momento?", "en": "Do you have a moment?" },
+          { "es": "¿Puedes explicármelo?", "en": "Can you explain it to me?" },
+          { "es": "Te agradecería mucho tu ayuda.", "en": "I would really appreciate your help." }
+        ]
+      },
+      {
+        "id": "making-an-offer",
+        "title": "Making an Offer",
+        "phrases": [
+          { "es": "¿Puedo ayudarte?", "en": "Can I help you?" },
+          { "es": "Déjame ayudarte.", "en": "Let me help you." },
+          { "es": "Te puedo prestar esto.", "en": "I can lend you this." },
+          { "es": "Puedo ofrecerte ayuda.", "en": "I can offer you help." },
+          { "es": "Claro que sí.", "en": "Of course." },
+          { "es": "Por supuesto.", "en": "Certainly / Of course." },
+          { "es": "No hay problema.", "en": "No problem." },
+          { "es": "Cuenta conmigo.", "en": "Count on me." },
+          { "es": "Con mucho gusto.", "en": "With pleasure." }
+        ]
+      },
+      {
+        "id": "arranging-to-meet",
+        "title": "Arranging to Meet",
+        "phrases": [
+          { "es": "¿Quieres quedar conmigo para estudiar?", "en": "Do you want to meet with me to study?" },
+          { "es": "¿Quedamos para comer?", "en": "Shall we meet for lunch?" },
+          { "es": "¿Quedamos mañana?", "en": "Shall we meet tomorrow?" },
+          { "es": "Nos vemos a las cuatro.", "en": "See you at four." },
+          { "es": "En cuanto llegue, te llamo.", "en": "As soon as I arrive, I'll call you." },
+          { "es": "Perfecto, allí estaré.", "en": "Perfect, I'll be there." }
+        ]
+      }
+    ],
+    "usefulExpressions": {
+      "title": "Useful Expressions for Asking for Something and Making Offers",
+      "expressions": [
+        {
+          "term": "Oye",
+          "description": "Means \"Hey\" or \"Listen.\" Used to get someone's attention before asking for something.",
+          "examples": [
+            { "es": "Oye, ¿puedes ayudarme?", "en": "Hey, can you help me?" },
+            { "es": "Oye, tengo una pregunta.", "en": "Hey, I have a question." }
+          ],
+          "note": "Very common in informal conversations."
+        },
+        {
+          "term": "Pedir",
+          "description": "Means \"to ask for\" or \"to request.\"",
+          "examples": [
+            { "es": "Quiero pedir un favor.", "en": "I want to ask a favor." },
+            { "es": "Voy a pedir ayuda.", "en": "I'm going to ask for help." },
+            { "es": "¿Qué vas a pedir?", "en": "What are you going to ask for/order?" }
+          ],
+          "note": "A key verb for making requests."
+        },
+        {
+          "term": "Tratar de",
+          "description": "Means \"to try to.\" Always followed by an infinitive.",
+          "examples": [
+            { "es": "Estoy tratando de estudiar.", "en": "I'm trying to study." },
+            { "es": "Trato de llegar temprano.", "en": "I try to arrive early." },
+            { "es": "Estamos tratando de resolver el problema.", "en": "We're trying to solve the problem." }
+          ]
+        },
+        {
+          "term": "Ofrecer",
+          "description": "Means \"to offer.\" Useful when making offers.",
+          "examples": [
+            { "es": "Puedo ofrecerte ayuda.", "en": "I can offer you help." },
+            { "es": "Me ofreció su apoyo.", "en": "He offered me his support." },
+            { "es": "¿Qué puedes ofrecer?", "en": "What can you offer?" }
+          ]
+        },
+        {
+          "term": "Por supuesto",
+          "description": "Means \"of course.\" A polite and enthusiastic response.",
+          "examples": [
+            { "es": "¿Puedes ayudarme?", "en": "Can you help me?" },
+            { "es": "Por supuesto.", "en": "Of course." }
+          ]
+        },
+        {
+          "term": "Prestar",
+          "description": "Means \"to lend.\" Remember: prestar means \"to lend,\" not \"to borrow.\"",
+          "examples": [
+            { "es": "¿Puedes prestarme tu libro?", "en": "Can you lend me your book?" },
+            { "es": "Te presto mis apuntes.", "en": "I'll lend you my notes." },
+            { "es": "¿Me prestas dinero?", "en": "Can you lend me money?" }
+          ]
+        },
+        {
+          "term": "Apuntes",
+          "description": "Means \"notes\" (especially class notes). A useful school and university vocabulary word.",
+          "examples": [
+            { "es": "Perdí mis apuntes.", "en": "I lost my notes." },
+            { "es": "¿Tienes los apuntes de la clase?", "en": "Do you have the class notes?" },
+            { "es": "Necesito estudiar mis apuntes.", "en": "I need to study my notes." }
+          ]
+        },
+        {
+          "term": "Es que",
+          "description": "Means \"it's just that...\" or \"the thing is...\" Used to explain a situation or reason. Very common in spoken Spanish.",
+          "examples": [
+            { "es": "Es que estoy ocupado.", "en": "It's just that I'm busy." },
+            { "es": "Es que perdí el autobús.", "en": "The thing is, I missed the bus." }
+          ]
+        },
+        {
+          "term": "Quedar con alguien para...",
+          "description": "Means \"to meet up with someone to...\"",
+          "examples": [
+            { "es": "Quedé con Ana para estudiar.", "en": "I met up with Ana to study." },
+            { "es": "¿Quieres quedar conmigo para comer?", "en": "Do you want to meet with me for lunch?" },
+            { "es": "Vamos a quedar para tomar café.", "en": "We're going to meet up for coffee." }
+          ],
+          "note": "Useful when making plans."
+        },
+        {
+          "term": "Perder",
+          "description": "Means \"to lose\" or \"to miss.\" A very common verb in everyday conversation.",
+          "examples": [
+            { "es": "Perdí mis llaves.", "en": "I lost my keys." },
+            { "es": "Perdí mis apuntes.", "en": "I lost my notes." },
+            { "es": "Perdí el autobús.", "en": "I missed the bus." }
+          ]
+        },
+        {
+          "term": "En cuanto",
+          "description": "Means \"as soon as.\" Used to talk about future actions.",
+          "examples": [
+            { "es": "En cuanto llegue, te llamo.", "en": "As soon as I arrive, I'll call you." },
+            { "es": "En cuanto termine, te ayudo.", "en": "As soon as I finish, I'll help you." },
+            { "es": "En cuanto pueda, voy.", "en": "I'll go as soon as I can." }
+          ]
+        },
+        {
+          "term": "Por cierto",
+          "description": "Means \"by the way.\" Used to introduce a new topic naturally.",
+          "examples": [
+            { "es": "Por cierto, ¿cómo está tu familia?", "en": "By the way, how is your family?" },
+            { "es": "Por cierto, tengo una noticia.", "en": "By the way, I have some news." },
+            { "es": "Por cierto, ¿qué hora es?", "en": "By the way, what time is it?" }
+          ]
+        }
+      ],
+      "quickReference": [
+        { "expression": "Oye", "meaning": "Hey / Listen", "example": "Oye, necesito ayuda." },
+        { "expression": "Pedir", "meaning": "To ask for", "example": "Voy a pedir un favor." },
+        { "expression": "Tratar de", "meaning": "To try to", "example": "Trato de estudiar más." },
+        { "expression": "Ofrecer", "meaning": "To offer", "example": "Puedo ofrecerte ayuda." },
+        { "expression": "Por supuesto", "meaning": "Of course", "example": "Por supuesto, te ayudo." },
+        { "expression": "Prestar", "meaning": "To lend", "example": "¿Me prestas tu libro?" },
+        { "expression": "Apuntes", "meaning": "Notes", "example": "Perdí mis apuntes." },
+        { "expression": "Es que", "meaning": "It's just that", "example": "Es que estoy ocupado." },
+        { "expression": "Quedar con... para", "meaning": "To meet with... to", "example": "Quedamos para estudiar." },
+        { "expression": "Perder", "meaning": "To lose / miss", "example": "Perdí mis llaves." },
+        { "expression": "En cuanto", "meaning": "As soon as", "example": "En cuanto llegue, te llamo." },
+        { "expression": "Por cierto", "meaning": "By the way", "example": "Por cierto, tengo una pregunta." }
+      ]
+    }
+  },
+  "disagreeing-and-showing-doubt": {
+    "conversation": {
+      "title": "Expressing Doubt and Disagreement",
+      "lines": [
+        { "speaker": "Ana", "es": "¿Crees que deberíamos aceptar esa propuesta?", "en": "Do you think we should accept that proposal?" },
+        { "speaker": "Carlos", "es": "No estoy seguro. A lo mejor no es una buena idea.", "en": "I'm not sure. Maybe it's not a good idea." },
+        { "speaker": "Ana", "es": "Pero dicen que cada vez más personas la apoyan.", "en": "But they say that more and more people support it." },
+        { "speaker": "Carlos", "es": "Eso no significa que sea correcta.", "en": "That doesn't mean it's right." },
+        { "speaker": "Ana", "es": "Tienes razón. Además, no me importan las opiniones de cualquier persona.", "en": "You're right. Besides, I don't care about just anyone's opinions." },
+        { "speaker": "Carlos", "es": "Yo tampoco estoy convencido.", "en": "I'm not convinced either." },
+        { "speaker": "Ana", "es": "Se debe analizar con más cuidado.", "en": "It should be analyzed more carefully." },
+        { "speaker": "Carlos", "es": "Exacto. Mucha gente no se da cuenta de los problemas.", "en": "Exactly. Many people don't realize the problems." },
+        { "speaker": "Ana", "es": "Para colmo, nadie quiere escuchar otras opiniones.", "en": "To make matters worse, nobody wants to listen to other opinions." },
+        { "speaker": "Carlos", "es": "La verdad, estoy harto de esas discusiones.", "en": "Honestly, I'm fed up with those discussions." },
+        { "speaker": "Ana", "es": "Bueno, cuéntame qué propones entonces.", "en": "Well, tell me what you propose then." }
+      ]
+    },
+    "phraseSections": [
+      {
+        "id": "expressing-disagreement",
+        "title": "Expressing Disagreement",
+        "phrases": [
+          { "es": "No estoy de acuerdo.", "en": "I don't agree." },
+          { "es": "No creo que sea una buena idea.", "en": "I don't think it's a good idea." },
+          { "es": "Eso no significa que sea correcto.", "en": "That doesn't mean it's right." },
+          { "es": "Yo tampoco lo creo.", "en": "I don't think so either." },
+          { "es": "Prefiero otra opción.", "en": "I prefer another option." },
+          { "es": "Se debe pensar mejor.", "en": "It should be thought through better." }
+        ]
+      },
+      {
+        "id": "showing-doubt",
+        "title": "Showing Doubt",
+        "phrases": [
+          { "es": "No estoy seguro/a.", "en": "I'm not sure." },
+          { "es": "A lo mejor.", "en": "Maybe." },
+          { "es": "Quizás.", "en": "Perhaps." },
+          { "es": "Tal vez.", "en": "Maybe." },
+          { "es": "Puede ser.", "en": "It could be." },
+          { "es": "No me convence.", "en": "It doesn't convince me." }
+        ]
+      }
+    ],
+    "usefulExpressions": {
+      "title": "Useful Expressions for Doubt and Disagreement",
+      "expressions": [
+        {
+          "term": "Importar",
+          "description": "Means \"to matter\" or \"to care about.\"",
+          "examples": [
+            { "es": "No me importa.", "en": "I don't care." },
+            { "es": "¿Te importa si abro la ventana?", "en": "Do you mind if I open the window?" },
+            { "es": "Me importan tus opiniones.", "en": "Your opinions matter to me." }
+          ]
+        },
+        {
+          "term": "Cada vez más",
+          "description": "Means \"more and more.\"",
+          "examples": [
+            { "es": "Cada vez más personas estudian español.", "en": "More and more people study Spanish." },
+            { "es": "Cada vez es más difícil.", "en": "It's becoming more and more difficult." }
+          ]
+        },
+        {
+          "term": "Cualquier",
+          "description": "Means \"any\" or \"any kind of.\"",
+          "examples": [
+            { "es": "Cualquier persona puede participar.", "en": "Anyone can participate." },
+            { "es": "No acepto cualquier explicación.", "en": "I don't accept just any explanation." }
+          ]
+        },
+        {
+          "term": "No / Tampoco",
+          "description": "No means \"not.\" Tampoco means \"neither\" or \"not either.\"",
+          "examples": [
+            { "es": "No estoy de acuerdo.", "en": "I don't agree." },
+            { "es": "Yo tampoco.", "en": "Me neither." },
+            { "es": "No quiero ir.", "en": "I don't want to go." },
+            { "es": "Yo tampoco quiero ir.", "en": "I don't want to go either." }
+          ]
+        },
+        {
+          "term": "Se debe",
+          "description": "Means \"one should\" or \"it should be.\"",
+          "examples": [
+            { "es": "Se debe estudiar más.", "en": "One should study more." },
+            { "es": "Se debe analizar la situación.", "en": "The situation should be analyzed." }
+          ]
+        },
+        {
+          "term": "Darse cuenta / Realizar",
+          "description": "Darse cuenta de means \"to realize.\" Realizar usually means \"to carry out\" or \"to perform,\" not \"to realize\" in most Spanish-speaking countries.",
+          "examples": [
+            { "es": "Me di cuenta del error.", "en": "I realized the mistake." },
+            { "es": "¿Te das cuenta de lo que pasó?", "en": "Do you realize what happened?" },
+            { "es": "Vamos a realizar el proyecto.", "en": "We're going to carry out the project." }
+          ]
+        },
+        {
+          "term": "A lo mejor",
+          "description": "Means \"maybe\" or \"perhaps.\"",
+          "examples": [
+            { "es": "A lo mejor tienes razón.", "en": "Maybe you're right." },
+            { "es": "A lo mejor no viene.", "en": "Maybe he/she isn't coming." }
+          ]
+        },
+        {
+          "term": "Estar harto/a de",
+          "description": "Means \"to be fed up with.\"",
+          "examples": [
+            { "es": "Estoy harto del ruido.", "en": "I'm fed up with the noise." },
+            { "es": "Estamos hartos de esperar.", "en": "We're fed up with waiting." }
+          ]
+        },
+        {
+          "term": "Para colmo",
+          "description": "Means \"to make matters worse.\"",
+          "examples": [
+            { "es": "Perdí el autobús y, para colmo, empezó a llover.", "en": "I missed the bus and, to make matters worse, it started raining." },
+            { "es": "Para colmo, nadie ayudó.", "en": "To make matters worse, nobody helped." }
+          ]
+        },
+        {
+          "term": "Contar",
+          "description": "Can mean \"to tell,\" \"to count,\" or \"to rely on.\"",
+          "examples": [
+            { "es": "Cuéntame qué pasó.", "en": "Tell me what happened." },
+            { "es": "¿Puedes contar hasta diez?", "en": "Can you count to ten?" },
+            { "es": "Puedes contar conmigo.", "en": "You can count on me." }
+          ]
+        }
+      ],
+      "quickReference": [
+        { "expression": "Importar", "meaning": "To matter / care", "example": "No me importa." },
+        { "expression": "Cada vez más", "meaning": "More and more", "example": "Cada vez más personas." },
+        { "expression": "Cualquier", "meaning": "Any", "example": "Cualquier persona puede participar." },
+        { "expression": "Tampoco", "meaning": "Neither / not either", "example": "Yo tampoco." },
+        { "expression": "Se debe", "meaning": "One should", "example": "Se debe estudiar más." },
+        { "expression": "Darse cuenta", "meaning": "To realize", "example": "Me di cuenta del error." },
+        { "expression": "Realizar", "meaning": "To carry out", "example": "Vamos a realizar el proyecto." },
+        { "expression": "A lo mejor", "meaning": "Maybe", "example": "A lo mejor tienes razón." },
+        { "expression": "Estar harto", "meaning": "To be fed up", "example": "Estoy harto del ruido." },
+        { "expression": "Para colmo", "meaning": "To make matters worse", "example": "Para colmo, nadie ayudó." },
+        { "expression": "Contar", "meaning": "To tell / count / rely on", "example": "Cuéntame qué pasó." }
+      ]
+    }
   }
 }
