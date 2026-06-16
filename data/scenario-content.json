@@ -1009,5 +1009,254 @@
         { "expression": "Adiós", "meaning": "Goodbye", "example": "Adiós, nos vemos pronto." }
       ]
     }
+  },
+  "describing-things": {
+    "conversation": {
+      "title": "Talking About a New Friend",
+      "lines": [
+        { "speaker": "Sofía", "es": "Mira, te quiero presentar a una amiga nueva.", "en": "Look, I want to introduce you to a new friend." },
+        { "speaker": "Diego", "es": "Claro. ¿Cómo es?", "en": "Of course. What's she like?" },
+        { "speaker": "Sofía", "es": "Es una tipa muy simpática y bastante divertida.", "en": "She's a very friendly girl and quite funny." },
+        { "speaker": "Diego", "es": "¿Se parece a alguien que conozco?", "en": "Does she resemble anyone I know?" },
+        { "speaker": "Sofía", "es": "Sí, se parece un poco a Laura.", "en": "Yes, she resembles Laura a little." },
+        { "speaker": "Diego", "es": "¿Y se llevan bien?", "en": "And do they get along well?" },
+        { "speaker": "Sofía", "es": "Sí, se llevan muy bien porque tienen mucho en común.", "en": "Yes, they get along very well because they have a lot in common." },
+        { "speaker": "Diego", "es": "¿Qué tienen en común?", "en": "What do they have in common?" },
+        { "speaker": "Sofía", "es": "Les gusta viajar, leer y hacer senderismo.", "en": "They like traveling, reading, and hiking." },
+        { "speaker": "Diego", "es": "La verdad, suena interesante.", "en": "Honestly, she sounds interesting." },
+        { "speaker": "Sofía", "es": "Incluso habla tres idiomas.", "en": "She even speaks three languages." },
+        { "speaker": "Diego", "es": "Con razón todos hablan bien de ella.", "en": "No wonder everyone speaks well of her." },
+        { "speaker": "Sofía", "es": "Vamos, tienes que conocerla algún día.", "en": "Come on, you have to meet her someday." },
+        { "speaker": "Diego", "es": "Claro, me gustaría.", "en": "Of course, I'd like that." }
+      ]
+    },
+    "phraseSections": [
+      {
+        "id": "people",
+        "title": "Describing People",
+        "phrases": [
+          { "es": "Es simpático/a.", "en": "He/She is friendly." },
+          { "es": "Es divertido/a.", "en": "He/She is funny." },
+          { "es": "Es inteligente.", "en": "He/She is intelligent." },
+          { "es": "Es amable.", "en": "He/She is kind." },
+          { "es": "Es trabajador/a.", "en": "He/She is hardworking." },
+          { "es": "Es tímido/a.", "en": "He/She is shy." },
+          { "es": "Es bastante serio/a.", "en": "He/She is quite serious." },
+          { "es": "Es muy sociable.", "en": "He/She is very sociable." },
+          { "es": "Parece amable.", "en": "He/She seems kind." },
+          { "es": "Se parece a su hermano.", "en": "He/She looks like his/her brother." }
+        ]
+      },
+      {
+        "id": "things",
+        "title": "Describing Things",
+        "phrases": [
+          { "es": "Es grande.", "en": "It's big." },
+          { "es": "Es pequeño/a.", "en": "It's small." },
+          { "es": "Es bonito/a.", "en": "It's beautiful." },
+          { "es": "Es moderno/a.", "en": "It's modern." },
+          { "es": "Es antiguo/a.", "en": "It's old/ancient." },
+          { "es": "Es interesante.", "en": "It's interesting." },
+          { "es": "Es bastante útil.", "en": "It's quite useful." },
+          { "es": "Parece complicado.", "en": "It seems complicated." },
+          { "es": "Es todo lo contrario.", "en": "It's the complete opposite." },
+          { "es": "La verdad, me gusta mucho.", "en": "Honestly, I like it a lot." }
+        ]
+      },
+      {
+        "id": "comparing",
+        "title": "Comparing and Contrasting",
+        "phrases": [
+          { "es": "Son parecidos.", "en": "They are similar." },
+          { "es": "Son diferentes.", "en": "They are different." },
+          { "es": "Tienen mucho en común.", "en": "They have a lot in common." },
+          { "es": "No tienen nada en común.", "en": "They have nothing in common." },
+          { "es": "Es decir...", "en": "That is to say..." },
+          { "es": "Todo lo contrario.", "en": "Quite the opposite." },
+          { "es": "Incluso...", "en": "Even..." },
+          { "es": "Ni hablar.", "en": "No way. / Not a chance." }
+        ]
+      }
+    ],
+    "usefulExpressions": {
+      "title": "Useful Expressions for Describing Things",
+      "expressions": [
+        {
+          "term": "Mira",
+          "description": "Means \"look\" or \"listen.\" Used to get someone's attention before explaining or describing something.",
+          "examples": [
+            { "es": "Mira, este libro es muy interesante.", "en": "Look, this book is very interesting." },
+            { "es": "Mira lo que encontré.", "en": "Look what I found." }
+          ],
+          "note": "Very common in conversation."
+        },
+        {
+          "term": "Llevarse",
+          "description": "Means \"to get along with.\"",
+          "examples": [
+            { "es": "Nos llevamos bien.", "en": "We get along well." },
+            { "es": "¿Te llevas bien con tu hermano?", "en": "Do you get along with your brother?" },
+            { "es": "Se llevan muy mal.", "en": "They get along very badly." }
+          ],
+          "note": "Useful when describing relationships between people."
+        },
+        {
+          "term": "El tipo / La tipa",
+          "description": "Informal words meaning \"the guy\" (el tipo) or \"the girl / woman\" (la tipa).",
+          "examples": [
+            { "es": "Ese tipo es muy amable.", "en": "That guy is very kind." },
+            { "es": "La tipa trabaja conmigo.", "en": "That woman works with me." }
+          ],
+          "note": "Informal and common in everyday speech."
+        },
+        {
+          "term": "Bastante",
+          "description": "Means \"quite,\" \"rather,\" or \"enough.\"",
+          "examples": [
+            { "es": "Es bastante inteligente.", "en": "He is quite intelligent." },
+            { "es": "Tengo bastante tiempo.", "en": "I have plenty of time." },
+            { "es": "La película es bastante buena.", "en": "The movie is quite good." }
+          ],
+          "note": "Used to soften or strengthen descriptions."
+        },
+        {
+          "term": "Quedarse",
+          "description": "Can mean \"to stay,\" \"to remain,\" or \"to become.\"",
+          "examples": [
+            { "es": "Me quedé en casa.", "en": "I stayed at home." },
+            { "es": "Se quedó sorprendido.", "en": "He became surprised." },
+            { "es": "Nos quedamos sin palabras.", "en": "We were left speechless." }
+          ],
+          "note": "Often used when describing reactions."
+        },
+        {
+          "term": "Volver a + Infinitive",
+          "description": "Means \"to do something again.\"",
+          "examples": [
+            { "es": "Volví a leer el libro.", "en": "I read the book again." },
+            { "es": "Voy a volver a verla.", "en": "I'm going to see it again." },
+            { "es": "¿Vas a volver a intentarlo?", "en": "Are you going to try again?" }
+          ],
+          "note": "Very common when discussing experiences."
+        },
+        {
+          "term": "La verdad",
+          "description": "Means \"the truth is...\" or \"honestly...\"",
+          "examples": [
+            { "es": "La verdad, me gusta mucho.", "en": "Honestly, I like it a lot." },
+            { "es": "La verdad, no lo sé.", "en": "Honestly, I don't know." }
+          ],
+          "note": "Used to introduce a sincere opinion."
+        },
+        {
+          "term": "Incluso",
+          "description": "Means \"even.\" Used to emphasize surprising information.",
+          "examples": [
+            { "es": "Incluso habla cuatro idiomas.", "en": "He even speaks four languages." },
+            { "es": "Incluso los expertos están de acuerdo.", "en": "Even the experts agree." }
+          ]
+        },
+        {
+          "term": "Dejar",
+          "description": "Means \"to leave,\" \"to let,\" or \"to allow.\"",
+          "examples": [
+            { "es": "Dejé el libro en la mesa.", "en": "I left the book on the table." },
+            { "es": "Mis padres me dejan salir.", "en": "My parents let me go out." },
+            { "es": "Déjame explicar.", "en": "Let me explain." }
+          ],
+          "note": "A very common verb in daily conversation."
+        },
+        {
+          "term": "Todo lo contrario",
+          "description": "Means \"quite the opposite.\"",
+          "examples": [
+            { "es": "No es tímido; todo lo contrario.", "en": "He's not shy; quite the opposite." },
+            { "es": "Pensé que era aburrida, pero fue todo lo contrario.", "en": "I thought it was boring, but it was quite the opposite." }
+          ],
+          "note": "Useful for contrasting descriptions."
+        },
+        {
+          "term": "Tener en común",
+          "description": "Means \"to have in common.\"",
+          "examples": [
+            { "es": "Tenemos mucho en común.", "en": "We have a lot in common." },
+            { "es": "¿Qué tienen en común?", "en": "What do they have in common?" }
+          ],
+          "note": "Very useful when comparing people."
+        },
+        {
+          "term": "Es decir",
+          "description": "Means \"that is to say\" or \"in other words.\"",
+          "examples": [
+            { "es": "Es muy sociable; es decir, le gusta hablar con todos.", "en": "He is very sociable; in other words, he likes talking to everyone." },
+            { "es": "No trabaja aquí, es decir, ya no forma parte de la empresa.", "en": "He doesn't work here; that is to say, he's no longer part of the company." }
+          ],
+          "note": "Used to clarify ideas."
+        },
+        {
+          "term": "No / Ni",
+          "description": "No means \"not.\" Ni means \"nor\" or \"not even.\"",
+          "examples": [
+            { "es": "No me gusta.", "en": "I don't like it." },
+            { "es": "No habla español ni francés.", "en": "He speaks neither Spanish nor French." },
+            { "es": "No tengo tiempo ni dinero.", "en": "I have neither time nor money." }
+          ],
+          "note": "Useful for negative descriptions."
+        },
+        {
+          "term": "Ni hablar",
+          "description": "Means \"no way!\" or \"absolutely not!\"",
+          "examples": [
+            { "es": "¿Vas a vender tu coche?", "en": "Are you going to sell your car?" },
+            { "es": "¡Ni hablar!", "en": "No way!" }
+          ],
+          "note": "Can also mean \"don't mention it\" in some contexts, but \"no way\" is most common."
+        },
+        {
+          "term": "Vamos",
+          "description": "Literally means \"let's go,\" but often means \"come on,\" \"well then,\" or \"go ahead.\"",
+          "examples": [
+            { "es": "Vamos, cuéntame más.", "en": "Come on, tell me more." },
+            { "es": "Vamos, no es tan difícil.", "en": "Come on, it's not that difficult." }
+          ],
+          "note": "Very common in spoken Spanish."
+        },
+        {
+          "term": "Parecerse",
+          "description": "Means \"to resemble\" or \"to look like.\" Always used with a.",
+          "examples": [
+            { "es": "Se parece a su madre.", "en": "She looks like her mother." },
+            { "es": "¿A quién te pareces?", "en": "Who do you resemble?" }
+          ]
+        },
+        {
+          "term": "Con razón",
+          "description": "Means \"no wonder.\" Used when something suddenly makes sense.",
+          "examples": [
+            { "es": "Con razón está cansado; trabajó toda la noche.", "en": "No wonder he's tired; he worked all night." },
+            { "es": "Con razón te gusta tanto.", "en": "No wonder you like it so much." }
+          ]
+        }
+      ],
+      "quickReference": [
+        { "expression": "Mira", "meaning": "Look / Listen", "example": "Mira este libro." },
+        { "expression": "Llevarse", "meaning": "To get along", "example": "Nos llevamos bien." },
+        { "expression": "El tipo / La tipa", "meaning": "The guy / The girl", "example": "Ese tipo es simpático." },
+        { "expression": "Bastante", "meaning": "Quite / Rather", "example": "Es bastante interesante." },
+        { "expression": "Quedarse", "meaning": "To stay / Become", "example": "Se quedó sorprendido." },
+        { "expression": "Volver a", "meaning": "To do again", "example": "Voy a volver a leerlo." },
+        { "expression": "La verdad", "meaning": "Honestly", "example": "La verdad, me gusta." },
+        { "expression": "Incluso", "meaning": "Even", "example": "Incluso habla francés." },
+        { "expression": "Dejar", "meaning": "To leave / Let", "example": "Déjame explicar." },
+        { "expression": "Todo lo contrario", "meaning": "Quite the opposite", "example": "Es todo lo contrario." },
+        { "expression": "Tener en común", "meaning": "To have in common", "example": "Tenemos mucho en común." },
+        { "expression": "Es decir", "meaning": "In other words", "example": "Es decir, no viene." },
+        { "expression": "Ni", "meaning": "Nor / Neither", "example": "Ni café ni té." },
+        { "expression": "Ni hablar", "meaning": "No way", "example": "¡Ni hablar!" },
+        { "expression": "Vamos", "meaning": "Come on", "example": "Vamos, cuéntame." },
+        { "expression": "Parecerse", "meaning": "To resemble", "example": "Se parece a su padre." },
+        { "expression": "Con razón", "meaning": "No wonder", "example": "Con razón está feliz." }
+      ]
+    }
   }
 }
