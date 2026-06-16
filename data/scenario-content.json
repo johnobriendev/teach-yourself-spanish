@@ -2435,5 +2435,168 @@
         { "expression": "De todos modos", "meaning": "Anyway", "example": "De todos modos, fui." }
       ]
     }
+  },
+  "recounting-a-past-conversation": {
+    "conversation": {
+      "title": "Talking About a Conversation You Had",
+      "lines": [
+        { "speaker": "Ana", "es": "¿Cómo te fue en la reunión de ayer?", "en": "How did the meeting go yesterday?" },
+        { "speaker": "Carlos", "es": "Bastante bien. El director anunció varios cambios importantes.", "en": "Pretty well. The director announced several important changes." },
+        { "speaker": "Ana", "es": "¿Qué dijo exactamente?", "en": "What exactly did he say?" },
+        { "speaker": "Carlos", "es": "Dijo: \"Vamos a contratar más empleados el próximo mes\".", "en": "He said: \"We're going to hire more employees next month.\"" },
+        { "speaker": "Ana", "es": "¿Y qué más?", "en": "And what else?" },
+        { "speaker": "Carlos", "es": "También nos avisó que algunos horarios iban a cambiar.", "en": "He also informed us that some schedules were going to change." },
+        { "speaker": "Ana", "es": "Entiendo.", "en": "I see." },
+        { "speaker": "Carlos", "es": "Además, nos aconsejó que empezáramos a prepararnos cuanto antes.", "en": "In addition, he advised us to start preparing as soon as possible." },
+        { "speaker": "Ana", "es": "Parece una buena idea.", "en": "That sounds like a good idea." },
+        { "speaker": "Carlos", "es": "Sí. De hecho, advirtió que podríamos tener problemas si no nos organizábamos bien.", "en": "Yes. In fact, he warned that we could have problems if we didn't organize ourselves well." },
+        { "speaker": "Ana", "es": "¿Y cómo reaccionó la gente?", "en": "And how did people react?" },
+        { "speaker": "Carlos", "es": "Bueno, Marta dijo que estaba a punto de terminar su proyecto y que no le preocupaban los cambios.", "en": "Well, Marta said she was about to finish her project and that she wasn't worried about the changes." },
+        { "speaker": "Ana", "es": "¿Y Pedro?", "en": "And Pedro?" },
+        { "speaker": "Carlos", "es": "Pedro comentó que Juan era el más preparado de todo el grupo para asumir nuevas responsabilidades.", "en": "Pedro commented that Juan was the most prepared of the whole group to take on new responsibilities." },
+        { "speaker": "Ana", "es": "Interesante.", "en": "Interesting." },
+        { "speaker": "Carlos", "es": "Sí. Fue una conversación muy útil.", "en": "Yes. It was a very useful conversation." }
+      ]
+    },
+    "phraseSections": [
+      {
+        "id": "reporting-what-someone-said",
+        "title": "Reporting What Someone Said",
+        "phrases": [
+          { "es": "Dijo que...", "en": "He/She said that..." },
+          { "es": "Comentó que...", "en": "He/She commented that..." },
+          { "es": "Explicó que...", "en": "He/She explained that..." },
+          { "es": "Anunció que...", "en": "He/She announced that..." },
+          { "es": "Avisó que...", "en": "He/She informed/warned that..." },
+          { "es": "Advirtió que...", "en": "He/She warned that..." },
+          { "es": "Aconsejó que...", "en": "He/She advised that..." }
+        ]
+      }
+    ],
+    "usefulExpressions": {
+      "title": "Useful Expressions for Recounting Conversations",
+      "expressions": [
+        {
+          "term": "Direct Quotations (Citas Directas)",
+          "description": "Direct quotations repeat the speaker's exact words, marked with quotation marks.",
+          "examples": [
+            { "es": "Ana dijo: \"Estoy cansada\".", "en": "Ana said: \"I'm tired.\"" },
+            { "es": "El profesor anunció: \"Habrá un examen el viernes\".", "en": "The teacher announced: \"There will be a test on Friday.\"" }
+          ]
+        },
+        {
+          "term": "Indirect Quotations (Citas Indirectas)",
+          "description": "Indirect quotations report what someone said without repeating the exact words. Very common in storytelling and reporting conversations.",
+          "examples": [
+            { "es": "Ana dijo que estaba cansada.", "en": "Ana said that she was tired." },
+            { "es": "El profesor anunció que habría un examen el viernes.", "en": "The teacher announced that there would be a test on Friday." }
+          ]
+        },
+        {
+          "term": "Ya que",
+          "description": "Means \"since\" or \"because.\" Useful when explaining reasons during a story.",
+          "examples": [
+            { "es": "No fui a la reunión ya que estaba enfermo.", "en": "I didn't go to the meeting since I was sick." },
+            { "es": "Decidieron esperar ya que faltaban varias personas.", "en": "They decided to wait because several people were missing." }
+          ]
+        },
+        {
+          "term": "El más... de todo el grupo",
+          "description": "Means \"the most... in the whole group.\" Useful when comparing people during a discussion.",
+          "examples": [
+            { "es": "Es el más inteligente de todo el grupo.", "en": "He is the smartest in the whole group." },
+            { "es": "María era la más experimentada de todo el grupo.", "en": "María was the most experienced in the whole group." }
+          ]
+        },
+        {
+          "term": "Educar",
+          "description": "Means \"to educate\" or \"to raise.\" Often appears when discussing upbringing, values, or teaching.",
+          "examples": [
+            { "es": "Sus padres la educaron muy bien.", "en": "Her parents raised her very well." },
+            { "es": "La escuela busca educar a los estudiantes.", "en": "The school seeks to educate students." }
+          ]
+        },
+        {
+          "term": "Sí",
+          "description": "Means \"yes.\" Can also be used for emphasis with sí que.",
+          "examples": [
+            { "es": "Sí, estoy de acuerdo.", "en": "Yes, I agree." },
+            { "es": "Sí, eso fue lo que dijo.", "en": "Yes, that's what he said." },
+            { "es": "Sí que es verdad.", "en": "It really is true." }
+          ]
+        },
+        {
+          "term": "Estar a punto de",
+          "description": "Means \"to be about to.\" Very useful when narrating events.",
+          "examples": [
+            { "es": "Estaba a punto de salir cuando me llamaron.", "en": "I was about to leave when they called me." },
+            { "es": "Estamos a punto de empezar.", "en": "We're about to begin." }
+          ]
+        },
+        {
+          "term": "Para",
+          "description": "Often means \"for\" or \"in order to.\" Frequently appears when explaining purposes.",
+          "examples": [
+            { "es": "Estudia para aprender más.", "en": "He studies to learn more." },
+            { "es": "Nos reunimos para hablar del proyecto.", "en": "We met to talk about the project." }
+          ]
+        },
+        {
+          "term": "Por ser",
+          "description": "Means \"for being\" or \"because someone/something is.\" Used to explain the reason someone received recognition or criticism.",
+          "examples": [
+            { "es": "Lo eligieron por ser responsable.", "en": "They chose him for being responsible." },
+            { "es": "La admiraban por ser honesta.", "en": "They admired her for being honest." }
+          ]
+        },
+        {
+          "term": "Aconsejar que",
+          "description": "Means \"to advise that...\" Usually followed by the subjunctive.",
+          "examples": [
+            { "es": "El médico aconsejó que descansara.", "en": "The doctor advised that I rest." },
+            { "es": "Nos aconsejaron que llegáramos temprano.", "en": "They advised us to arrive early." }
+          ]
+        },
+        {
+          "term": "Avisar",
+          "description": "Means \"to inform,\" \"to notify,\" or sometimes \"to warn.\" Useful for reporting information.",
+          "examples": [
+            { "es": "Me avisó que iba a llegar tarde.", "en": "He informed me that he was going to arrive late." },
+            { "es": "Nos avisaron sobre el cambio.", "en": "They informed us about the change." }
+          ]
+        },
+        {
+          "term": "Advertir",
+          "description": "Means \"to warn.\" Stronger than avisar.",
+          "examples": [
+            { "es": "Me advirtió que tuviera cuidado.", "en": "He warned me to be careful." },
+            { "es": "La profesora advirtió que el examen sería difícil.", "en": "The teacher warned that the exam would be difficult." }
+          ]
+        },
+        {
+          "term": "Anunciar",
+          "description": "Means \"to announce.\" Common in news, meetings, and formal situations.",
+          "examples": [
+            { "es": "Anunciaron los resultados.", "en": "They announced the results." },
+            { "es": "El director anunció nuevos cambios.", "en": "The director announced new changes." }
+          ]
+        }
+      ],
+      "quickReference": [
+        { "expression": "Cita directa", "meaning": "Direct quotation", "example": "Dijo: \"Tengo hambre\"." },
+        { "expression": "Cita indirecta", "meaning": "Indirect quotation", "example": "Dijo que tenía hambre." },
+        { "expression": "Ya que", "meaning": "Since / Because", "example": "No fui ya que estaba enfermo." },
+        { "expression": "El más... de todo el grupo", "meaning": "The most... in the whole group", "example": "Era el más inteligente de todo el grupo." },
+        { "expression": "Educar", "meaning": "To educate / raise", "example": "Sus padres lo educaron bien." },
+        { "expression": "Sí", "meaning": "Yes", "example": "Sí, estoy de acuerdo." },
+        { "expression": "Estar a punto de", "meaning": "To be about to", "example": "Estaba a punto de salir." },
+        { "expression": "Para", "meaning": "For / In order to", "example": "Estudio para aprender." },
+        { "expression": "Por ser", "meaning": "For being / Because of being", "example": "Lo eligieron por ser responsable." },
+        { "expression": "Aconsejar que", "meaning": "To advise that", "example": "Aconsejó que estudiáramos." },
+        { "expression": "Avisar", "meaning": "To inform / notify", "example": "Me avisó del cambio." },
+        { "expression": "Advertir", "meaning": "To warn", "example": "Me advirtió del peligro." },
+        { "expression": "Anunciar", "meaning": "To announce", "example": "Anunció los resultados." }
+      ]
+    }
   }
 }
