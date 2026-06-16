@@ -1936,5 +1936,271 @@
         { "expression": "Para", "meaning": "For / in order to", "example": "Trabajo para ahorrar dinero." }
       ]
     }
+  },
+  "arguing-your-point-of-view": {
+    "conversation": {
+      "title": "Discussing a Workplace Decision",
+      "lines": [
+        { "speaker": "Ana", "es": "¿Qué opinas de los cambios en la empresa?", "en": "What do you think about the changes in the company?" },
+        { "speaker": "Carlos", "es": "Actualmente, no estoy muy de acuerdo con ellos.", "en": "Currently, I don't agree with them very much." },
+        { "speaker": "Ana", "es": "¿Por qué?", "en": "Why?" },
+        { "speaker": "Carlos", "es": "En primer lugar, despidieron a varias personas.", "en": "First of all, they fired several people." },
+        { "speaker": "Ana", "es": "Eso es cierto.", "en": "That's true." },
+        { "speaker": "Carlos", "es": "Además, aumentaron la carga de trabajo.", "en": "In addition, they increased the workload." },
+        { "speaker": "Ana", "es": "Sí, y por si fuera poco, no contrataron a nadie nuevo.", "en": "Yes, and to make matters worse, they didn't hire anyone new." },
+        { "speaker": "Carlos", "es": "Exacto. Por una parte quieren ahorrar dinero y, por otra, esperan mejores resultados.", "en": "Exactly. On the one hand they want to save money, and on the other, they expect better results." },
+        { "speaker": "Ana", "es": "No obstante, algunas personas creen que los cambios son necesarios.", "en": "Nevertheless, some people believe the changes are necessary." },
+        { "speaker": "Carlos", "es": "Puede ser, pero yo opino que deberían escuchar más a los empleados.", "en": "Maybe, but I think they should listen more to the employees." },
+        { "speaker": "Ana", "es": "Evidentemente, falta comunicación.", "en": "Evidently, communication is lacking." },
+        { "speaker": "Carlos", "es": "De modo que los problemas continúan.", "en": "So the problems continue." },
+        { "speaker": "Ana", "es": "En el fondo, todos quieren que la empresa mejore.", "en": "Deep down, everyone wants the company to improve." },
+        { "speaker": "Carlos", "es": "¡Qué verdad!", "en": "How true!" }
+      ]
+    },
+    "phraseSections": [
+      {
+        "id": "expressing-opinions",
+        "title": "Expressing Opinions",
+        "phrases": [
+          { "es": "Opino que...", "en": "I think that..." },
+          { "es": "En mi opinión...", "en": "In my opinion..." },
+          { "es": "Creo que...", "en": "I think that..." },
+          { "es": "Estoy de acuerdo.", "en": "I agree." },
+          { "es": "No estoy de acuerdo.", "en": "I disagree." },
+          { "es": "Actualmente...", "en": "Currently..." },
+          { "es": "Evidentemente...", "en": "Evidently..." },
+          { "es": "No obstante...", "en": "Nevertheless..." },
+          { "es": "En el fondo...", "en": "Deep down..." }
+        ]
+      },
+      {
+        "id": "organizing-an-argument",
+        "title": "Organizing an Argument",
+        "phrases": [
+          { "es": "En primer lugar...", "en": "First of all..." },
+          { "es": "Además...", "en": "In addition..." },
+          { "es": "Es más...", "en": "What's more..." },
+          { "es": "Por una parte... y por otra...", "en": "On one hand... and on the other..." },
+          { "es": "De modo que...", "en": "So that / Therefore..." },
+          { "es": "Por el contrario...", "en": "On the contrary..." },
+          { "es": "Por si fuera poco...", "en": "To make matters worse..." },
+          { "es": "No obstante...", "en": "Nevertheless..." },
+          { "es": "En conclusión...", "en": "In conclusion..." }
+        ]
+      },
+      {
+        "id": "agreeing-and-disagreeing",
+        "title": "Agreeing and Disagreeing",
+        "phrases": [
+          { "es": "Estoy de acuerdo.", "en": "I agree." },
+          { "es": "No estoy de acuerdo.", "en": "I disagree." },
+          { "es": "Yo tampoco.", "en": "Me neither." },
+          { "es": "Ni hablar.", "en": "No way." },
+          { "es": "Puede ser.", "en": "Maybe." },
+          { "es": "No necesariamente.", "en": "Not necessarily." },
+          { "es": "Eso no significa que...", "en": "That doesn't mean that..." },
+          { "es": "Tienes razón.", "en": "You're right." }
+        ]
+      }
+    ],
+    "usefulExpressions": {
+      "title": "Useful Expressions for Arguing Your Point of View",
+      "expressions": [
+        {
+          "term": "Actualmente",
+          "description": "Means \"currently\" or \"at present.\" Useful for introducing a present-day situation.",
+          "examples": [
+            { "es": "Actualmente trabajo desde casa.", "en": "I currently work from home." },
+            { "es": "Actualmente hay muchos cambios.", "en": "There are currently many changes." }
+          ]
+        },
+        {
+          "term": "Opinar que",
+          "description": "Means \"to think that\" or \"to be of the opinion that.\" More formal than creer que.",
+          "examples": [
+            { "es": "Opino que es una buena idea.", "en": "I think it's a good idea." },
+            { "es": "¿Qué opinas tú?", "en": "What do you think?" }
+          ]
+        },
+        {
+          "term": "De modo que",
+          "description": "Means \"so,\" \"therefore,\" or \"as a result.\" Used to show a consequence.",
+          "examples": [
+            { "es": "No estudié, de modo que suspendí el examen.", "en": "I didn't study, so I failed the exam." },
+            { "es": "Hay mucho tráfico, de modo que llegaremos tarde.", "en": "There's a lot of traffic, so we'll arrive late." }
+          ]
+        },
+        {
+          "term": "Por una parte... y por otra...",
+          "description": "Means \"on one hand... and on the other...\" Useful for presenting balanced arguments.",
+          "examples": [
+            { "es": "Por una parte es barato y, por otra, es de buena calidad.", "en": "On one hand it's cheap, and on the other, it's good quality." },
+            { "es": "Por una parte quiero ir y, por otra, necesito ahorrar dinero.", "en": "On one hand I want to go, and on the other, I need to save money." }
+          ]
+        },
+        {
+          "term": "Además",
+          "description": "Means \"in addition\" or \"furthermore.\"",
+          "examples": [
+            { "es": "Además, es muy útil.", "en": "In addition, it's very useful." },
+            { "es": "Además, tenemos suficiente tiempo.", "en": "Furthermore, we have enough time." }
+          ]
+        },
+        {
+          "term": "Es más",
+          "description": "Means \"what's more\" or \"in fact.\" Used to strengthen an argument.",
+          "examples": [
+            { "es": "Es inteligente. Es más, habla cuatro idiomas.", "en": "He's intelligent. What's more, he speaks four languages." },
+            { "es": "No solo llegó temprano; es más, ayudó a organizar todo.", "en": "Not only did he arrive early; in fact, he helped organize everything." }
+          ]
+        },
+        {
+          "term": "Por si fuera poco",
+          "description": "Means \"to make matters worse\" or \"as if that weren't enough.\"",
+          "examples": [
+            { "es": "Perdió el tren y, por si fuera poco, perdió la cartera.", "en": "He missed the train and, as if that weren't enough, lost his wallet." },
+            { "es": "Por si fuera poco, empezó a llover.", "en": "To make matters worse, it started raining." }
+          ]
+        },
+        {
+          "term": "Por el contrario",
+          "description": "Means \"on the contrary.\"",
+          "examples": [
+            { "es": "No es perezoso; por el contrario, trabaja mucho.", "en": "He isn't lazy; on the contrary, he works a lot." },
+            { "es": "No empeoró; por el contrario, mejoró bastante.", "en": "It didn't get worse; on the contrary, it improved considerably." }
+          ]
+        },
+        {
+          "term": "Bien",
+          "description": "When arguing a point, bien can mean \"well then\" or \"all right.\" Used to organize thoughts or transition between points.",
+          "examples": [
+            { "es": "Bien, veamos los hechos.", "en": "Well then, let's look at the facts." },
+            { "es": "Bien, entiendo tu opinión.", "en": "All right, I understand your opinion." }
+          ]
+        },
+        {
+          "term": "En primer lugar",
+          "description": "Means \"first of all.\" A useful way to begin an argument.",
+          "examples": [
+            { "es": "En primer lugar, debemos analizar los datos.", "en": "First of all, we should analyze the data." },
+            { "es": "En primer lugar, quiero explicar mi punto de vista.", "en": "First of all, I want to explain my point of view." }
+          ]
+        },
+        {
+          "term": "Ni",
+          "description": "Means \"nor,\" \"neither,\" or \"not even.\"",
+          "examples": [
+            { "es": "No habla inglés ni francés.", "en": "He speaks neither English nor French." },
+            { "es": "No tengo tiempo ni dinero.", "en": "I have neither time nor money." },
+            { "es": "Ni siquiera lo intentó.", "en": "He didn't even try." }
+          ]
+        },
+        {
+          "term": "Despedir",
+          "description": "Means \"to fire,\" \"to dismiss,\" or \"to say goodbye.\" Context determines the meaning.",
+          "examples": [
+            { "es": "La empresa despidió a varios empleados.", "en": "The company fired several employees." },
+            { "es": "Nos despedimos al final de la reunión.", "en": "We said goodbye at the end of the meeting." }
+          ]
+        },
+        {
+          "term": "Por cierto",
+          "description": "Means \"by the way.\" Used to introduce a related topic.",
+          "examples": [
+            { "es": "Por cierto, ¿qué opinas de eso?", "en": "By the way, what do you think about that?" },
+            { "es": "Por cierto, tengo una pregunta.", "en": "By the way, I have a question." }
+          ]
+        },
+        {
+          "term": "Creerse",
+          "description": "Means \"to believe oneself to be\" or \"to think too highly of oneself.\" Very common in discussions about attitudes and behavior.",
+          "examples": [
+            { "es": "Se cree mejor que los demás.", "en": "He thinks he's better than everyone else." },
+            { "es": "No te creas todo lo que lees.", "en": "Don't believe everything you read." }
+          ]
+        },
+        {
+          "term": "Que digamos",
+          "description": "Usually appears in negative statements meaning \"exactly,\" \"particularly,\" or \"really.\" Used to soften criticism.",
+          "examples": [
+            { "es": "No es muy amable que digamos.", "en": "He's not exactly very friendly." },
+            { "es": "La película no fue buena que digamos.", "en": "The movie wasn't particularly good." }
+          ]
+        },
+        {
+          "term": "No obstante",
+          "description": "Means \"nevertheless\" or \"however.\" More formal than pero.",
+          "examples": [
+            { "es": "Era difícil. No obstante, lo intentó.", "en": "It was difficult. Nevertheless, he tried." },
+            { "es": "No estoy convencido. No obstante, escucharé tus argumentos.", "en": "I'm not convinced. However, I'll listen to your arguments." }
+          ]
+        },
+        {
+          "term": "Faltar",
+          "description": "Means \"to be lacking,\" \"to be missing,\" or \"to need.\"",
+          "examples": [
+            { "es": "Falta información.", "en": "Information is missing." },
+            { "es": "Nos faltan recursos.", "en": "We lack resources." },
+            { "es": "Todavía falta mucho trabajo.", "en": "There's still a lot of work left." }
+          ]
+        },
+        {
+          "term": "Evidentemente",
+          "description": "Means \"evidently\" or \"obviously.\" Used when something seems clear or obvious.",
+          "examples": [
+            { "es": "Evidentemente, hay un problema.", "en": "Obviously, there's a problem." },
+            { "es": "Evidentemente, no estaban preparados.", "en": "Evidently, they weren't prepared." }
+          ]
+        },
+        {
+          "term": "La persona indicada",
+          "description": "Means \"the right person.\" Useful when discussing qualifications and decisions.",
+          "examples": [
+            { "es": "Ella es la persona indicada para el trabajo.", "en": "She is the right person for the job." },
+            { "es": "No soy la persona indicada para responder eso.", "en": "I'm not the right person to answer that." }
+          ]
+        },
+        {
+          "term": "En el fondo",
+          "description": "Means \"deep down.\" Used when talking about someone's true feelings or motivations.",
+          "examples": [
+            { "es": "En el fondo, quiere ayudar.", "en": "Deep down, he wants to help." },
+            { "es": "En el fondo, todos buscamos lo mismo.", "en": "Deep down, we all seek the same thing." }
+          ]
+        },
+        {
+          "term": "¡Qué...!",
+          "description": "Used as an exclamation to emphasize a feeling or opinion. Very common when reacting strongly to an argument or statement.",
+          "examples": [
+            { "es": "¡Qué buena idea!", "en": "What a great idea!" },
+            { "es": "¡Qué injusto!", "en": "How unfair!" },
+            { "es": "¡Qué verdad!", "en": "How true!" }
+          ]
+        }
+      ],
+      "quickReference": [
+        { "expression": "Actualmente", "meaning": "Currently", "example": "Actualmente trabajo aquí." },
+        { "expression": "Opinar que", "meaning": "To think that", "example": "Opino que tienes razón." },
+        { "expression": "De modo que", "meaning": "Therefore / So", "example": "Llegó tarde, de modo que perdió la reunión." },
+        { "expression": "Por una parte... y por otra...", "meaning": "On one hand... on the other...", "example": "Por una parte es útil..." },
+        { "expression": "Además", "meaning": "In addition", "example": "Además, es barato." },
+        { "expression": "Es más", "meaning": "What's more", "example": "Es más, es gratuito." },
+        { "expression": "Por si fuera poco", "meaning": "To make matters worse", "example": "Por si fuera poco, llovió." },
+        { "expression": "Por el contrario", "meaning": "On the contrary", "example": "Por el contrario, mejoró." },
+        { "expression": "Bien", "meaning": "Well then", "example": "Bien, continuemos." },
+        { "expression": "En primer lugar", "meaning": "First of all", "example": "En primer lugar, escúchame." },
+        { "expression": "Ni", "meaning": "Neither / Nor", "example": "Ni café ni té." },
+        { "expression": "Despedir", "meaning": "To fire / say goodbye", "example": "Despidieron a varios empleados." },
+        { "expression": "Por cierto", "meaning": "By the way", "example": "Por cierto, una pregunta." },
+        { "expression": "Creerse", "meaning": "To think oneself", "example": "Se cree superior." },
+        { "expression": "Que digamos", "meaning": "Exactly / Particularly", "example": "No es amable que digamos." },
+        { "expression": "No obstante", "meaning": "Nevertheless", "example": "No obstante, continuó." },
+        { "expression": "Faltar", "meaning": "To be lacking", "example": "Falta información." },
+        { "expression": "Evidentemente", "meaning": "Evidently", "example": "Evidentemente, hay un problema." },
+        { "expression": "La persona indicada", "meaning": "The right person", "example": "Es la persona indicada." },
+        { "expression": "En el fondo", "meaning": "Deep down", "example": "En el fondo, quiere ayudar." },
+        { "expression": "¡Qué...!", "meaning": "What a...! / How...!", "example": "¡Qué buena idea!" }
+      ]
+    }
   }
 }
