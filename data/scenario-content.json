@@ -2202,5 +2202,238 @@
         { "expression": "¡Qué...!", "meaning": "What a...! / How...!", "example": "¡Qué buena idea!" }
       ]
     }
+  },
+  "telling-a-story-about-yourself": {
+    "conversation": {
+      "title": "Talking About a Past Experience",
+      "lines": [
+        { "speaker": "Ana", "es": "¿Alguna vez has tenido una experiencia difícil?", "en": "Have you ever had a difficult experience?" },
+        { "speaker": "Carlos", "es": "Sí. Hace unos años tuve un accidente de coche.", "en": "Yes. A few years ago I had a car accident." },
+        { "speaker": "Ana", "es": "¿En serio? ¿Qué pasó?", "en": "Really? What happened?" },
+        { "speaker": "Carlos", "es": "Iba al trabajo cuando, de repente, otro coche apareció delante de mí.", "en": "I was going to work when, suddenly, another car appeared in front of me." },
+        { "speaker": "Ana", "es": "¡Qué miedo!", "en": "How scary!" },
+        { "speaker": "Carlos", "es": "Sí. No pude evitar el accidente y me rompí la pierna.", "en": "Yes. I couldn't avoid the accident and I broke my leg." },
+        { "speaker": "Ana", "es": "Lo siento mucho.", "en": "I'm very sorry." },
+        { "speaker": "Carlos", "es": "Lo peor fue que estuve solo en el hospital durante un rato.", "en": "The worst part was that I was alone in the hospital for a while." },
+        { "speaker": "Ana", "es": "¿Y cómo te sentías?", "en": "And how did you feel?" },
+        { "speaker": "Carlos", "es": "Me sentía preocupado, pero seguí siendo optimista.", "en": "I felt worried, but I remained optimistic." },
+        { "speaker": "Ana", "es": "¿Cuándo te diste cuenta de que todo iba a estar bien?", "en": "When did you realize everything was going to be okay?" },
+        { "speaker": "Carlos", "es": "Por fin me di cuenta cuando los médicos me dijeron que me recuperaría completamente.", "en": "I finally realized it when the doctors told me I would recover completely." },
+        { "speaker": "Ana", "es": "Qué bueno.", "en": "That's great." },
+        { "speaker": "Carlos", "es": "Sí. De todos modos, aprendí mucho de esa experiencia.", "en": "Anyway, I learned a lot from that experience." }
+      ]
+    },
+    "phraseSections": [
+      {
+        "id": "talking-about-past-events",
+        "title": "Talking About Past Events",
+        "phrases": [
+          { "es": "Ayer fui al cine.", "en": "Yesterday I went to the movies." },
+          { "es": "Cuando era niño, jugaba al fútbol.", "en": "When I was a child, I played soccer." },
+          { "es": "Tuve una experiencia interesante.", "en": "I had an interesting experience." },
+          { "es": "De repente, ocurrió algo extraño.", "en": "Suddenly, something strange happened." },
+          { "es": "Por fin llegué a casa.", "en": "I finally arrived home." },
+          { "es": "Me di cuenta de mi error.", "en": "I realized my mistake." },
+          { "es": "Seguí adelante.", "en": "I kept going." },
+          { "es": "Lo peor fue la espera.", "en": "The worst part was the wait." }
+        ]
+      }
+    ],
+    "usefulExpressions": {
+      "title": "Useful Expressions for Storytelling",
+      "expressions": [
+        {
+          "term": "Preterite (Pretérito Indefinido)",
+          "description": "Used for completed actions, specific events, and actions that moved the story forward.",
+          "examples": [
+            { "es": "Tuve un accidente.", "en": "I had an accident." },
+            { "es": "Llegué tarde.", "en": "I arrived late." },
+            { "es": "Me rompí la pierna.", "en": "I broke my leg." },
+            { "es": "Me di cuenta del problema.", "en": "I realized the problem." }
+          ]
+        },
+        {
+          "term": "Imperfect (Pretérito Imperfecto)",
+          "description": "Used for descriptions, ongoing actions, background information, and feelings/conditions.",
+          "examples": [
+            { "es": "Iba al trabajo.", "en": "I was going to work." },
+            { "es": "Me sentía nervioso.", "en": "I felt nervous." },
+            { "es": "Era un día lluvioso.", "en": "It was a rainy day." },
+            { "es": "Había mucho tráfico.", "en": "There was a lot of traffic." }
+          ]
+        },
+        {
+          "term": "Preterite vs. Imperfect",
+          "description": "The background action uses the imperfect. The completed event uses the preterite.",
+          "examples": [
+            { "es": "Conducía al trabajo cuando vi el accidente.", "en": "I was driving to work when I saw the accident." }
+          ]
+        },
+        {
+          "term": "Querer",
+          "description": "Means \"to want.\" In the imperfect it expresses a desire; in the preterite it often suggests an attempt.",
+          "examples": [
+            { "es": "Quería salir.", "en": "I wanted to leave. (imperfect)" },
+            { "es": "Quise salir, pero no pude.", "en": "I tried to leave, but I couldn't. (preterite)" }
+          ]
+        },
+        {
+          "term": "Saber",
+          "description": "Means \"to know.\" In the imperfect it means knowing something; in the preterite it often means \"found out.\"",
+          "examples": [
+            { "es": "Sabía la respuesta.", "en": "I knew the answer. (imperfect)" },
+            { "es": "Supe la verdad ayer.", "en": "I found out the truth yesterday. (preterite)" }
+          ]
+        },
+        {
+          "term": "Poder",
+          "description": "Means \"to be able to.\" In the imperfect it expresses general ability; in the preterite it often means \"managed to\" or \"succeeded in.\"",
+          "examples": [
+            { "es": "Podía correr.", "en": "I was able to run. (imperfect)" },
+            { "es": "Pude terminar el proyecto.", "en": "I managed to finish the project. (preterite)" }
+          ]
+        },
+        {
+          "term": "Tener",
+          "description": "Means \"to have.\" Used frequently in storytelling.",
+          "examples": [
+            { "es": "Tenía mucho tiempo.", "en": "I had a lot of time. (imperfect)" },
+            { "es": "Tuve una idea.", "en": "I had an idea. (preterite)" }
+          ]
+        },
+        {
+          "term": "Entender",
+          "description": "Means \"to understand.\" The preterite emphasizes the moment understanding occurred.",
+          "examples": [
+            { "es": "Entendía el problema.", "en": "I understood the problem. (imperfect)" },
+            { "es": "Entendí lo que pasó.", "en": "I understood / realized what happened. (preterite)" }
+          ]
+        },
+        {
+          "term": "Romperse la pierna",
+          "description": "Means \"to break one's leg.\"",
+          "examples": [
+            { "es": "Me rompí la pierna jugando al fútbol.", "en": "I broke my leg playing soccer." },
+            { "es": "Se rompió la pierna en un accidente.", "en": "He broke his leg in an accident." }
+          ]
+        },
+        {
+          "term": "Coche / Carro",
+          "description": "Both mean \"car.\" Coche is more common in Spain; carro is more common in many Latin American countries.",
+          "examples": [
+            { "es": "Mi coche es nuevo.", "en": "My car is new." },
+            { "es": "Su carro es rojo.", "en": "His car is red." }
+          ]
+        },
+        {
+          "term": "Solo",
+          "description": "Means \"alone\" or \"only.\"",
+          "examples": [
+            { "es": "Estaba solo.", "en": "I was alone." },
+            { "es": "Solo quería ayudar.", "en": "I only wanted to help." }
+          ]
+        },
+        {
+          "term": "Sin embargo",
+          "description": "Means \"however.\"",
+          "examples": [
+            { "es": "Estaba cansado. Sin embargo, seguí trabajando.", "en": "I was tired. However, I kept working." },
+            { "es": "Era difícil; sin embargo, lo logré.", "en": "It was difficult; however, I achieved it." }
+          ]
+        },
+        {
+          "term": "Lo peor",
+          "description": "Means \"the worst part.\"",
+          "examples": [
+            { "es": "Lo peor fue esperar.", "en": "The worst part was waiting." },
+            { "es": "Lo peor ocurrió después.", "en": "The worst happened afterward." }
+          ]
+        },
+        {
+          "term": "Un rato",
+          "description": "Means \"a while.\"",
+          "examples": [
+            { "es": "Esperé un rato.", "en": "I waited for a while." },
+            { "es": "Hablamos un rato.", "en": "We talked for a while." }
+          ]
+        },
+        {
+          "term": "De repente",
+          "description": "Means \"suddenly.\" Very common in storytelling.",
+          "examples": [
+            { "es": "De repente, empezó a llover.", "en": "Suddenly, it started raining." },
+            { "es": "De repente, escuché un ruido.", "en": "Suddenly, I heard a noise." }
+          ]
+        },
+        {
+          "term": "Sentirse",
+          "description": "Means \"to feel.\" Often used with the imperfect to describe emotions.",
+          "examples": [
+            { "es": "Me sentía feliz.", "en": "I felt happy." },
+            { "es": "Se sentía nervioso.", "en": "He felt nervous." }
+          ]
+        },
+        {
+          "term": "Seguir",
+          "description": "Means \"to continue\" or \"to keep doing.\"",
+          "examples": [
+            { "es": "Seguí caminando.", "en": "I kept walking." },
+            { "es": "Seguimos hablando.", "en": "We continued talking." }
+          ]
+        },
+        {
+          "term": "Darse cuenta de",
+          "description": "Means \"to realize.\" Usually appears in the preterite because it describes a moment of realization.",
+          "examples": [
+            { "es": "Me di cuenta del error.", "en": "I realized the mistake." },
+            { "es": "¿Cuándo te diste cuenta?", "en": "When did you realize it?" }
+          ]
+        },
+        {
+          "term": "Es tarde",
+          "description": "Means \"it's late.\" Useful in stories involving time pressure.",
+          "examples": [
+            { "es": "Miré el reloj y pensé: \"Es tarde\".", "en": "I looked at the clock and thought, \"It's late.\"" },
+            { "es": "Era tarde cuando llegué.", "en": "It was late when I arrived." }
+          ]
+        },
+        {
+          "term": "Por fin",
+          "description": "Means \"finally\" or \"at last.\"",
+          "examples": [
+            { "es": "Por fin llegué.", "en": "I finally arrived." },
+            { "es": "Por fin terminó la reunión.", "en": "The meeting finally ended." }
+          ]
+        },
+        {
+          "term": "De todos modos",
+          "description": "Means \"anyway.\" Often used when reflecting on a past experience.",
+          "examples": [
+            { "es": "Fue difícil. De todos modos, lo intenté.", "en": "It was difficult. Anyway, I tried." },
+            { "es": "No estaba seguro. De todos modos, fui.", "en": "I wasn't sure. Anyway, I went." }
+          ]
+        }
+      ],
+      "quickReference": [
+        { "expression": "Querer", "meaning": "To want", "example": "Quería ayudar." },
+        { "expression": "Saber", "meaning": "To know / find out", "example": "Supe la verdad." },
+        { "expression": "Poder", "meaning": "To be able to", "example": "Pude terminarlo." },
+        { "expression": "Tener", "meaning": "To have", "example": "Tuve un problema." },
+        { "expression": "Entender", "meaning": "To understand", "example": "Entendí lo que pasó." },
+        { "expression": "Romperse la pierna", "meaning": "To break one's leg", "example": "Me rompí la pierna." },
+        { "expression": "Coche / Carro", "meaning": "Car", "example": "Mi coche es azul." },
+        { "expression": "Solo", "meaning": "Alone / Only", "example": "Estaba solo." },
+        { "expression": "Sin embargo", "meaning": "However", "example": "Sin embargo, seguí." },
+        { "expression": "Lo peor", "meaning": "The worst part", "example": "Lo peor fue esperar." },
+        { "expression": "Un rato", "meaning": "A while", "example": "Esperé un rato." },
+        { "expression": "De repente", "meaning": "Suddenly", "example": "De repente, llovió." },
+        { "expression": "Sentirse", "meaning": "To feel", "example": "Me sentía nervioso." },
+        { "expression": "Seguir", "meaning": "To continue", "example": "Seguí trabajando." },
+        { "expression": "Darse cuenta de", "meaning": "To realize", "example": "Me di cuenta del error." },
+        { "expression": "Es tarde", "meaning": "It's late", "example": "Es tarde." },
+        { "expression": "Por fin", "meaning": "Finally", "example": "Por fin llegué." },
+        { "expression": "De todos modos", "meaning": "Anyway", "example": "De todos modos, fui." }
+      ]
+    }
   }
 }
