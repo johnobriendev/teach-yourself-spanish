@@ -1258,5 +1258,179 @@
         { "expression": "Con razón", "meaning": "No wonder", "example": "Con razón está feliz." }
       ]
     }
+  },
+  "expressing-a-desire": {
+    "conversation": {
+      "title": "Talking About Future Plans",
+      "lines": [
+        { "speaker": "Ana", "es": "¿Qué quieres hacer después de graduarte?", "en": "What do you want to do after graduating?" },
+        { "speaker": "Carlos", "es": "Quiero solicitar una beca para estudiar en España.", "en": "I want to apply for a scholarship to study in Spain." },
+        { "speaker": "Ana", "es": "¡Qué buena idea! ¿Ya empezaste la solicitud?", "en": "What a great idea! Have you started the application yet?" },
+        { "speaker": "Carlos", "es": "Sí. Estoy llenando el formulario ahora mismo.", "en": "Yes. I'm filling out the form right now." },
+        { "speaker": "Ana", "es": "Lo importante es revisar todo con cuidado.", "en": "The important thing is to review everything carefully." },
+        { "speaker": "Carlos", "es": "Sí, quiero asegurarme de que no haya errores.", "en": "Yes, I want to make sure there are no mistakes." },
+        { "speaker": "Ana", "es": "¿Y cuándo vas a aplicar?", "en": "And when are you going to apply?" },
+        { "speaker": "Carlos", "es": "La próxima semana.", "en": "Next week." },
+        { "speaker": "Ana", "es": "¿Crees que valdrá la pena?", "en": "Do you think it will be worth it?" },
+        { "speaker": "Carlos", "es": "Claro. Incluso si es difícil, quiero intentarlo.", "en": "Of course. Even if it's difficult, I want to try." },
+        { "speaker": "Ana", "es": "Tendrás que ir y venir muchas veces para los trámites.", "en": "You'll have to go back and forth many times for the paperwork." },
+        { "speaker": "Carlos", "es": "Sí, pero de todas formas quiero hacerlo.", "en": "Yes, but I want to do it anyway." },
+        { "speaker": "Ana", "es": "Bueno, espero que te acepten.", "en": "Well, I hope they accept you." },
+        { "speaker": "Carlos", "es": "Gracias. Estoy muy motivado.", "en": "Thank you. I'm very motivated." }
+      ]
+    },
+    "phraseSections": [
+      {
+        "id": "desires-goals",
+        "title": "Expressing Desires and Goals",
+        "phrases": [
+          { "es": "Quiero aprender español.", "en": "I want to learn Spanish." },
+          { "es": "Quisiera estudiar en el extranjero.", "en": "I would like to study abroad." },
+          { "es": "Tengo ganas de viajar.", "en": "I feel like traveling." },
+          { "es": "Espero conseguir ese trabajo.", "en": "I hope to get that job." },
+          { "es": "Mi meta es abrir un negocio.", "en": "My goal is to open a business." },
+          { "es": "Quiero mejorar mis habilidades.", "en": "I want to improve my skills." },
+          { "es": "Sueño con vivir en otro país.", "en": "I dream of living in another country." },
+          { "es": "Me gustaría intentarlo.", "en": "I would like to try it." },
+          { "es": "Vale la pena intentarlo.", "en": "It's worth trying." },
+          { "es": "Lo importante es no rendirse.", "en": "The important thing is not to give up." }
+        ]
+      },
+      {
+        "id": "applications",
+        "title": "Talking About Applications and Requests",
+        "phrases": [
+          { "es": "Voy a aplicar para una beca.", "en": "I'm going to apply for a scholarship." },
+          { "es": "Presenté una solicitud.", "en": "I submitted an application." },
+          { "es": "Necesito llenar un formulario.", "en": "I need to fill out a form." },
+          { "es": "¿Ya completaste la aplicación?", "en": "Have you completed the application?" },
+          { "es": "Quiero solicitar un puesto.", "en": "I want to apply for a position." },
+          { "es": "Estoy reuniendo los documentos.", "en": "I'm gathering the documents." },
+          { "es": "Debo asegurarme de que todo esté correcto.", "en": "I must make sure everything is correct." },
+          { "es": "Incluso tengo cartas de recomendación.", "en": "I even have recommendation letters." }
+        ]
+      }
+    ],
+    "usefulExpressions": {
+      "title": "Useful Expressions for Expressing Desires",
+      "expressions": [
+        {
+          "term": "Ponerse",
+          "description": "Can mean \"to become\" or \"to put on.\" When discussing goals and desires, it often means \"to become\" or \"to start.\"",
+          "examples": [
+            { "es": "Quiero ponerme en forma.", "en": "I want to get in shape." },
+            { "es": "Se puso muy feliz.", "en": "He became very happy." },
+            { "es": "Voy a ponerme a estudiar.", "en": "I'm going to start studying." }
+          ],
+          "note": "Useful when talking about personal goals and self-improvement."
+        },
+        {
+          "term": "Lo importante",
+          "description": "Means \"the important thing.\"",
+          "examples": [
+            { "es": "Lo importante es intentarlo.", "en": "The important thing is to try." },
+            { "es": "Lo importante es aprender.", "en": "The important thing is to learn." },
+            { "es": "Lo importante es no rendirse.", "en": "The important thing is not to give up." }
+          ],
+          "note": "Frequently used when discussing priorities and goals."
+        },
+        {
+          "term": "Ir y venir",
+          "description": "Means \"to come and go\" or \"to go back and forth.\"",
+          "examples": [
+            { "es": "Tengo que ir y venir entre dos ciudades.", "en": "I have to go back and forth between two cities." },
+            { "es": "Paso el día yendo y viniendo.", "en": "I spend the day coming and going." }
+          ],
+          "note": "Often used when describing efforts required to achieve a goal."
+        },
+        {
+          "term": "Incluyendo",
+          "description": "Means \"including.\"",
+          "examples": [
+            { "es": "Necesito varios documentos, incluyendo mi pasaporte.", "en": "I need several documents, including my passport." },
+            { "es": "Todo está incluido, incluyendo el alojamiento.", "en": "Everything is included, including lodging." }
+          ],
+          "note": "Used when listing requirements or details."
+        },
+        {
+          "term": "Formulario",
+          "description": "Means \"form.\"",
+          "examples": [
+            { "es": "Debes completar el formulario.", "en": "You must complete the form." },
+            { "es": "¿Dónde está el formulario?", "en": "Where is the form?" }
+          ],
+          "note": "Common when applying for jobs, schools, visas, and programs."
+        },
+        {
+          "term": "De todas formas",
+          "description": "Means \"anyway\" or \"in any case.\"",
+          "examples": [
+            { "es": "Es difícil, pero lo intentaré de todas formas.", "en": "It's difficult, but I'll try anyway." },
+            { "es": "No estoy seguro, pero iré de todas formas.", "en": "I'm not sure, but I'll go anyway." }
+          ],
+          "note": "Used to express determination."
+        },
+        {
+          "term": "Solicitud",
+          "description": "Means \"application\" or \"request.\"",
+          "examples": [
+            { "es": "Envié mi solicitud ayer.", "en": "I sent my application yesterday." },
+            { "es": "La solicitud fue aceptada.", "en": "The application was accepted." }
+          ],
+          "note": "Very common in formal situations."
+        },
+        {
+          "term": "Aplicación",
+          "description": "Means \"application.\"",
+          "examples": [
+            { "es": "La aplicación está completa.", "en": "The application is complete." },
+            { "es": "Estoy revisando mi aplicación.", "en": "I'm reviewing my application." }
+          ],
+          "note": "In many countries, solicitud is often preferred for formal applications, while aplicación can also mean a software app."
+        },
+        {
+          "term": "Aplicar",
+          "description": "Means \"to apply.\"",
+          "examples": [
+            { "es": "Voy a aplicar para una beca.", "en": "I'm going to apply for a scholarship." },
+            { "es": "Quiere aplicar para ese trabajo.", "en": "He wants to apply for that job." }
+          ],
+          "note": "In some regions, speakers may prefer solicitar or presentar una solicitud in formal contexts."
+        },
+        {
+          "term": "Valer la pena",
+          "description": "Means \"to be worth it.\"",
+          "examples": [
+            { "es": "Vale la pena estudiar.", "en": "Studying is worth it." },
+            { "es": "¿Crees que vale la pena?", "en": "Do you think it's worth it?" },
+            { "es": "Sí, definitivamente vale la pena.", "en": "Yes, it's definitely worth it." }
+          ],
+          "note": "A common expression when evaluating goals and efforts."
+        },
+        {
+          "term": "Asegurarse de",
+          "description": "Means \"to make sure.\"",
+          "examples": [
+            { "es": "Quiero asegurarme de que todo esté correcto.", "en": "I want to make sure everything is correct." },
+            { "es": "Asegúrate de enviar el formulario.", "en": "Make sure to send the form." },
+            { "es": "Debemos asegurarnos de llegar a tiempo.", "en": "We must make sure to arrive on time." }
+          ],
+          "note": "Very useful when planning and preparing for something important."
+        }
+      ],
+      "quickReference": [
+        { "expression": "Ponerse", "meaning": "To become / to start", "example": "Quiero ponerme en forma." },
+        { "expression": "Lo importante", "meaning": "The important thing", "example": "Lo importante es aprender." },
+        { "expression": "Ir y venir", "meaning": "To go back and forth", "example": "Tengo que ir y venir." },
+        { "expression": "Incluyendo", "meaning": "Including", "example": "Incluyendo mi pasaporte." },
+        { "expression": "Formulario", "meaning": "Form", "example": "Completa el formulario." },
+        { "expression": "De todas formas", "meaning": "Anyway", "example": "Lo haré de todas formas." },
+        { "expression": "Solicitud", "meaning": "Application / Request", "example": "Envié mi solicitud." },
+        { "expression": "Aplicación", "meaning": "Application", "example": "Mi aplicación está lista." },
+        { "expression": "Aplicar", "meaning": "To apply", "example": "Voy a aplicar para una beca." },
+        { "expression": "Valer la pena", "meaning": "To be worth it", "example": "Vale la pena intentarlo." },
+        { "expression": "Asegurarse de", "meaning": "To make sure", "example": "Quiero asegurarme de eso." }
+      ]
+    }
   }
 }
