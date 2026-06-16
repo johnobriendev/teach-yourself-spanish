@@ -1772,5 +1772,169 @@
         { "expression": "Contar", "meaning": "To tell / count / rely on", "example": "Cuéntame qué pasó." }
       ]
     }
+  },
+  "talking-about-the-future": {
+    "conversation": {
+      "title": "Discussing Future Goals",
+      "lines": [
+        { "speaker": "Sofía", "es": "¿Qué planes tienes para el futuro?", "en": "What plans do you have for the future?" },
+        { "speaker": "Diego", "es": "Voy a terminar mis estudios y luego voy a buscar trabajo.", "en": "I'm going to finish my studies and then I'm going to look for a job." },
+        { "speaker": "Sofía", "es": "¿Cuál es tu meta principal?", "en": "What is your main goal?" },
+        { "speaker": "Diego", "es": "Mi meta es llegar a ser ingeniero.", "en": "My goal is to become an engineer." },
+        { "speaker": "Sofía", "es": "¡Qué interesante! ¿Cómo vas a lograrlo?", "en": "How interesting! How are you going to achieve it?" },
+        { "speaker": "Diego", "es": "Voy a estudiar mucho para alcanzar mis objetivos.", "en": "I'm going to study hard to achieve my goals." },
+        { "speaker": "Sofía", "es": "Eso suena bien.", "en": "That sounds good." },
+        { "speaker": "Diego", "es": "Quiero empezar cuanto antes.", "en": "I want to start as soon as possible." },
+        { "speaker": "Sofía", "es": "¿Por qué es tan importante para ti?", "en": "Why is it so important to you?" },
+        { "speaker": "Diego", "es": "Porque quiero tener más oportunidades en el futuro.", "en": "Because I want to have more opportunities in the future." },
+        { "speaker": "Sofía", "es": "Estoy segura de que lo vas a lograr.", "en": "I'm sure you're going to achieve it." },
+        { "speaker": "Diego", "es": "Gracias. También quiero viajar por varios países algún día.", "en": "Thank you. I also want to travel through several countries someday." },
+        { "speaker": "Sofía", "es": "¡Ojalá que sí!", "en": "I hope so!" }
+      ]
+    },
+    "phraseSections": [
+      {
+        "id": "talking-about-future-plans",
+        "title": "Talking About Future Plans",
+        "phrases": [
+          { "es": "Voy a estudiar.", "en": "I'm going to study." },
+          { "es": "Voy a trabajar.", "en": "I'm going to work." },
+          { "es": "Voy a viajar.", "en": "I'm going to travel." },
+          { "es": "Voy a aprender español.", "en": "I'm going to learn Spanish." },
+          { "es": "Tengo muchos planes para el futuro.", "en": "I have many plans for the future." },
+          { "es": "Quiero empezar cuanto antes.", "en": "I want to start as soon as possible." },
+          { "es": "Espero lograrlo.", "en": "I hope to achieve it." },
+          { "es": "Estoy pensando en mudarme.", "en": "I'm thinking about moving." },
+          { "es": "Mi meta es ayudar a otras personas.", "en": "My goal is to help other people." }
+        ]
+      },
+      {
+        "id": "talking-about-goals-and-dreams",
+        "title": "Talking About Goals and Dreams",
+        "phrases": [
+          { "es": "Mi meta es ser médico.", "en": "My goal is to be a doctor." },
+          { "es": "Quiero llegar a ser profesor.", "en": "I want to become a teacher." },
+          { "es": "Espero alcanzar mis objetivos.", "en": "I hope to reach my goals." },
+          { "es": "Voy a trabajar duro.", "en": "I'm going to work hard." },
+          { "es": "Quiero mejorar mis habilidades.", "en": "I want to improve my skills." },
+          { "es": "Sueño con viajar por el mundo.", "en": "I dream of traveling around the world." },
+          { "es": "Espero tener éxito.", "en": "I hope to be successful." },
+          { "es": "Voy a intentarlo.", "en": "I'm going to try." }
+        ]
+      }
+    ],
+    "usefulExpressions": {
+      "title": "Useful Expressions for Talking About the Future",
+      "expressions": [
+        {
+          "term": "El futuro",
+          "description": "Means \"the future.\"",
+          "examples": [
+            { "es": "Pienso mucho en el futuro.", "en": "I think a lot about the future." },
+            { "es": "Tengo planes para el futuro.", "en": "I have plans for the future." },
+            { "es": "¿Qué quieres hacer en el futuro?", "en": "What do you want to do in the future?" }
+          ]
+        },
+        {
+          "term": "Voy a + Infinitive",
+          "description": "One of the most common ways to talk about future actions. Structure: ir + a + infinitive.",
+          "examples": [
+            { "es": "Voy a estudiar.", "en": "I'm going to study." },
+            { "es": "Voy a viajar.", "en": "I'm going to travel." },
+            { "es": "Voy a buscar trabajo.", "en": "I'm going to look for a job." }
+          ],
+          "note": "Pattern: voy a comer, voy a aprender, voy a trabajar."
+        },
+        {
+          "term": "Meta",
+          "description": "Means \"goal.\" Useful when discussing future plans and ambitions.",
+          "examples": [
+            { "es": "Mi meta es aprender español.", "en": "My goal is to learn Spanish." },
+            { "es": "Tengo una meta muy importante.", "en": "I have a very important goal." }
+          ]
+        },
+        {
+          "term": "Alcanzar",
+          "description": "Means \"to reach\" or \"to achieve.\"",
+          "examples": [
+            { "es": "Quiero alcanzar mis objetivos.", "en": "I want to achieve my goals." },
+            { "es": "Trabaja duro para alcanzar el éxito.", "en": "He works hard to achieve success." }
+          ]
+        },
+        {
+          "term": "Lograr",
+          "description": "Means \"to achieve,\" \"to accomplish,\" or \"to succeed in.\" Similar to alcanzar, but often emphasizes successful completion.",
+          "examples": [
+            { "es": "Espero lograrlo.", "en": "I hope to achieve it." },
+            { "es": "Logró terminar el proyecto.", "en": "She succeeded in finishing the project." },
+            { "es": "Voy a lograr mis metas.", "en": "I'm going to achieve my goals." }
+          ]
+        },
+        {
+          "term": "Llegar a ser",
+          "description": "Means \"to become.\" Often used when talking about long-term ambitions.",
+          "examples": [
+            { "es": "Quiero llegar a ser médico.", "en": "I want to become a doctor." },
+            { "es": "Llegó a ser una gran artista.", "en": "She became a great artist." }
+          ]
+        },
+        {
+          "term": "Cuanto antes",
+          "description": "Means \"as soon as possible.\" Useful when discussing plans and deadlines.",
+          "examples": [
+            { "es": "Quiero empezar cuanto antes.", "en": "I want to start as soon as possible." },
+            { "es": "Debemos terminar esto cuanto antes.", "en": "We should finish this as soon as possible." }
+          ]
+        },
+        {
+          "term": "Por",
+          "description": "One of the most common Spanish prepositions with many meanings, including: through, by, for, because of.",
+          "examples": [
+            { "es": "Voy a viajar por España.", "en": "I'm going to travel through Spain." },
+            { "es": "Gracias por tu ayuda.", "en": "Thanks for your help." },
+            { "es": "Trabajo por dinero.", "en": "I work for money." }
+          ]
+        },
+        {
+          "term": "Porque",
+          "description": "Means \"because.\" Used to explain reasons.",
+          "examples": [
+            { "es": "Estudio porque quiero aprender.", "en": "I study because I want to learn." },
+            { "es": "Voy a ahorrar dinero porque quiero viajar.", "en": "I'm going to save money because I want to travel." }
+          ]
+        },
+        {
+          "term": "Para",
+          "description": "Usually means \"for\" or \"in order to.\"",
+          "examples": [
+            { "es": "Estudio para el examen.", "en": "I study for the exam." },
+            { "es": "Trabajo para ahorrar dinero.", "en": "I work in order to save money." },
+            { "es": "Voy a estudiar para alcanzar mis metas.", "en": "I'm going to study to achieve my goals." }
+          ]
+        },
+        {
+          "term": "Por vs. Para",
+          "description": "Por often explains a reason, cause, or movement. Para often expresses a goal, purpose, or destination.",
+          "examples": [
+            { "es": "Trabajo por dinero.", "en": "I work because of / for money." },
+            { "es": "Trabajo para ganar experiencia.", "en": "I work to gain experience." },
+            { "es": "Gracias por tu ayuda.", "en": "Thanks for your help." },
+            { "es": "Este regalo es para ti.", "en": "This gift is for you." }
+          ]
+        }
+      ],
+      "quickReference": [
+        { "expression": "El futuro", "meaning": "The future", "example": "Pienso en el futuro." },
+        { "expression": "Voy a", "meaning": "I'm going to", "example": "Voy a estudiar." },
+        { "expression": "Meta", "meaning": "Goal", "example": "Mi meta es aprender español." },
+        { "expression": "Alcanzar", "meaning": "To achieve / reach", "example": "Quiero alcanzar mis objetivos." },
+        { "expression": "Lograr", "meaning": "To achieve / accomplish", "example": "Espero lograrlo." },
+        { "expression": "Llegar a ser", "meaning": "To become", "example": "Quiero llegar a ser médico." },
+        { "expression": "Cuanto antes", "meaning": "As soon as possible", "example": "Quiero empezar cuanto antes." },
+        { "expression": "Por", "meaning": "Through / by / because of / for", "example": "Viajo por España." },
+        { "expression": "Porque", "meaning": "Because", "example": "Estudio porque quiero aprender." },
+        { "expression": "Para", "meaning": "For / in order to", "example": "Trabajo para ahorrar dinero." }
+      ]
+    }
   }
 }
