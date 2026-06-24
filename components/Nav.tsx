@@ -136,6 +136,8 @@ export default function Nav() {
               )}
             </div>
 
+            <DesktopLink href="/#contact" label="Contact" current={pathname} />
+
             {/* Conversation dropdown */}
             <div
               className="relative"
@@ -224,6 +226,7 @@ export default function Nav() {
           <MobileLink href="/verbs/regular"   label="Regular Verbs"   current={pathname} />
           <MobileLink href="/verbs/irregular" label="Irregular Verbs" current={pathname} />
           <MobileLink href="/conversation" label="Conversation"      current={pathname} />
+          <MobileLink href="/#contact"    label="Contact"            current={pathname} />
 
         </nav>
       </div>

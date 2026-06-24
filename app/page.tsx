@@ -4,6 +4,7 @@ import johnImage from "@/public/john3.png";
 import Button from "@/components/Button";
 import CalloutBox from "@/components/CalloutBox";
 import TopicCard from "@/components/TopicCard";
+import ContactForm from "@/components/ContactForm";
 
 export const metadata: Metadata = {
   title: "Teach Yourself Spanish — Learn Spanish the right way",
@@ -198,7 +199,25 @@ export default function HomePage() {
         </div>
       </section>
 
-      {/* ── Section 5: Final CTA ─────────────────────────────────────────── */}
+      {/* ── Section 5: Contact ──────────────────────────────────────────── */}
+      <section id="contact" className="py-20 lg:py-32 bg-canvas">
+        <div className="max-w-2xl mx-auto px-4 sm:px-6">
+          <div className="mb-10">
+            <span className="inline-block font-ui text-xs font-medium text-accent uppercase tracking-widest mb-4">
+              Contact
+            </span>
+            <h2 className="font-display text-3xl lg:text-4xl font-bold text-text mb-3">
+              Have a question?
+            </h2>
+            <p className="font-body text-lg text-muted leading-relaxed">
+              Send me a message and I'll get back to you as soon as I can.
+            </p>
+          </div>
+          <ContactForm />
+        </div>
+      </section>
+
+      {/* ── Section 6: Final CTA ─────────────────────────────────────────── */}
       <section className="py-24 lg:py-40 bg-accent-light">
         <div className="max-w-2xl mx-auto px-4 sm:px-6 text-center">
           <h2 className="font-display text-4xl lg:text-5xl font-bold text-text mb-5">
