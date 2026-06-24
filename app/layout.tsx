@@ -38,7 +38,7 @@ export const metadata: Metadata = {
     template: "%s | Teach Yourself Spanish",
   },
   description:
-    "Learn Spanish through long-form reading and the notebook method — no apps, no streaks, just Spanish.",
+    "Study Spanish the right way.",
   openGraph: {
     siteName: "Teach Yourself Spanish",
     images: [{ url: "/og-default.png", width: 1200, height: 630 }],

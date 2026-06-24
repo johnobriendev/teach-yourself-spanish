@@ -8,11 +8,11 @@ import TopicCard from "@/components/TopicCard";
 export const metadata: Metadata = {
   title: "Teach Yourself Spanish — Learn Spanish the right way",
   description:
-    "No apps. No streaks. No gamification. Learn Spanish through reading, understanding, and writing it down.",
+    "Study Spanish the right way.",
   openGraph: {
     title: "Teach Yourself Spanish",
     description:
-      "No apps. No streaks. No gamification. Learn Spanish through reading, understanding, and writing it down.",
+      "Study Spanish the right way.",
   },
 };
 
