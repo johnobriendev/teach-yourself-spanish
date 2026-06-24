@@ -67,7 +67,7 @@ export default function Nav() {
       <header
         className={`fixed top-0 inset-x-0 z-50 transition-all duration-300 ${
           solid
-            ? "bg-base/95 backdrop-blur-sm shadow-sm border-b border-border"
+            ? "bg-canvas/95 backdrop-blur-sm shadow-sm border-b border-border"
             : "bg-transparent"
         }`}
       >
@@ -98,7 +98,7 @@ export default function Nav() {
                 onToggle={() => setOpenDropdown((o) => (o === "verbs" ? null : "verbs"))}
               />
               {openDropdown === "verbs" && (
-                <div className="absolute top-full right-0 mt-2 w-72 bg-base rounded-xl shadow-lg border border-border overflow-hidden">
+                <div className="absolute top-full right-0 mt-2 w-72 bg-canvas rounded-xl shadow-lg border border-border overflow-hidden">
                   <div className="px-4 py-3 border-b border-border">
                     <Link
                       href="/verbs"
@@ -148,7 +148,7 @@ export default function Nav() {
                 onToggle={() => setOpenDropdown((o) => (o === "conversation" ? null : "conversation"))}
               />
               {openDropdown === "conversation" && (
-                <div className="absolute top-full right-0 mt-2 w-80 bg-base rounded-xl shadow-lg border border-border overflow-hidden">
+                <div className="absolute top-full right-0 mt-2 w-80 bg-canvas rounded-xl shadow-lg border border-border overflow-hidden">
                   <div className="px-4 py-3 border-b border-border">
                     <Link
                       href="/conversation"
@@ -202,7 +202,7 @@ export default function Nav() {
 
       {/* ── Mobile full-screen overlay ───────────────────────────────────── */}
       <div
-        className={`fixed inset-0 z-40 bg-base flex flex-col lg:hidden transition-all duration-300 ${
+        className={`fixed inset-0 z-40 bg-canvas flex flex-col lg:hidden transition-all duration-300 ${
           mobileOpen
             ? "opacity-100 pointer-events-auto"
             : "opacity-0 pointer-events-none"

@@ -53,7 +53,7 @@ export default function RootLayout({
       lang="en"
       className={`${playfair.variable} ${lora.variable} ${sourceSerif.variable} ${dmSans.variable} h-full antialiased`}
     >
-      <body className="min-h-full flex flex-col bg-base text-text">
+      <body className="min-h-full flex flex-col bg-canvas text-text">
         <Nav />
         <main className="flex-1">{children}</main>
         <Footer />

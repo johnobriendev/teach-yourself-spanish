@@ -44,7 +44,7 @@ function TenseTable({ rows, label }: { rows: Row[]; label: string }) {
         </thead>
         <tbody>
           {rows.map(({ pronoun, form }, i) => (
-            <tr key={pronoun} className={i % 2 === 0 ? "bg-base" : "bg-surface"}>
+            <tr key={pronoun} className={i % 2 === 0 ? "bg-canvas" : "bg-surface"}>
               <td className="px-4 py-3 font-ui text-muted" lang="es">
                 {pronoun}
               </td>

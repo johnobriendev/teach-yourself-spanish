@@ -25,7 +25,7 @@ export default function ConjugationTable({ tense, data }: ConjugationTableProps)
           {SUBJECTS.map((subject, i) => (
             <tr
               key={subject}
-              className={i % 2 === 0 ? "bg-base" : "bg-surface"}
+              className={i % 2 === 0 ? "bg-canvas" : "bg-surface"}
             >
               <td className="px-4 py-2.5 font-ui text-muted">{subject}</td>
               <td className="px-4 py-2.5 font-body text-text" lang="es">

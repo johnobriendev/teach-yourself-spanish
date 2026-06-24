@@ -21,7 +21,7 @@ export default function VerbCard({ verb }: { verb: Verb }) {
           {verb.type}
         </span>
       </div>
-      <p className="font-body text-muted text-base">{verb.english}</p>
+      <p className="font-body text-text">{verb.english}</p>
     </Link>
   );
 }

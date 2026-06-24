@@ -39,7 +39,7 @@ function VerbTable({ rows, verb }: { rows: VerbRow[]; verb: string }) {
         </thead>
         <tbody>
           {rows.map(({ pronoun, form }, i) => (
-            <tr key={pronoun} className={i % 2 === 0 ? "bg-base" : "bg-surface"}>
+            <tr key={pronoun} className={i % 2 === 0 ? "bg-canvas" : "bg-surface"}>
               <td className="px-4 py-3 font-ui text-muted" lang="es">{pronoun}</td>
               <td className="px-4 py-3 font-body font-medium text-text" lang="es">{form}</td>
             </tr>
@@ -68,7 +68,7 @@ function PairTable({ rows, headers }: { rows: PairRow[]; headers: [string, strin
         </thead>
         <tbody>
           {rows.map(({ left, right }, i) => (
-            <tr key={left} className={i % 2 === 0 ? "bg-base" : "bg-surface"}>
+            <tr key={left} className={i % 2 === 0 ? "bg-canvas" : "bg-surface"}>
               <td className="px-4 py-3 font-body font-medium text-text" lang="es">{left}</td>
               <td className="px-4 py-3 font-body text-text" lang="es">{right}</td>
             </tr>
@@ -218,7 +218,7 @@ export default function RegularVsIrregularPage() {
                   { tense: "Conditional", level: "Low", note: "Uses the same irregular stems as the future" },
                   { tense: "Perfect tenses", level: "Low", note: "Mainly irregular past participles" },
                 ].map(({ tense, level, note }, i) => (
-                  <tr key={tense} className={i % 2 === 0 ? "bg-base" : "bg-surface"}>
+                  <tr key={tense} className={i % 2 === 0 ? "bg-canvas" : "bg-surface"}>
                     <td className="px-4 py-3 font-body font-medium text-text">{tense}</td>
                     <td className="px-4 py-3 font-ui text-muted text-xs">{level}</td>
                     <td className="px-4 py-3 font-body text-text">{note}</td>

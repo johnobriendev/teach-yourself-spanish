@@ -53,7 +53,7 @@ export default function HomePage() {
   return (
     <>
       {/* ── Section 1: Hero ─────────────────────────────────────────────── */}
-      <section className="relative lg:min-h-screen flex items-center bg-base overflow-hidden">
+      <section className="relative lg:min-h-screen flex items-center bg-canvas overflow-hidden">
         {/* Decorative faded Spanish text */}
         <div
           aria-hidden="true"
@@ -119,7 +119,7 @@ export default function HomePage() {
       {/* ── Section 3: About ─────────────────────────────────────────────── */}
       <section
         id="about"
-        className="py-20 lg:py-32 bg-base min-h-[80vh] flex items-center"
+        className="py-20 lg:py-32 bg-canvas min-h-[80vh] flex items-center"
       >
         <div className="w-full max-w-6xl mx-auto px-4 sm:px-6 lg:grid lg:grid-cols-2 lg:gap-16 lg:items-center">
           {/* Text */}
@@ -162,7 +162,7 @@ export default function HomePage() {
 
           {/* Photo */}
           <div className="relative">
-            <div className="rounded-2xl overflow-hidden aspect-4/5 relative bg-base isolate">
+            <div className="rounded-2xl overflow-hidden aspect-4/5 relative bg-canvas isolate">
               <Image
                 src={johnImage}
                 alt="John"

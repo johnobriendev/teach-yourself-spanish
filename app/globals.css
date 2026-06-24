@@ -2,7 +2,7 @@
 
 /* ── Design-system color tokens ─────────────────────────────────────────── */
 @theme {
-  --color-base:         #FAFAF7;
+  --color-canvas:       #FAFAF7;
   --color-surface:      #F2F2EC;
   --color-border:       #E0DFD8;
   --color-text:         #1C1C1A;
@@ -28,7 +28,7 @@ html {
 }
 
 body {
-  background-color: var(--color-base);
+  background-color: var(--color-canvas);
   color: var(--color-text);
   font-family: var(--font-body), Georgia, serif;
 }
